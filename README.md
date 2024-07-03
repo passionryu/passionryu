@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @passionryu
-- 👀 I’m interested in
-- *mobile app developing_android
-- *web developing
+-i'm a Back-End Developer  
+-
 - 
 - 🌱 I’m currently learning ...
-- *python
-- *java
+- *python, flask
+- *java,spring,springboot, spring security, spring data jpa
+- *html, css, javascript
 - 
-- 💞️ I’m looking to collaborate on ...
+- MY project
+- "Kickboard Water Deer Rescue AIOT Service"-2023 11.20-12.21
+- "Student Club HomePage Develope" -2024 06.20~
 - 
 - 📫 How to reach me ...
 -
