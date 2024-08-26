@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm passion_ryu</h1>
 <h3 align="center">A responsible backend developer from Korea</h3>
 
-- 🔭 I’m currently working on **Mental Rescue Team**
+-  I’m currently working on **Mental Rescue Team**
+-                           **KKSC**
 
-- 🌱 I’m currently learning **Java,Spring,Spring Boot,Spring Security,JWT**
+- I’m currently learning **Java,Spring,Spring Boot,Spring Security,JWT**
 
-- 💬 Ask me about **Java,Spring,Spring Boot,Spring Security,JWT**
+-  How to reach me **rsy1225@naver.com**
 
-- 📫 How to reach me **rsy1225@naver.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
