@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm passion_ryu</h1>
 <h3 align="center">A responsible backend developer from Korea</h3>
 
--  I’m currently working on **Mental Rescue Team**
--                           **KKSC**
+-  I’m currently working on **Mental Rescue Team**,**KKSC**
 
 - I’m currently learning **Java,Spring,Spring Boot,Spring Security,JWT**
 
