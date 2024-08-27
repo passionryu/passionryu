@@ -10,11 +10,17 @@
 <br>
 <hr>
 <h3>Things i hava to study more</h3>
+
 -Register
+
 -Login,logout
+
 -Oauth2.0
+
 -JWT
+
 -Board
+
 -Admin Function(CRUD Member Info, 1:1 chating with User-Admin )
 
 <p align="left">
