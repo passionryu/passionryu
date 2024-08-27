@@ -23,6 +23,8 @@
 
 -Admin Function(CRUD Member Info, 1:1 chating with User-Admin )
 
+<br>
+<hr>
 <p align="left">
 </p>
 
