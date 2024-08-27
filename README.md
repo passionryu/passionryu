@@ -7,7 +7,15 @@
 
 -  How to reach me **rsy1225@naver.com**
 
-- My Project
+  <h4>My Project</h4>
+
+"Kickboard Water Deer Rescue AIOT Service"-2023 11.20-12.21
+
+"Serving Robot Action Preview OnePage Web Service Prototype"2024.05.30 ~2024.06.20
+
+"Student Club HomePage Develope" -2024.06.20~2024.08.30
+
+"Mental care AI ChatBot Service"-2024.08.05~
 
 <br>
 <hr>
