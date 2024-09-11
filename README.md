@@ -7,15 +7,23 @@
 
 -  How to reach me **rsy1225@naver.com**
 
-  <h4>My Project</h4>
+  <h2 align="center">Project</h2>
 
-"Automatic 911 Reporting AIOT Application for Electric Scooter Accidents"-2023 11.20-12.21
+"Automatic 911 Reporting AIOT Application for Electric Scooter Accidents"
 
-"Serving Robot Action Preview OnePage Web Service Prototype"2024.05.30 ~2024.06.20
+>-Duration:2023 11.20-12.21
 
-"Programming Student Club HomePage" -2024.06.20~2024.08.30
+"Serving Robot Action Preview OnePage Web Service Prototype"
 
-"Mental care AI ChatBot Service"-2024.08.05~
+>-Duration:2024.05.30 ~2024.06.20
+
+"Programming Student Club HomePage" 
+
+>-Duration:2024.06.20~2024.08.30
+
+"Mental care AI ChatBot Service"
+
+>-Duration:2024.08.05~
 
 <br>
 <hr>
