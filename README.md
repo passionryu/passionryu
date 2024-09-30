@@ -3,7 +3,7 @@
 
 -  I’m currently studing on **"Gachon Univ. Computer Engineering"**
 
-- I’m currently learning **Java,Spring,Spring Boot,Spring Security,JWT**
+- I’m BackEnd developer(Java,Spring)**
 
 -  How to reach me **rsy1225@naver.com**
 
