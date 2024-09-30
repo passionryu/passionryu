@@ -11,7 +11,7 @@
 
 "Automatic 911 Reporting AIOT Application for Electric Scooter Accidents"
 
->-Duration:2023 11.20-12.21
+>-Duration:2023 09.01-12.21
 
 "Serving Robot Action Preview OnePage Web Service Prototype"
 
