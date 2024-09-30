@@ -1,7 +1,7 @@
 <h1 align="center">WellCome!</h1>
 <h3 align="center">A responsible backend developer from Korea</h3>
 
--  I’m currently studing on **"Gachon Univ. Computer Engineering"**
+-  I’m studing on **"Gachon Univ. Computer Engineering (since 2020 ~ )"**
 
 - I’m BackEnd developer(Java,Spring)**
 
