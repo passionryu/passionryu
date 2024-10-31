@@ -1,9 +1,9 @@
 <h1 align="center">WellCome!</h1>
 <h3 align="center">A Diligent_BackEnder</h3>
 
--  I’m studing on **"Gachon Univ. Computer Engineering (since 2020 ~ )"**
+-  I’m studing on "Gachon Univ. Computer Engineering (since 2020 ~ )"
 
-- I’m BackEnd developer(Java,Spring)**
+- I’m BackEnd developer **(Java,Spring)**
 
 -  How to reach me **rsy1225@naver.com**
 
