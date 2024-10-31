@@ -20,10 +20,3 @@
 "Mental care AI ChatBot Service"
 
 >-Duration:2024.08.05~
-
-<br>
-<hr>
-<p align="left">
-</p>
-
-
