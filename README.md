@@ -15,8 +15,8 @@
 "KKSC Student Club Hompage" - Backend Develope(java,Spring)   
 >-Duration:2024.06.20~2024.08.30
 
-"Mental care AI ChatBot Service" - Backend Develope(java,Spring) 
+"AI Mental Care Integrated Service" - Backend Develope(java,Spring) 
 >-Duration:2024.09.05~2024.11.7
 
-"가천 길잡이 Application" - Backend Develope(java,Spring)
+"Gachon.univ Guide Application" - Backend Develope(java,Spring)
 >-Duration:2024.11.14 ~
