@@ -7,7 +7,7 @@
 
 -  How to reach me **rsy1225@naver.com**
 
-  <h2 align="center">Project</h2>
+  <h1 align="center">My_Project</h1>
 
 "Automatic 911 Reporting AIOT Application for Electric Scooter Accidents" - Embeded,HardWare Develope (python,rasberry pi)  
 >-Duration:2023 09.01-12.21
