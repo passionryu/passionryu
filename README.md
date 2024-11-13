@@ -9,14 +9,14 @@
 
   <h2 align="center">Project</h2>
 
-"Automatic 911 Reporting AIOT Application for Electric Scooter Accidents"
-
+"Automatic 911 Reporting AIOT Application for Electric Scooter Accidents" - Embeded,HardWare Develope (python,rasberry pi)  
 >-Duration:2023 09.01-12.21
 
-"Programming Student Club HomePage" 
-
+"KKSC Student Club Hompage" - Backend Develope(java,Spring)   
 >-Duration:2024.06.20~2024.08.30
 
-"Mental care AI ChatBot Service"
+"Mental care AI ChatBot Service" - Backend Develope(java,Spring) 
+>-Duration:2024.09.05~2024.11.7
 
->-Duration:2024.09.05~
+"가천 길잡이 Application" - Backend Develope(java,Spring)
+>-Duration:2024.11.14 ~
