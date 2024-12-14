@@ -1,6 +1,18 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Hello%20World!&animation=&fontColor=ffffff&fontSize=70" />
     </div>
+    
+### 📝 MyInfo
+   Name : SeongYeol.Ryu   
+   Nationality: South Korea   
+Birth : 1999.12.25   
+Position : BackEnd Dev   
+Education : Gachon.Univ (Computer Enginnering)  
+
+   ### ⚠️ 3-line introduction
+1.A person who values growing together rather than personal growth alone.  
+2.A person who adds energy to my team through my own efforts.   
+3.A responsible person who gets the job done no matter what."   
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
