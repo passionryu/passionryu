@@ -31,6 +31,12 @@ KKSC App Develope - Gachon Guide Application
 >-Backend Develope(java,Spring)     
 >-Duration:2025.01.01 ~ ing 
 
+###  Now Studing    
+1. Docker, Kuber
+2. AWS
+3. MSA
+4. TDD,BDD,DDD 
+
   </div> 
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
