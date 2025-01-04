@@ -10,25 +10,26 @@ Position : BackEnd Dev
 Education : Gachon.Univ (Computer Enginnering)  
 Notion Portfolio: https://bald-club-43e.notion.site/Hi-I-m-SeongYeol-Ryu-15c873b4d6888061b832ceaef2620ed3?pvs=4
 
-   ### ⚠️ 3-line introduction
-1.A person who values growing together rather than personal growth alone.  
-2.A person who adds energy to my team through my own efforts.   
-3.A responsible person who gets the job done no matter what."   
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-
-Gachon.univ P_project - Embeded,HardWare Develope (python,rasberry pi)  
+### 📝 Projects   
+Gachon.univ P_project - Embeded,HardWare Develope (python,rasberry pi)  - AI Auto Report Application   
+>-TeamLeader,Embeded Developer(Python,RasberryPi)     
 >-Duration:2023 09.01-12.21
 
-KKSC Web Develope - Backend Develope(java,Spring)   
+KKSC Web&App Project - Backend Develope(java,Spring) - Student Club Web&App       
+>-TeamLeader,Backend Developer (java,Spring)   
 >-Duration:2024.06.20~2024.08.30
 
-Gachon.univ Capstone Design - Backend Develope(java,Spring) 
+Gachon.univ Capstone Design - AI Mentalcare ChatBot Application( Avery )   
+>-TeamLeader,Backend Developer (java,Spring)  
 >-Duration:2024.09.05~2024.11.7
 
-KKSC App Develope - Backend Develope(java,Spring)
->-Duration:2024.11.14 ~
+Personal Web Dev Project - Healing Space Web Service
+>-FullStack Developer(React,Spring)    
+>-Duration:2024.12.15 ~ ing
+
+KKSC App Develope - Gachon Guide Application
+>-Backend Develope(java,Spring)     
+>-Duration:2025.01.01 ~ ing 
 
   </div> 
     </div>
