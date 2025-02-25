@@ -28,11 +28,11 @@ Personal Web Dev Project - Healing Space Web Service
 >-Duration:2024.12.15 ~ ing
 
 WagleWagle Hackatone -Digital Closet Web Service
->-FullStack developer(React,Spring)
+>-FullStack developer(React,Spring)   
 >-Duration:2025.02.21~2025.02.22
 
 Gachon.univ Capstone Design - Book Report Application
->-TeamLeader,Backend Developer (java,spring)
+>-TeamLeader,Backend Developer (java,spring)    
 >-Duration : 2025.03 ~ ing
 
   </div> 
