@@ -27,9 +27,13 @@ Personal Web Dev Project - Healing Space Web Service
 >-FullStack Developer(React,Spring)    
 >-Duration:2024.12.15 ~ ing
 
-KKSC App Develope - Gachon Guide Application
->-Backend Develope(java,Spring)     
->-Duration:2025.01.01 ~ ing 
+WagleWagle Hackatone -Digital Closet Web Service
+>-FullStack developer(React,Spring)
+>-Duration:2025.02.21~2025.02.22
+
+Gachon.univ Capstone Design - Book Report Application
+>-TeamLeader,Backend Developer (java,spring)
+>-Duration : 2025.03 ~ ing
 
   </div> 
     </div>
