@@ -23,9 +23,10 @@ Gachon.univ Capstone Design - AI Mentalcare ChatBot Application( Avery )
 >-TeamLeader,Backend Developer (java,Spring)  
 >-Duration:2024.09.05~2024.11.7
 
-Personal Web Dev Project - Healing Space Web Service
+Personal Web Dev Project - Healing Space Web Service {Deployed to AWS}
 >-FullStack Developer(React,Spring)    
->-Duration:2024.12.15 ~ ing
+>-Develope:2024.12.15 ~ 2025.02.28  
+>-Web Servicing : 2025.03.01 ~
 
 WagleWagle Hackatone -Digital Closet Web Service
 >-FullStack developer(React,Spring)   
