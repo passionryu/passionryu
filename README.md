@@ -12,7 +12,7 @@ Notion Portfolio: https://bald-club-43e.notion.site/Hi-I-m-SeongYeol-Ryu-15c873b
 
 ### 📝 Projects   
 Gachon.univ P_project - Embeded,HardWare Develope (python,rasberry pi)  - AI Auto Report Application   
->-TeamLeader,Embeded Developer(Python,RasberryPi)     
+>-TeamLeader,Embeded Developer(Python,RasberryPi), Planner         
 >-Duration:2023 09.01-12.21
 
 KKSC Web&App Project - Backend Develope(java,Spring) - Student Club Web&App       
@@ -20,11 +20,11 @@ KKSC Web&App Project - Backend Develope(java,Spring) - Student Club Web&App
 >-Duration:2024.06.20~2024.08.30
 
 Gachon.univ Capstone Design - AI Mentalcare ChatBot Application( Avery )   
->-TeamLeader,Backend Developer (java,Spring)  
+>-TeamLeader,Backend Developer (java,Spring), Planner(Figma)    
 >-Duration:2024.09.05~2024.11.7
 
 Personal Web Dev Project - Healing Space Web Service {Deployed to AWS}
->-FullStack Developer(React,Spring,AWS)   
+>-FullStack Developer(React,Spring,AWS)    
 >-Deploy : S3(React), EC2(Spring), RDS(MariaDB), ElastiCach(Redis), S3(Img Storage), etc..    
 >-CI/CD : Github Action   
 >-Develope:2024.12.15 ~ 2025.02.28  
@@ -36,8 +36,8 @@ WagleWagle Hackatone -Digital Closet Web Service
 >-FullStack developer(React,Spring)   
 >-Duration:2025.02.21~2025.02.22
 
-Gachon.univ Capstone Design - Book Report Application
->-TeamLeader,Backend Developer (java,spring)    
+Gachon.univ Capstone Design - Book Report Application (Book Calendar)
+>-TeamLeader,Backend Developer (java,spring), Planner(Figma)    
 >-Duration : 2025.03 ~ ing   
 -Doc(Notion) : https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4       
 -Wireframe(Figma) : https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0     
