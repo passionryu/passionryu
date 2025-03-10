@@ -21,7 +21,8 @@ KKSC Web&App Project - Backend Develope(java,Spring) - Student Club Web&App
 
 Gachon.univ Capstone Design - AI Mentalcare ChatBot Application( Avery )   
 >-TeamLeader,Backend Developer (java,Spring), Planner(Figma)    
->-Duration:2024.09.05~2024.11.7
+>-Duration:2024.09.05~2024.11.7   
+-Wireframe(Figma) : https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0
 
 Personal Web Dev Project - Healing Space Web Service {Deployed to AWS}
 >-FullStack Developer(React,Spring,AWS)    
