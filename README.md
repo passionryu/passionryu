@@ -28,7 +28,7 @@ Personal Web Dev Project - Healing Space Web Service {Deployed to AWS}
 >-Deploy : S3(React), EC2(Spring), RDS(MariaDB), ElastiCach(Redis), S3(Img Storage), etc..    
 >-CI/CD : Github Action   
 >-Develope:2024.12.15 ~ 2025.02.28  
->-Web Servicing & CI/CD : 2025.03.01 ~ ing
+>-Web Servicing & CI/CD : 2025.03.01 ~ ing    
 -URL(AWS) : http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com   
 -Doc(Notion) : 
 
