@@ -24,9 +24,13 @@ Gachon.univ Capstone Design - AI Mentalcare ChatBot Application( Avery )
 >-Duration:2024.09.05~2024.11.7
 
 Personal Web Dev Project - Healing Space Web Service {Deployed to AWS}
->-FullStack Developer(React,Spring)    
+>-FullStack Developer(React,Spring,AWS)   
+>-Deploy : S3(React), EC2(Spring), RDS(MariaDB), ElastiCach(Redis), S3(Img Storage), etc..
+>-CI/CD : Github Action   
 >-Develope:2024.12.15 ~ 2025.02.28  
->-Web Servicing : 2025.03.01 ~
+>-Web Servicing & CI/CD : 2025.03.01 ~ ing
+URL : http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com
+Doc : 
 
 WagleWagle Hackatone -Digital Closet Web Service
 >-FullStack developer(React,Spring)   
@@ -35,6 +39,8 @@ WagleWagle Hackatone -Digital Closet Web Service
 Gachon.univ Capstone Design - Book Report Application
 >-TeamLeader,Backend Developer (java,spring)    
 >-Duration : 2025.03 ~ ing
+Doc : https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4     
+Wireframe(Figma) : https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0  
 
   </div> 
     </div>
