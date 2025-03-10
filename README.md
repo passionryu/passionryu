@@ -30,7 +30,7 @@ Personal Web Dev Project - Healing Space Web Service {Deployed to AWS}
 >-Develope:2024.12.15 ~ 2025.02.28  
 >-Web Servicing & CI/CD : 2025.03.01 ~ ing    
 -URL(AWS) : http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com   
--Doc(Notion) : 
+-Doc(Notion) : https://trusting-porch-03f.notion.site/Healing-Space-Web-Service-163cc75f815480a19e22c765b921c16e?pvs=4  
 
 WagleWagle Hackatone -Digital Closet Web Service
 >-FullStack developer(React,Spring)   
