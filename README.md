@@ -34,7 +34,7 @@ Personal Web Dev Project - 🌿 Healing Space Web Service 🌿 [ Deployed to AWS
 >🔗 **Back-End Repository** : [GitHub](https://github.com/passionryu/Healing-Space-Back)  
 >🔗 **Front-End Repository** : [GitHub](https://github.com/passionryu/Healing-Space-Front)  
 🌍 **URL(AWS)** : [healing-space-front.s3-website.ap-northeast-2.amazonaws.com](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com)  
-📖 **Doc(Notion)** : [Notion](https://trusting-porch-03f.notion.site/Healing-Space-Web-Service-163cc75f815480a19e22c765b921c16e?pvs=4)  
+📖 **Doc(Notion)** : [Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4)  
 
 WagleWagle Hackatone -Digital Closet Web Service
 >-FullStack developer(React,Spring)   
