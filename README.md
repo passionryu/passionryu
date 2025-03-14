@@ -43,7 +43,7 @@ WagleWagle Hackatone -Digital Closet Web Service
 Gachon.univ Capstone Design - Book Report Application (Book Calendar)
 >-TeamLeader,Backend Developer (java,spring), Planner(Figma)    
 >-Duration : 2025.03 ~ ing   
--Doc(Notion) : [Team Notion](https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4) 
+-Doc(Notion) : [Team Notion](https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4)     
 -Wireframe(Figma) : [Service Wireframe](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0)
 
   </div> 
