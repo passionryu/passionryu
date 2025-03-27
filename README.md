@@ -8,7 +8,7 @@
 Birth : 1999.12.25   
 Position : BackEnd Dev   
 Education : Gachon.Univ (Computer Enginnering)  
-Notion Portfolio: https://bald-club-43e.notion.site/Hi-I-m-SeongYeol-Ryu-15c873b4d6888061b832ceaef2620ed3?pvs=4
+Notion Portfolio: https://bald-club-43e.notion.site/1c1873b4d6888028846ecccde85899eb
 
 ### 📝 Projects   
 Gachon.univ P_project - Embeded,HardWare Develope (python,rasberry pi)  - AI Auto Report Application   
