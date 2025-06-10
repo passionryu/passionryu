@@ -8,7 +8,7 @@
 Birth : 1999.12.25   
 Position : BackEnd Dev   
 Education : Gachon.Univ (Computer Enginnering)  
-Notion Portfolio: https://bald-club-43e.notion.site/1c1873b4d6888028846ecccde85899eb
+Notion Portfolio: https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74
 
 ### 📝 Projects   
 Gachon.univ P_project - Embeded,HardWare Develope (python,rasberry pi)  - AI Auto Report Application   
