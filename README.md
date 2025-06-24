@@ -3,9 +3,9 @@
     </div>
     
 ## 🪪 Information
-Name : 류성열  
-Birth : 1999.12.25   
-Position : BackEnd Dev   
+Name : 류성열    
+Birth : 1999.12.25      
+Position : BackEnd Dev      
 
 ## 📜 Url (About Me)
 * 노션 링크 : https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74  
@@ -23,7 +23,7 @@ Position : BackEnd Dev
 
 | Project Name | Service Name | Role & Tech | Duration | Achievements | Links |
 |--------------|--------------|-------------|----------|--------------|-------|
-| Gachon.Univ P_project <br> 개발 대회 | 킥라니 구조대 APP <br> - 쓰러진 킥라니를 구출하라| 팀장<br>  임배디드 개발<br>(Python, Raspberry Pi). <br > 기획  | 2023.09.01 -<br> 2023.12.21 | - 28개 팀 中 1등<br> - 프로젝트 성적 A+ | [Team Repository](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
+| Gachon.Univ P_project <br> 개발 대회 | 킥라니 구조대 APP <br> - 쓰러진 킥라니를 구출하라| 팀장<br>임배디드 개발<br>(Python, Raspberry Pi). <br > 기획  | 2023.09.01 -<br> 2023.12.21 | - 28개 팀 中 1등<br> - 프로젝트 성적 A+ | [Team Repository](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
 | 개발 동아리 <br>자체 웹 서비스 | KKSC <br>Home Page Web |  회원 관리 시스템 개발팀장 <br> 백엔드 개발<br>(Java, Spring) | 2024.06.20 -<br> 2024.08.30 | - 회원 관리 시스템 총괄 | [BE Team Repository](https://github.com/passionryu/StudentClub-WebPage) |
 | Gachon.Univ Capstone <br>Design | AI 멘탈 케어 APP | 팀장<br> 백엔드 개발<br>(Java, Spring, Jpa). <br>기획 <br>(Figma)| 2024.09.05 - <br>2024.11.07 | - 프로젝트 성적 A+ | [Figma](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0) <br>[Team Repository](https://github.com/passionryu/Chat_Bot) |
 | 개인 프로젝트 | Healing <br>Space Web <br> - 온라인 심신 안정 AI 웹 서비스 |  백엔드 개발<br>(Java, Spring, Mybatis, Redis).<br> 프론트 엔드 개발<br>(Js,React). <br>  AWS 배포<br>(Ec2, S3, RDS, CodeDeploy, ElastiCache). <br>  CI/CD<br>(Github Actions) | 2024.12.15 - <br>2025.02.28 <br>(Service: 2025.03.01 ~) | - 풀스택 구현  <br> - 모바일 대응  <br> - AWS CI/CD | [BE Repository](https://github.com/passionryu/Healing-Space-Back) <br> [FE Repository](https://github.com/passionryu/Healing-Space-Front) <br>[Service Link](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) <br>[Notion Page](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
