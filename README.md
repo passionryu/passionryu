@@ -3,12 +3,18 @@
     </div>
     
 ### 📝 MyInfo
-   Name : SeongYeol.Ryu   
-   Nationality: South Korea   
+   Name : 류성열  
 Birth : 1999.12.25   
 Position : BackEnd Dev   
-Education : Gachon.Univ (Computer Enginnering)  
 Notion Portfolio: https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74
+
+## 📚 학력 및 활동
+
+| 기간 | 기관/활동 | 역할/설명 |
+|------|---------|---------|
+| 2020.03 - 2025.06 | 가천대학교  | 컴퓨터공학과 졸업 |
+| 2024.03 - 2025.03 | KKSC 교내 IT 개발 동아리 | 백엔드 개발팀장 <br> 백엔드 스터디 팀장  |
+| 2025.06 - 2025.08 | 멋쟁이 사자처럼 백엔드 심화 부트캠프 | 이수 중 ~ |
 
 ## 📝 Projects
 
