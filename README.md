@@ -14,12 +14,12 @@ Notion Portfolio: https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e9952
 
 | Project Name | Role | Tech Stack | Duration | Links |
 |--------------|------|------------|----------|-------|
-| Gachon P_project | Team Leader, Embedded Developer, Planner | Python, Raspberry Pi | 2023.09.01 - 2023.12.21 | - |
-| KKSC Web&App | Team Leader, Backend Developer | Java, Spring | 2024.06.20 - 2024.08.30 | - |
-| Capstone Design (Avery) | Team Leader, Backend Developer, Planner | Java, Spring, Figma | 2024.09.05 - 2024.11.07 | [Figma](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0) |
-| Healing Space Web Service | FullStack Developer | React, Spring, AWS | 2024.12.15 - 2025.02.28 (Service: 2025.03.01 ~) | [Back](https://github.com/passionryu/Healing-Space-Back), [Front](https://github.com/passionryu/Healing-Space-Front), [Service](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com), [Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
-| WagleWagle Hackathon | FullStack Developer | React, Spring | 2025.02.21 - 2025.02.22 | - |
-| Capstone Design (Book Calendar) | Team Leader, Backend Developer, Planner | Java, Spring, Figma | 2025.03 ~ | [Notion](https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4), [Figma](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0) |
+| Gachon P_project | Team Leader, Embedded Developer, Planner | Python, Raspberry Pi | 2023.09.01 - 2023.12.21 | [Team Repository](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
+| KKSC Web&App | Team Leader, Backend Developer | Java, Spring | 2024.06.20 - 2024.08.30 | [BE Team Repository](https://github.com/passionryu/StudentClub-WebPage) |
+| Capstone Design (Avery) | Team Leader, Backend Developer, Planner | Java, Spring, Figma | 2024.09.05 - 2024.11.07 | [Figma](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0), [Team Repository](https://github.com/passionryu/Chat_Bot) |
+| Healing Space Web Service | FullStack Developer | React, Spring, AWS | 2024.12.15 - 2025.02.28 (Service: 2025.03.01 ~) | [BE Repository](https://github.com/passionryu/Healing-Space-Back), [FE Repository](https://github.com/passionryu/Healing-Space-Front), [Service Web Link](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com), [Notion Page](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
+| WagleWagle Hackathon | FullStack Developer | React, Spring | 2025.02.21 - 2025.02.22 | [BE Repository](https://github.com/passionryu/3rdwagle-team6-back), [FE Repository](https://github.com/passionryu/3rdwagle-team6-front)|
+| Capstone Design (Book Calendar) | Team Leader, Backend Developer, Planner | Java, Spring, Figma | 2025.03 ~ 2025.06| [Notion](https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4), [Figma](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0), [Back](https://github.com/passionryu/BookCalendarServer) |
 
 
   </div> 
