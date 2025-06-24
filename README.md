@@ -2,13 +2,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Hello%20World!&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     
-### 📝 MyInfo
-   Name : 류성열  
+## 🪪 Information
+Name : 류성열  
 Birth : 1999.12.25   
 Position : BackEnd Dev   
-Notion Portfolio: https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74
 
-## 📚 학력 및 활동
+## 📜Notion Protfolio
+노션 링크 : https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74
+
+## 🎓 Education
 
 | 기간 | 기관/활동 | 역할/설명 |
 |------|---------|---------|
@@ -16,7 +18,7 @@ Notion Portfolio: https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e9952
 | 2024.03 - 2025.03 | KKSC 교내 IT 개발 동아리 | 백엔드 개발팀장 <br> 백엔드 스터디 팀장  |
 | 2025.06 - 2025.08 | 멋쟁이 사자처럼 백엔드 심화 부트캠프 | 이수 중 ~ |
 
-## 📝 Projects
+## 💻 Projects
 
 | Project Name | Service Name | Role & Tech | Duration | Achievements | Links |
 |--------------|--------------|-------------|----------|--------------|-------|
