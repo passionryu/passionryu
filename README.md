@@ -1,14 +1,14 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Problem%20Solver&animation=&fontColor=ffffff&fontSize=70" />
     </div>
-    
+
 ## 🪪 Information
 Name : 류성열    
 Birth : 1999.12.25      
-Position : BackEnd Dev      
+Position : BackEnd Dev
 
 ## 📜 Url (About Me)
-* 노션 링크 : https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74  
+* 노션 링크 : https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74
 * Velog 링크 : https://velog.io/@rsy991225/series
 
 ## 🎓 Education
@@ -20,18 +20,19 @@ Position : BackEnd Dev
 | 2025.06 - 2025.08 | [멋쟁이 사자처럼] - 백엔드 단기 심화 부트캠프 | 교육 중 ~ |
 ## 💻 Projects
 
-| Project Name | Service Name | Role & Tech | Duration | Achievements | Links |
-|--------------|--------------|-------------|----------|--------------|-------|
-| Gachon.Univ P_project <br> 개발 대회 |  킥라니 구조대 APP <br> - 쓰러진 킥라니를 구출하라| 팀장<br>임배디드 개발<br>(Python, Raspberry Pi). <br > 서비스 기획  | 2023.09.01 -<br> 2023.12.21 |  - 프로젝트 성적 A+ <br>- 28개 팀 中 1등| [팀 저장소](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
-| 개발 동아리 <br>자체 웹 서비스 | KKSC <br>Home Page Web |  회원 관리 시스템 개발팀장 <br> 백엔드 개발<br>(Java, Spring) | 2024.06.20 -<br> 2024.08.30 | - 회원 관리 시스템 총괄 | [BE 팀 저장소](https://github.com/passionryu/StudentClub-WebPage) |
-| Gachon.Univ Capstone <br>Design | AI 멘탈 케어 APP <br> - AI 멘탈케어 종합 서비스| 팀장<br> 백엔드 개발<br>(Java, Spring, Jpa). <br>서비스 기획 <br>(Figma)| 2024.09.05 - <br>2024.11.07 | - 프로젝트 성적 A+ | [화면 설계서](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0) <br>[팀 저장소](https://github.com/passionryu/Chat_Bot) |
-| 개인 프로젝트 | Healing <br>Space Web <br> - 온라인 심신 안정 AI 웹 서비스 |  백엔드 개발<br>(Java, Spring, Mybatis, Redis).<br> Web 개발<br>(Js,React). <br>  AWS 배포<br>(Ec2, S3, RDS, CodeDeploy, ElastiCache). <br>  CI/CD<br>(Github Actions) | 2024.12.15 - <br>2025.02.28 <br>(Service: 2025.03.01 ~) | - 풀스택 구현  <br> - 모바일 대응  <br> - AWS CI/CD | [BE 저장소](https://github.com/passionryu/Healing-Space-Back) <br> [FE 저장소](https://github.com/passionryu/Healing-Space-Front) <br>[서비스 링크](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) <br>[서비스 소개](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
-| Google<br> Developer<br> Club 해커톤 | 디지털 옷장 Web | 풀스택 개발<br>(Spring, Jpa, Redis, React) | 2025.02.21 - <br>2025.02.22 | - 8개 팀 中 3등 | [BE 저장소](https://github.com/passionryu/3rdwagle-team6-back) <br> [FE 저장소](https://github.com/passionryu/3rdwagle-team6-front) |
-| Gachon.Univ Capstone <br> Design | 북 캘린더 App <br> - AI가 독서의 깊이를 더하다 | 팀장<br> 백엔드 개발 <br> (Java, Spring, Nginx, Podman, Jpa, Redis).<br>  온프레미스 서버 배포 <br> (Onpremise Server).<br> CI/CD <br>(Github Actions).<br> 서비스 기획<br>(Figma) | 2025.03.01 - <br>2025.06.08 | - 프로젝트 성적 A+ <br> - Redis 캐시 적용 <br> (응답속도 98.5% 개선) <br> - AI 서버 장애 자동<br> 대응 시스템 구축 <br> (Redis를 활용한 최적화) <br> - 온프레미스 서버 CI/CD | [팀 노션](https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4) <br>[화면 설계서](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0)<br>[BE 저장소](https://github.com/passionryu/BookCalendarServer) |
-| 개인 프로젝트 | Song For You <br> - AI 음악 매니저와 함께하는 나만의 노래 찾기 | 서비스 기획 <br> (Figma) <br> Web 개발 <br>(Tsx, React) <br> 백엔드 개발 <br> (Java, Spring, Docker, Jpa, MariaDB, Redis) <br> AWS <br> (기획 중) <br> CI/CD <br> (Github Actions)| 2025.06.20 - <br> 진행 중| - | [FE 저장소](https://github.com/passionryu/SongForYou-UserWeb) <br> [BE 저장소](https://github.com/passionryu/SongForYou) |
+| Project Name <br>Service Name | Role & Tech | Duration | Achievements | Links |
+|-----------------------------|-------------|----------|--------------|-------|
+|**Gachon.Univ <br> P_project 개발 대회** <br><br>*킥라니 구조대 APP <br>- 쓰러진 킥라니를 <br>구출하라* | 팀장<br>임배디드 개발<br>(Python, Raspberry Pi). <br>서비스 기획 | 2023.09.01 -<br>2023.12.21 | - 프로젝트 성적 A+ <br>- 28개 팀 中 1등 | [팀 저장소](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
+| **개발 동아리 <br>자체 웹 서비스 **<br><br>*KKSC Home Page Web*| 회원 관리 시스템 개발팀장 <br>백엔드 개발<br>(Java, Spring) | 2024.06.20 -<br>2024.08.30 | - 회원 관리 시스템 총괄 | [BE 팀 저장소](https://github.com/passionryu/StudentClub-WebPage) |
+| **Gachon.Univ <br>Capstone Design** <br><br>*AI 멘탈 케어 APP<br>- AI 멘탈케어 종합 서비스* | 팀장<br>백엔드 개발<br>(Java, Spring, Jpa) <br>서비스 기획 (Figma) | 2024.09.05 -<br>2024.11.07 | - 프로젝트 성적 A+ | [화면 설계서](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0) <br>[팀 저장소](https://github.com/passionryu/Chat_Bot) |
+| **개인 프로젝트** <br><br>*Healing Space Web <br>- 온라인 심신 안정 <br>AI 웹 서비스* | 백엔드 개발<br>(Java, Spring, Mybatis, Redis) <br>Web 개발(Js, React) <br>AWS 배포<br>(Ec2, S3, RDS, CodeDeploy, ElastiCache) <br>CI/CD(Github Actions) | 2024.12.15 -<br>2025.02.28 <br>(운영중...🚀) | - 풀스택 구현 <br> - 모바일 대응 <br> - AWS CI/CD | [BE 저장소](https://github.com/passionryu/Healing-Space-Back) <br>[FE 저장소](https://github.com/passionryu/Healing-Space-Front) <br>[서비스 링크](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) <br>[서비스 소개](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
+| **Google Developer <br>Club 해커톤** <br><br>*디지털 옷장 Web* | 풀스택 개발<br>(Spring, Jpa, Redis, React) | 2025.02.21 -<br>2025.02.22 | - 8개 팀 中 3등 | [BE 저장소](https://github.com/passionryu/3rdwagle-team6-back) <br>[FE 저장소](https://github.com/passionryu/3rdwagle-team6-front) |
+| **Gachon.Univ <br>Capstone Design** <br><br>*북 캘린더 App <br>- AI가 독서의 깊이를 더하다* | 팀장<br>백엔드 개발<br>(Spring, Nginx, Docker, Jpa, Redis) <br>온프레미스 서버 배포 <br>CI/CD(Github Actions) <br>서비스 기획(Figma) | 2025.03.01 -<br>2025.06.08 | - 프로젝트 성적 A+ <br>- Redis 캐시 적용 <br>(응답속도 98.5% 개선) <br>- AI 서버 장애 자동 <br>대응 시스템 구축 <br>(Redis 기반 최적화) <br>- 온프레미스 서버 CI/CD | [팀 노션](https://www.notion.so/25-1-AI-1a5bc068c52d80d987b7cc07674b0269?pvs=4) <br>[화면 설계서](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0) <br>[BE 저장소](https://github.com/passionryu/BookCalendarServer) |
+| **개인 프로젝트** <br><br>*Song For You <br>- AI 음악 매니저와 함께하는 <br>나만의 노래 찾기* | 서비스 기획(Figma) <br>Web 개발(Tsx, React) <br>백엔드 개발<br>(Spring, Docker, Jpa, MariaDB, Redis) <br>AWS(기획 중) <br>CI/CD(Github Actions) | 2025.06.20 -<br>진행 중 | - | [FE 저장소](https://github.com/passionryu/SongForYou-UserWeb) <br>[BE 저장소](https://github.com/passionryu/SongForYou) |
+
   </div> 
     </div>
-    
+
 
 ## 💼 Tech Stack
 
