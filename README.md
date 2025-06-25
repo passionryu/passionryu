@@ -33,37 +33,88 @@ Position : BackEnd Dev
   </div> 
     </div>
 
+## 🧑‍💻 Back-End Skills
 
-## 💼 Tech Stack
-
-### 🛠️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💻 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **Java**  
+  객체 지향 프로그래밍(OOP)의 대표 언어로, JVM 기반의 안정성과 생산성이 뛰어난 언어입니다.  
+  예외 처리, 컬렉션 프레임워크, 람다, 스트림 API 등 Java의 핵심 개념에 대한 이해를 바탕으로 백엔드 개발에 활용하고 있습니다.
 
-### 🗄️ Database
+- **Spring Boot**  
+  Spring Framework의 설정을 자동화해주는 모듈로, 생산성과 유지보수성이 우수합니다.  
+  의존성 주입(DI), IoC, AOP, Security, JPA 등 주요 기술 스택을 프로젝트에 적용해 본 경험이 있습니다.
+
+- **실무 경험**
+    - 교내 개발 동아리에서 Java/Spring Boot 기초 및 심화 스터디를 **팀장**으로 리드한 경험 보유
+    - Spring Boot 기반 **6회 이상의 웹/앱 개발 프로젝트** 참여
+
+---
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+- 서비스 기획서를 기반으로 **DB 구조 설계 5회 이상** 경험
+- Index, 정규화, OnCascade 등 관계형 데이터 설계의 핵심 개념을 실무에 적용 가능
+- ERD 설계부터 실 배포까지 **전체 플로우** 경험
+
+---
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Infra & DevOps
+- Redis 컨테이너를 **캐싱용과 세션용으로 분리**하여 운영
+- **10개의 API에 캐시 시스템 적용**, 응답 속도 **98.5% 향상**
+- **AI 서버 장애 대응 시스템 구축**
+    - AI 서버 호출을 Redis 기반으로 제어해 **오류 중복 방지 및 트래픽 감소**
+- Redis 기반 **JWT RTR 전략 및 블랙리스트 관리** 구현 경험
+
+---
+
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-005B9F?style=for-the-badge&logo=mybatis&logoColor=white)
+
+- **JPA**
+    - 객체와 테이블 간 매핑을 지원하는 ORM
+    - 총 **4회 이상의 프로젝트에서 JPA 사용**
+    - `@Entity`, `@Repository`, JPQL 등 활용
+
+- **MyBatis**
+    - SQL Mapper 기반 프레임워크
+    - 한 프로젝트에서 **45개 이상의 API**를 직접 구현
+    - 복잡한 쿼리 및 동적 SQL 처리에 강점
+
+- **장단점 이해 및 혼용**
+    - JPA의 자동화 vs MyBatis의 세밀한 제어
+    - 하나의 프로젝트 내에서 두 기술을 **적절히 혼용**한 경험 보유
+
+---
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+- Github Actions를 이용한 **자동 배포 파이프라인 구성**
+- AWS 환경에 **2회**, 온프레미스 서버에 **1회** CI/CD 구축 경험
+
+---
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-F58536?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![ElastiCache](https://img.shields.io/badge/ElastiCache-2DABB1?style=for-the-badge&logo=redis&logoColor=white)
 ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **사용 서비스**: EC2, S3, RDS, ElastiCache, CodeDeploy
+- **개인 웹 서비스 배포 및 운영 경험**
+    - React + Spring Boot + Redis 조합으로 **서비스 전체 구현 및 자동화 배포**
 
+---
+
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+- **가천대학교 전산 서버(CentOS)** 기반 AI 서비스 배포 **2회**
+- Nginx 리버스 프록시를 이용해 **3개의 백엔드 서버와 10개의 컨테이너**를 하나의 포트로 통합 서비스
+- 해당 환경에서 **CI/CD 파이프라인 직접 구성 및 운영**
 
 
