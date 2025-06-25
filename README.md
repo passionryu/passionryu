@@ -39,34 +39,30 @@ Position : BackEnd Dev
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Java**  
-  객체 지향 프로그래밍(OOP)의 대표 언어로, JVM 기반의 안정성과 생산성이 뛰어난 언어입니다.  
-  예외 처리, 컬렉션 프레임워크, 람다, 스트림 API 등 Java의 핵심 개념에 대한 이해를 바탕으로 백엔드 개발에 활용하고 있습니다.
+### *Java & Spring Boot*  
+  Java의 객체 지향 핵심 원칙(OOP)과 Spring Boot의 의존성 주입(DI), IoC 컨테이너, AOP, 빈 생명주기 등 핵심 개념을 이해하고 실무에 적용할 수 있습니다.
+  <br>학부 시절 총 5회의 백엔드 개발 프로젝트에 참여하였고, 개발 동아리에서 Spring Boot 기초 및 심화 스터디를 팀장으로 2회 리드한 경험이 있습니다.
+  <br>또한 가독성 높은 코드 작성과 유지보수가 용이한 구조 설계를 위해 계층 분리와 설계 패턴 도입을 즐깁니다.
 
-- **Spring Boot**  
-  Spring Framework의 설정을 자동화해주는 모듈로, 생산성과 유지보수성이 우수합니다.  
-  의존성 주입(DI), IoC, AOP, Security, JPA 등 주요 기술 스택을 프로젝트에 적용해 본 경험이 있습니다.
-
-- **실무 경험**
-    - 교내 개발 동아리에서 Java/Spring Boot 기초 및 심화 스터디를 **팀장**으로 리드한 경험 보유
-    - Spring Boot 기반 **6회 이상의 웹/앱 개발 프로젝트** 참여
-
+### *Docker*  
+  컨테이너 기반의 경량화된 배포 환경을 구성하고, Docker 및 Docker Compose의 네트워크 연결 구조 및 동작 원리를 명확히 이해하고 있습니다.
+  <br>Spring Boot, Nginx, MariaDB, Redis, Prometheus, Grafana 등 10개의 컨테이너를 Docker Compose로 연동,
+  <br>Linux 기반 온프레미스 서버에 배포 및 운영한 경험이 있으며, 서비스 간 네트워크 구성 및 통합 운영 환경 구축까지 담당한 경험이 있습니다.
+  
 ---
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-- 서비스 기획서를 기반으로 **DB 구조 설계 5회 이상** 경험
+### *MariaDB*
+- 서비스 기획서를 기반으로 **DB 구조 주도적 설계 5회 이상** 경험
 - Index, 정규화, OnCascade 등 관계형 데이터 설계의 핵심 개념을 실무에 적용 가능
-- ERD 설계부터 실 배포까지 **전체 플로우** 경험
 
 ---
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-- Redis 컨테이너를 **캐싱용과 세션용으로 분리**하여 운영
-- **10개의 API에 캐시 시스템 적용**, 응답 속도 **98.5% 향상**
-- **AI 서버 장애 대응 시스템 구축**
-    - AI 서버 호출을 Redis 기반으로 제어해 **오류 중복 방지 및 트래픽 감소**
+### *Redis*
+- Session 용 Redis 컨테이너 & Caching 용 Redis 컨테이너 분할 운영 경험
+- **10개의 API에 캐시 시스템 적용 경험** : 응답 속도 **98.5% 향상**, DB 쿼리 **54% 감소**
+- **Redis 기반 AI 서버 장애 대응 시스템 구축 경험** :  **"오류 중복 보고 방지" 및 "불필요한 트래픽 감소"**
 - Redis 기반 **JWT RTR 전략 및 블랙리스트 관리** 구현 경험
 
 ---
@@ -74,24 +70,22 @@ Position : BackEnd Dev
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-005B9F?style=for-the-badge&logo=mybatis&logoColor=white)
 
-- **JPA**
-    - 객체와 테이블 간 매핑을 지원하는 ORM
-    - 총 **4회 이상의 프로젝트에서 JPA 사용**
-    - `@Entity`, `@Repository`, JPQL 등 활용
+### *JPA*
+* 객체와 테이블 간 매핑을 지원하는 ORM에 대한 이해 
+* 총 **4회의 프로젝트에서 JPA 사용**한 경험
 
-- **MyBatis**
-    - SQL Mapper 기반 프레임워크
-    - 한 프로젝트에서 **45개 이상의 API**를 직접 구현
-    - 복잡한 쿼리 및 동적 SQL 처리에 강점
+### *MyBatis*
+* SQL Mapper 기반 프레임워크에 대한 이해
+* 개인 프로젝트에서 **45개 이상의 API**를 구현한 경험
 
-- **장단점 이해 및 혼용**
-    - JPA의 자동화 vs MyBatis의 세밀한 제어
-    - 하나의 프로젝트 내에서 두 기술을 **적절히 혼용**한 경험 보유
+### *장단점 이해 및 혼용*
+* 프로젝트 경험을 통해 "JPA의 자동화" vs "MyBatis의 세밀한 제어"에 대해 이해
+* 하나의 프로젝트 내에서 두 기술을 **적절히 혼용**가능
 
 ---
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+### *Github Actions*
 - Github Actions를 이용한 **자동 배포 파이프라인 구성**
 - AWS 환경에 **2회**, 온프레미스 서버에 **1회** CI/CD 구축 경험
 
@@ -103,18 +97,15 @@ Position : BackEnd Dev
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![ElastiCache](https://img.shields.io/badge/ElastiCache-2DABB1?style=for-the-badge&logo=redis&logoColor=white)
 ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+### *Public Cloud Deploy*
 - **사용 서비스**: EC2, S3, RDS, ElastiCache, CodeDeploy
-- **개인 웹 서비스 배포 및 운영 경험**
-    - React + Spring Boot + Redis 조합으로 **서비스 전체 구현 및 자동화 배포**
+- **개인 웹 서비스 아키텍쳐 구축 후, 배포&운영 경험** 
 
 ---
 
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-- **가천대학교 전산 서버(CentOS)** 기반 AI 서비스 배포 **2회**
-- Nginx 리버스 프록시를 이용해 **3개의 백엔드 서버와 10개의 컨테이너**를 하나의 포트로 통합 서비스
+### *Private Cloud Deploy*
+- **가천대학교 전산 서버(CentOS)** 에 AI 어플리케이션 **2회 배포** 경험
+- Nginx 리버스 프록시를 이용해 **3개의 백엔드 서버와 10개의 컨테이너**를 하나의 포트로 통합 운영 경험
 - 해당 환경에서 **CI/CD 파이프라인 직접 구성 및 운영**
-
-
