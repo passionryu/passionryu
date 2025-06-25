@@ -8,8 +8,8 @@ Birth : 1999.12.25
 Position : BackEnd Dev
 
 ## 📜 Url (About Me)
-* 노션 링크 : https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74
-* Velog 링크 : https://velog.io/@rsy991225/series
+* 노션 링크 : [Java 학점 C+에서 1년만에 비지니스 임팩트를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
+* Velog 링크 : [1년간 250개가 넘는 게시글을 작성한 기록&성찰형 백엔드 개발자](https://velog.io/@rsy991225/series)
 
 ## 🎓 Education
 
