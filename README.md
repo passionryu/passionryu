@@ -11,14 +11,18 @@
 
 </div>
 
-## 🪪 Information
-Name : 류성열    
-Birth : 1999.12.25      
-Position : BackEnd Dev
+## 🪪 About ME
+안녕하세요! <br>
+성실한 성장(Velog 기록 & Github 잔디 심기 & 7번의 SW 스터디)을 통해, <br>
+터트릴 수 있는 **"비지니스 임팩트"** 의 크기를 하루하루 발전 시키는 성실한 백엔드 개발자 류성열입니다.
 
-## 📜 Url (About Me)
+
+
+## 📜  Link 
 * **노션 링크** : [JAVA 학점 C+에서 1년만에 "비지니스 임팩트"를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
 * **Velog 링크** : [1년간 250개가 넘는 게시글을 작성한 "기록&성찰형" 백엔드 개발자](https://velog.io/@rsy991225/series)
+* **1차 개인 프로젝트** : [Healing Space - 온라인 심신 안정 AI 웹 서비스](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com)
+* **2차 개인 프로젝트** : [Song For You - AI음악 매니저와 함께하는 음악 추천 웹 서비스](https://v0-song-for-you.vercel.app/)
 
 ## 🎓 Education
 
