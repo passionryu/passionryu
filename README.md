@@ -1,6 +1,15 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Problem%20Solver&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Value%20Creater&animation=&fontColor=ffffff&fontSize=70" />
     </div>
+
+
+<div align="center">
+
+<h3> 비즈니스 임팩트를 통한 가치 창출을 즐기는 백엔드 개발자</h3>
+
+<p><strong>I build real-world value through code and impact.</strong></p>
+
+</div>
 
 ## 🪪 Information
 Name : 류성열    
