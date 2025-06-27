@@ -32,7 +32,7 @@
 | 2024.03 - 2025.03 | 교내 IT 개발 동아리 KKSC | 회원 관리 시스템 백엔드 개발팀장 <br> 백엔드 스터디 팀장 (Java, Spring)  |
 | 2025.06 - 2025.08 | [멋쟁이 사자처럼] - 백엔드 단기 심화 부트캠프 | 교육 중 ~ |
 
-![trophy](https://github-profile-trophy.vercel.app/?username=passionryu)
+
 ![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=passionryu&theme=panda&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionryu&layout=compact&theme=tokyonight)
 
