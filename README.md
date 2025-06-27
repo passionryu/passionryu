@@ -16,6 +16,7 @@
 성실한 성장(Velog 기록 & Github 잔디 심기 & 7번의 SW 스터디)을 통해, <br>
 터트릴 수 있는 **"비지니스 임팩트"** 의 크기를 하루하루 발전 시키는 성실한 백엔드 개발자 류성열입니다.
 
+<br>
 
 ![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=passionryu&theme=panda&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionryu&layout=compact&theme=tokyonight)
