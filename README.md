@@ -33,8 +33,8 @@
 | 2025.06 - 2025.08 | [멋쟁이 사자처럼] - 백엔드 단기 심화 부트캠프 | 교육 중 ~ |
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=passionryu)
-![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wipchan&theme=panda&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipchan&layout=compact&theme=tokyonight)
+![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=passionryu&theme=panda&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionryu&layout=compact&theme=tokyonight)
 
 ## 💻 Projects
 
