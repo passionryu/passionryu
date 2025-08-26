@@ -1,11 +1,11 @@
 <br><div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Value%20Creater&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Loach%20Developer&animation=&fontColor=ffffff&fontSize=70" />
     </div>
 
 
 <div align="center">
 
-<h3> 코딩을 통한 비지니스 임펙트를 간구하는 백엔드 개발자 류성열입니다.</h3>
+<h3> 7번의 리더십 경험을 통해, 나무가 아닌 숲을 보며 성과를 내는 "미꾸라지" 같은 백엔드 개발자 류성열입니다</h3>
 
 <p><strong>I build real-world value through code and impact.</strong></p>
 
@@ -13,7 +13,13 @@
 
 ## 🪪 About ME
 안녕하세요! <br>
-치열한 고민의 결과로 산출된 "비지니스 임팩트"를 통한 가치 창출에 매력을 느끼는 백엔드 개발자 류성열입니다 : )
+7번의 리더십 경험을 통해, 나무가 아닌 숲을 보며 성과를 내는 "미꾸라지" 같은 백엔드 개발자 류성열입니다 :)  
+
+미꾸라지는 바닥을 계속 휘저어 부유물과 썩은 유기물을 섞습니다.   
+이 과정에서 산소가 토양에 잘 공급되고, 뿌리 주변 환경이 건강해져 벼가 잘 자랄 수 있습니다.  
+저의 무기는 "성실함"입니다.  
+성실히 움직이는 미꾸라지같은 개발자가 되어 공동체에 높은 성과를 안기는 개발자가 되겠습니다.  
+
 
 #### 1. 저는 성과를 내는 개발자입니다! <br>
 -> 2020. 가천 AI 페스티벌 17개 팀 中 최우수팀 수상      
