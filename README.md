@@ -7,7 +7,6 @@
 
 <h3> 7번의 리더십 경험을 통해, 나무가 아닌 숲을 보며 성과를 내는 "미꾸라지" 같은 백엔드 개발자 류성열입니다</h3>
 
-<p><strong>I build real-world value through code and impact.</strong></p>
 
 </div>
 
