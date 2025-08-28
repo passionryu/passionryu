@@ -84,7 +84,7 @@ POC 사전 기술 검증 (WebFlux, MongoDB, Valkey),
 캐싱 시스템 구축 (Valkey),    
 세션 서버 자동 장애 대응 (Valkey, Valkey Sentinel, Primary-Replica),    
 PPT 제작 및 발표 (87 Page 제작)
-- **성과** :
+- **성과** :    
 최우수상 수상    
 POC 데이터 기반 기술 검증 (직감이 아닌 데이터 기반 판단)  
 Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인 팀워크 경험  
