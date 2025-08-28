@@ -82,14 +82,14 @@ POC 사전 기술 검증 (WebFlux, MongoDB, Valkey),
 인증 & 인가 시스템 (Spring Security, JWT),   
 보안 시스템 구축 (Replay Attack 방어, Brute Force 방어),   
 캐싱 시스템 구축 (Valkey),    
-세션 서버 자동 장애 대응 (Valkey, Valkey Sentinel, Primary-Replica),    
+세션 서버 자동 장애 대응 시스템 구축(Valkey, Valkey Sentinel, Primary-Replica),    
 PPT 제작 및 발표 (87 Page 제작)
 - **성과** :    
 최우수상 수상    
-POC 데이터 기반 기술 검증 (직감이 아닌 데이터 기반 판단)  
+POC 과정을 통한, 감이 아닌 실제 데이터로 판단    
 Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인 팀워크 경험  
-API 성능 개선 (응답속도 99.2% 개선)   
-문서화를 통한 팀 협력 (Wiki & 팀 노션 활용)
+캐싱 시스템 구축 & 기능 사용법의 문서화를 통해 팀원이 주요 API를 성능 개선 할 수 있도록 도움 (응답속도 99.2% 개선)   
+개발한 내용에 대한 문서화를 통한 팀워크에 기여 (Wiki & 팀 노션 활용)
 - **링크** : [BE 저장소](https://github.com/DungeonTalk/dungeontalk-backend) · [DB 저장소](https://github.com/DungeonTalk/dungeontalk-db)  
 
 ----
