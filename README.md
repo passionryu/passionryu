@@ -91,7 +91,7 @@
 최우수상 수상    
 POC 과정을 통한, 감이 아닌 실제 데이터로 판단    
 Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인 팀워크 경험  
-캐싱 시스템 구축 & 기능 사용법의 문서화를 통해 팀원이 주요 API를 성능 개선 할 수 있도록 도움 (응답속도 99.2% 개선)   
+캐싱 시스템 구축 & 기능 사용법의 문서화를 통해 팀원이 주요 API를 성능 개선 할 수 있도록 기여 (응답속도 99.2% 개선)   
 개발한 내용에 대한 문서화를 통한 팀워크에 기여 (Wiki & 팀 노션 활용)
 - **링크** : [BE 저장소](https://github.com/DungeonTalk/dungeontalk-backend) · [DB 저장소](https://github.com/DungeonTalk/dungeontalk-db)  
 
@@ -107,10 +107,10 @@ Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인
 5. AWS 배포 (Route53을 통한 도메인 등록, Amplify를 통한 FE 배포)  
 - **성과** :    
 3주 스프린트 내 기획/구현/배포 및 에러 대응 완료    
-API 성능 개선 (응답속도 95.7% 개선)    
+캐싱을 통한 API 성능 개선 (응답속도 95.7% 개선)    
 인원 40% 중도 이탈 상황에서 마감 기한 준수      
-중도 이탈한 팀원 코드를 이해한 후 개발 진행 경험    
-출시 후 오류 보고 2시간 만에 임시조치 후 근본 해결  
+중도 이탈한 팀원 코드를 이해한 후 개발 및 리펙토링 진행 경험    
+출시 후 오류 보고 2시간 만에 임시조치 & 팀원들과 함께 하루만에 근본적인 문제 해결    
 - **링크** : [FE 저장소](https://github.com/News-Deliver/Web) · [BE 저장소](https://github.com/News-Deliver/Server) · [발표 영상](https://youtu.be/e8M7uNfBp1c)  
 
 ----
@@ -119,7 +119,7 @@ API 성능 개선 (응답속도 95.7% 개선)
 - **기간** : 2025.03.01 ~ 2025.06.08
 - **역할/기술** :   
 1. 팀장    
-2. 백엔드 개발 (Java, Spring Boot, Spring AI, Nginx, Podman, Podman Compose, JPA, Redis)    
+2. 백엔드 개발 전담 (Java, Spring Boot, Spring AI, Nginx, Podman, Podman Compose, JPA, Redis)    
 3. 온프레미스 서버 배포(Linux)   
 4. CI/CD 파이프 라인 구축(GitHub Actions)    
 5. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
@@ -161,7 +161,7 @@ AWS CI/CD 파이프라인 구축
 - **기간** : 2024.09.05 ~ 2024.11.07
 - **역할/기술** :   
 1. 팀장(주 2회 팀 회의 주최, 매주 PT 발표)    
-2. 백엔드 개발 (Java, Spring Boot, Spring AI, JPA),
+2. 백엔드 개발 전담 (Java, Spring Boot, Spring AI, JPA),
 3. 온프레미스 서버 수동 배포(Linux)
 4. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
 - **성과** : 프로젝트 성적 A+  
