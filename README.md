@@ -115,14 +115,16 @@ Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인
 - **기간** : 2025.03.01 ~ 2025.06.08
 - **역할/기술** :   
 1. 팀장    
-2. 백엔드 개발 전담 (Java, Spring Boot, Spring AI, Nginx, Podman, Podman Compose, JPA, Redis)    
-3. 온프레미스 서버 배포(Linux)   
-4. CI/CD 파이프 라인 구축(GitHub Actions)    
-5. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
+2. 어플리케이션 서버 개발 전담 (Java, Spring Boot, Spring AI, Nginx, Podman, Podman Compose, JPA, Redis)
+3. AI 서버 구축 (Python, Fast-API)
+4. 온프레미스 서버 배포(Linux)   
+5. CI/CD 파이프 라인 구축(GitHub Actions)    
+6. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
 - **성과** :    
 프로젝트 성적 A+   
-API 성능 개선 (응답속도 98.5% 개선)   
-AI 서버 장애 자동 대응 시스템 구축 (Redis 기반)    
+API 성능 개선 (응답속도 98.5% 개선)      
+주력 언어인 Java/Spring Boot를 넘어, Python과 FastAPI를 활용한 AI 서버까지 독립적으로 구축·운영한 경험  
+불안정한 하드웨어 스펙으로 인한 AI 서버의 잦은 장애 발생에 자동으로 대응하는, Redis 기반 자동 대응 시스템 구축    
 온프레미스 서버 CI/CD 구축  
 - **링크** : [서비스 소개](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9?source=copy_link) · [화면 설계서](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0) · [BE 저장소](https://github.com/passionryu/BookCalendarServer)  
 
@@ -131,7 +133,7 @@ AI 서버 장애 자동 대응 시스템 구축 (Redis 기반)
 ### 📌 Google Developer Club 해커톤 – *디지털 옷장 Web*
 - **기간** : 2025.02.21 ~ 2025.02.22
 - **역할/기술** :
-1. 의상 추천 AI 챗봇 백엔드 구현 (Java, Spring Boot, Spring AI, Redis)    
+1. 의상 추천 AI 챗봇 백엔드 로직 구현 (Java, Spring Boot, Spring AI, Redis)    
 2. 로그인, 회원가입 프론트 엔드 구현 및 메인 페이지 UI 개선(React)   
 - **성과** : 8개 팀 中 3등  
 - **링크** : [BE 저장소](https://github.com/passionryu/3rdwagle-team6-back) · [FE 저장소](https://github.com/passionryu/3rdwagle-team6-front)
@@ -157,10 +159,13 @@ AWS CI/CD 파이프라인 구축
 - **기간** : 2024.09.05 ~ 2024.11.07
 - **역할/기술** :   
 1. 팀장(주 2회 팀 회의 주최, 매주 PT 발표)    
-2. 백엔드 개발 전담 (Java, Spring Boot, Spring AI, JPA),
-3. 온프레미스 서버 수동 배포(Linux)
-4. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
-- **성과** : 프로젝트 성적 A+  
+2. 어플리케이션 서버 개발 전담 (Java, Spring Boot, Spring AI, JPA),
+3. AI 서버 구축 (Python, Fast-API)
+4. 온프레미스 서버 수동 배포(Linux)
+5. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
+- **성과** :
+프로젝트 성적 A+    
+주력 언어인 Java/Spring Boot를 넘어, Python과 FastAPI를 활용한 AI 서버까지 독립적으로 구축·운영한 경험
 - **링크** : [화면 설계서](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0) · [팀 저장소](https://github.com/passionryu/Chat_Bot)  
 
 ------
