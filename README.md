@@ -2,36 +2,35 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Team%20First&animation=&fontColor=ffffff&fontSize=70" />
     </div>
 
-<h3> 🌲 숲을 보는 리더십과 팀워크로 성과를 내는 백엔드 개발자, 류성열입니다. </h3>
+<h3> 🌲 7번의 리더십 경험을 통해, 나무가 아닌 숲을 보며 성과를 내는 백엔드 개발자 류성열입니다 </h3>
 
 ---
 
 ## 🪪 About Me
-안녕하세요!  
-저는 **7번의 리더십 경험과 다양한 협업 프로젝트**를 통해, *"나"가 아닌 "우리"*의 성공을 만들어온 백엔드 개발자 류성열입니다.  
+안녕하세요 !     
+Java, Spring 기반의 백엔드 개발자 류성열입니다 :)   
 
-매 프로젝트마다 스스로에게 묻습니다.  
-👉 *"우리가 성공하기 위해, 내가 지금 해야 할 일은 무엇일까?"*  
-
-이 질문에 대한 답은 아래의 성과로 증명합니다.  
+7번의 개발팀 리더 역할을 역임하며 수평, 수직적으로 풍부한 경험을 쌓았습니다.   
+프로젝트 간 문제가 발생할 시 문제 해결 전략을 리더로서 책임감을 가지고 최전선에서 팀원들과 함께 고민했습니다.     
+특히, 캐싱을 통한 성능 개선(3회 경험), 서버 장애 자동 대응 시스템(2회 경험) 구축을 좋아합니다.  
 
 ---
 
 ## 💡 성과 및 강점
 
 ### 1. 성과로 증명된 팀워크
-- 2020. 가천 AI 페스티벌 : **최우수상 (17팀 중 1위)**  
-- 2023. 가천 P-Project : **최우수상 (28팀 중 1위)** / 프로젝트 성적 **A+** / 팀장  
-- 2024. 가천 1차 Capstone : **A+** / 팀장  
-- 2025. GDG 해커톤 : **장려상 (8팀 중)**  
-- 2025. 가천 2차 Capstone : **A+** / 팀장  
-- 2025. 멋쟁이 사자처럼 종합 프로젝트 : **최우수상 / 팀장**
+- 가천 AI-SW 페스티벌 : **최우수상 (17팀 중 1위)**  / IOT 개발자
+- 가천 P-Project : **최우수상 (28팀 중 1위)** / 프로젝트 성적 **A+** / 팀장, 메인 기획자, IOT 개발자   
+- 교내 1차 Capstone Design: **A+** / 팀장, 메인 기획자, BE 개발자   
+- GDG 해커톤 : **장려상 (8팀 중)**  / Full Stack 개발자, 기획자, 
+- 교내 2차 Capstone Design: **A+** / 팀장, 메인 기획자, BE 개발자  
+- 멋쟁이 사자처럼 종합 프로젝트 : **최우수 프로젝트 선정** / BE 개발자
 
 ---
 
 ### 2. 기록과 지식 공유
 - 지난 1년간 **280개 Velog 블로그** 작성  
-- 6회 이상 팀 노션/위키 커스터마이징 제작 및 관리  
+- 6회 이상 팀 노션 커스터마이징 제작 및 관리  
 - 프로젝트 내 **Organization Wiki 문서화**를 통해 팀원 이해도 향상  
 
 ---
@@ -39,21 +38,21 @@
 ### 3. 리더십 & 전체 프로세스 관리
 - 총 **7회 팀장 경험** (프로젝트/스터디)  
 - 기획 → 설계 → 구현 → 배포까지 **엔드투엔드(End-to-End)** 경험  
-- Github Kanban, Daily Scrum, PR Policy 도입을 통해 팀 협업 최적화  
+- Github Kanban, Daily Morning Scrum, PR Policy, Discord Webhock 도입을 통해 최적화 된 팀 협업 경험
 
 ---
 
 ### 4. 발표 및 커뮤니케이션
-- 다수의 실무진, 교수진 앞에서 발표 (Capstone / P-Project / 멋사 프로젝트)  
-- 발표 영상 : [실전 프로젝트 발표](https://youtu.be/e8M7uNfBp1c) / [종합 프로젝트 발표](https://youtu.be/I0_8VHwtSKs)  
+- 다수의 실무진, 교수진 앞에서 발표 5회 (Capstone / P-Project / 멋사 프로젝트)  
+- 발표 영상 : [멋쟁이 사자처럼 1차 프로젝트 발표](https://youtu.be/e8M7uNfBp1c) / [멋쟁이 사자처럼 2차 프로젝트 발표](https://youtu.be/I0_8VHwtSKs)  
 
 ---
 
-### 5. 다양한 기술 스택 경험
-- **Backend** : FastAPI, Node.js(Express), TypeScript  
-- **Frontend** : React, JavaScript, TypeScript  
-- **Infra/DevOps** : AWS (S3, Amplify), Github Actions, On-Premise 배포  
-- **AI 연동** : 다중 모델 관리, 프롬프트 엔지니어링  
+#### 5. 주력 기술에 국한되지 않은 열린 엔지이너링 <br> 
+- 1차 Capstone Design : 2개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 수동 배포    
+- 개인 웹 개발 프로젝트 : JavaScript와 React를 통한 웹 개발 & 서버 연동 후 AWS S3에 Github Actions를 통한 배포     
+- 2차 Capstone Design : 3개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버에 Github Actions를 통한 배포    
+- 멋쟁이 사자처럼 1차 프로젝트 : TypeScript를 통한 웹 개발 & 서버 연동 후 AWS의 Amplify를 통한 배포    
 
 ---
 
