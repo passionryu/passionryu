@@ -49,8 +49,8 @@
 -> 2023. 가천 P-Project : 2명의 임원급 실무진 + 학과장님 앞에서 최종 결과물 PPT 발표    
 -> 2024. 가천 1차 CapStone 디자인 프로젝트 :  2명의 임원급 실무진 + 학과장님 앞에서 최종 결과물 PPT 발표    
 -> 2025. 가천 2차 CapStone 디자인 프로젝트 :  2명의 임원급 실무진 + 학과장님 앞에서 최종 결과물 PPT 발표   
--> 2025. 멋쟁이 사자처럼 실전 프로젝트 : 운영진/교육생 앞에서 최종 결과물 PPT 발표   
--> 2025. 멋쟁이 사자처럼 종합 프로젝트 : 운영진/교육생 + 임원급 실무진들 앞에서 최종 결과물 PPT 발표 
+-> 2025. 멋쟁이 사자처럼 실전 프로젝트 : 운영진/교육생 앞에서 최종 결과물 PPT 발표 -> [발표 영상](https://youtu.be/e8M7uNfBp1c)     
+-> 2025. 멋쟁이 사자처럼 종합 프로젝트 : 운영진/교육생 + 임원급 실무진들 앞에서 최종 결과물 PPT 발표 -> [발표 영상](https://youtu.be/I0_8VHwtSKs)  
 
 #### 5. 저는 주력 언어 & 프레임워크에 국한되지 않은 열린 개발자입니다. <br>
 -> 2024. 1차 Capstone 디자인 프로젝트 : 2개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 수동 배포        
@@ -101,7 +101,8 @@ POC 과정을 통한, 감이 아닌 실제 데이터로 프로젝트의 방향�
 Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인 팀워크 경험  
 캐싱 시스템 구축 & 기능 사용법의 문서화를 통해 팀원이 주요 API를 성능 개선 할 수 있도록 기여 (응답속도 99.2% 개선)   
 개발한 내용에 대한 문서화를 통한 팀워크에 기여 (Wiki & 팀 노션 활용)
-- **링크** : [BE 저장소](https://github.com/DungeonTalk/dungeontalk-backend) · [DB 저장소](https://github.com/DungeonTalk/dungeontalk-db)  
+- **링크** : [BE 저장소](https://github.com/DungeonTalk/dungeontalk-backend) · [DB 저장소](https://github.com/DungeonTalk/dungeontalk-db)  · [발표 영상](https://youtu.be/I0_8VHwtSKs)    
+
 
 ----
 
