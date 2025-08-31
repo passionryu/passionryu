@@ -49,9 +49,9 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 ---
 
 #### 5. 주력 기술에 국한되지 않은 열린 엔지이너링 <br> 
-- 1차 Capstone Design : 2개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 수동 배포    
+- 1차 Capstone Design : 2개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 배포    
 - 개인 웹 개발 프로젝트 : JavaScript와 React를 통한 웹 개발 & 서버 연동 후 AWS S3에 Github Actions를 통한 배포     
-- 2차 Capstone Design : 3개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버에 Github Actions를 통한 배포    
+- 2차 Capstone Design : 3개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 배포    
 - 멋쟁이 사자처럼 1차 프로젝트 : TypeScript를 통한 웹 개발 & 서버 연동 후 AWS의 Amplify를 통한 배포    
 
 ---
