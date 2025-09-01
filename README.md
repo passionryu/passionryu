@@ -20,35 +20,7 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 
 ### 1. 성과로 증명된 팀워크
 - 가천 AI-SW 페스티벌 : **최우수상 (17팀 중 1위)**  / IOT 개발자
-- 가천 P-Project : **최우수상 (28팀 중 1위)** / 프로젝트 성적 **A+** / 팀장, 메인 기획자, IOT 개발자   
-- 교내 1차 Capstone Design: 프로젝트 성적 **A+** / 팀장, 메인 기획자, BE 개발자   
-- GDG 해커톤 : **장려상 (8팀 중)**  / Full Stack 개발자, 기획자, 
-- 교내 2차 Capstone Design: 프로젝트 성적 **A+** / 팀장, 메인 기획자, BE 개발자  
-- 멋쟁이 사자처럼 종합 프로젝트 : **최우수 프로젝트 선정**(프로젝트 성적 92/100) / BE 개발자 
-
----
-
-### 2. 기록과 지식 공유
-- 지난 1년간 **280개 Velog 블로그** 작성  
-- 6회 이상 팀 노션 커스터마이징 제작 및 관리  
-- 프로젝트 내 **Organization Wiki 문서화**를 통해 팀원 이해도 향상  
-
----
-
-### 3. 리더십 & 전체 프로세스 관리
-- 총 **7회 팀장 경험** (프로젝트/스터디)  
-- 개인 Web FullStack 개발 프로젝트를 통한 기획 → 설계 → 구현 → 배포까지 **엔드투엔드(End-to-End)** 경험  
-- Github Kanban, Daily Morning Scrum, PR Policy, Discord Webhock 도입을 통해 최적화 된 팀 협업 경험
-
----
-
-### 4. 발표 및 커뮤니케이션
-- 다수의 실무진, 교수진 앞에서 발표 5회 (Capstone / P-Project / 멋사 프로젝트)  
-- 발표 영상 : [멋쟁이 사자처럼 1차 프로젝트 발표](https://youtu.be/e8M7uNfBp1c) / [멋쟁이 사자처럼 2차 프로젝트 발표](https://youtu.be/I0_8VHwtSKs)  
-
----
-
-#### 5. 주력 기술에 국한되지 않은 열린 엔지이너링 <br> 
+-어링 <br> 
 - 1차 Capstone Design : 2개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 배포    
 - 개인 웹 개발 프로젝트 : JavaScript와 React를 통한 웹 개발 & 서버 연동 후 AWS S3에 Github Actions를 통한 배포     
 - 2차 Capstone Design : 3개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 배포    
