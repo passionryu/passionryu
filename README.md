@@ -37,7 +37,7 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 
 ### 3. 리더십 & 전체 프로세스 관리
 - 총 **7회 팀장 경험** (프로젝트/스터디)  
-- 기획 → 설계 → 구현 → 배포까지 **엔드투엔드(End-to-End)** 경험  
+- 개인 Web FullStack 개발 프로젝트를 통한 기획 → 설계 → 구현 → 배포까지 **엔드투엔드(End-to-End)** 경험  
 - Github Kanban, Daily Morning Scrum, PR Policy, Discord Webhock 도입을 통해 최적화 된 팀 협업 경험
 
 ---
