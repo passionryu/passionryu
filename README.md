@@ -69,8 +69,8 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 
 
 ## 📜  Link 
-* **노션 링크** : [JAVA 학점 C+에서 1년만에 "비지니스 임팩트"를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
-* **Velog 링크** : [1년간 250개가 넘는 게시글을 작성한 "기록&성찰형" 백엔드 개발자](https://velog.io/@rsy991225/series)
+* **노션 링크** : [JAVA, 웹 프로그래밍 학점 C+, DB 학점 C0 에서 1년만에 "비지니스 임팩트"를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
+* **Velog 링크** : [1년간 290개가 넘는 게시글을 작성한 "기록&성찰형" 백엔드 개발자](https://velog.io/@rsy991225/series)
 * **1차 개인 프로젝트** : [Healing Space - 온라인 심신 안정 AI 웹 서비스](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com)
 * **2차 개인 프로젝트** : To Be Continue... :)
 
