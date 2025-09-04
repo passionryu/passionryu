@@ -61,6 +61,10 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 
 ---
 
+## And NOW ...
+- Studing DS & Algorithm
+- Studing CS
+- 추가적으로 장애 대응과 고가용성을 갖춘 효율적 서버 설계를 위한 연구 프로젝트 진행중입니다.
 
 <br>
 
