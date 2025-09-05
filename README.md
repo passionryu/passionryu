@@ -84,7 +84,39 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 | 2025.06 - 2025.08 | [멋쟁이 사자처럼] - 백엔드 단기 심화 부트캠프 | * 수료 <br> 최종 프로젝트 최우수팀 선정 <br> * 실전 프로젝트 <br> 팀장 & 풀스택 개발 및 AWS 배포 <br> * 최종 프로젝트 <br> 인증,인가 & 보안 & 자동 장애 대응 시스템 구축 담당 |
 ## 💻 Projects Experience (최신 순)
 
+### 📌 개인 연구 프로젝트 – *자동 장애 대응 & 고가용성 서버 아키텍처 설계 연구*
+- **기간** : 2025.09.04 ~ 진행중
+- **연구 기술** :  
+1. **Nginx**  
+   (HTTPS, API Rate Limit 정책을 통한 어플리케이션 레이어 진입 전부터 서버 보호, 서버 Health Check 및 장애 감지, Least Connection 정책 기반 트래픽 Load Balancing)
+
+2. **Spring Boot Server**  
+   (DockerFile 최적화를 통한 Server 경량화(현재 30% 경량화 성공), Docker Swarm 과 Prometheus Alert을 통한 서버 Auto Scaling 시스템 구축)   
+
+3. **고가용성과 성능이 보장된 Main DB - PostGre SQL**  
+   (Primary-Replica 구조 → 고가용성 보장, Patroni 기반 장애 자동 대응, Read-Write 정책 분리를 통한 성능 및 안정성 확보)  
+
+4. **HAProxy를 통한 고가용성과 DB레이어에 안정성을 부여하는 RabbitMQ (Quorum Queue)**  
+   (HAProxy → 연결 레벨 Failover 보장, RabbitMQ Quorum Queue → 데이터 복제 및 합의 알고리즘 기반 고가용성 보장, 메시지 큐 시스템을 통한 DB 레이어에 트래픽 안정성 확보)
+ 
+5. **장애 자동 대응 시스템이 적용된 Valkey Session Server**  
+   (Primary-Replica 구조 및 Sentinel 기반 장애 자동 대응 시스템 구축, Read-Write 분리 정책을 통한 성능 보장 및 안정성 확보)     
+
+6. **Sharding을 통한 캐시 성능이 향상된 고가용성이 보장된 Valkey Cache Server**  
+   (Primary-Replica 구조 및 Sharding 기반 성능 향상, HAProxy + Valkey Router → 라우팅 및 고가용성 보장)  
+
+- **성과** :  
+개발자의 개입 없는 자동 장애 대응 시스템 구축   
+하나의 인스턴스가 장애가 발생해도 유저에게 지장 없는 고가용성 확보    
+시스템 아키텍처 레이어에서의 효율성 보장   
+어플리케이션에 들어가기 전 DB/Server에 대한 과부하 방어 DB/Server 사전 보호   
+어플레케이션에 들어와서 DB에 들어가기 전 과부하 방어를 통한 DB 보호   
+- **링크** : [프로젝트 저장소 & Wiki 문서 정리]([https://github.com/passionryu](https://github.com/passionryu/IncidentResponse)) 
+
+-----
+
 ### 📌 멋쟁이 사자처럼 2차 프로젝트 – *Dungeon Talk (AI GM과 함께하는 멀티 플레이 TRPG 게임)*
+
 - **기간** : 2025.08.06 ~ 2025.08.26
 - **역할/기술** :    
 1. POC : 사전 기술 검증 (WebFlux, MongoDB, Valkey),   
