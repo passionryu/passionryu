@@ -111,7 +111,7 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 시스템 아키텍처 레이어에서의 효율성 보장   
 어플리케이션에 들어가기 전 DB/Server에 대한 과부하 방어 DB/Server 사전 보호   
 어플레케이션에 들어와서 DB에 들어가기 전 과부하 방어를 통한 DB 보호   
-- **링크** : [프로젝트 저장소 & Wiki 문서 정리]([https://github.com/passionryu](https://github.com/passionryu/IncidentResponse)) 
+- **링크** : [프로젝트 저장소 & Wiki 문서 정리](https://github.com/passionryu/IncidentResponse) 
 
 -----
 
