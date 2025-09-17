@@ -93,7 +93,7 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 4. Valkey Sentinel : 장애 감지 & Fail-Over 장애 자동 대응 시스템 보장
 5. Lettuce Connection Pool : 장애 전환 속도 최적화 
 
--**저장소 링크** : https://github.com/Research-Project-rsy/SessionServer
+-**저장소 링크** : https://github.com/Research-Project-rsy/SessionServer     
 -**문서화 링크** : https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd?source=copy_link
 
 -----
