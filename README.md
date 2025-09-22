@@ -10,11 +10,11 @@ Java, SpringBoot 기반의 백엔드 개발자 류성열입니다.
 이에 대한 근거는 다음 3가지로 증명하겠습니다.
 
 ## **🌐 첫째. 타 직무 이해도가 높은 "All-Rounder"**    
-학부생 시절 8번의 개발 프로젝트를 통해,   
+학부생 시절 8번의 개발 프로젝트를 통해(총 5번의 개발 리더 경험),   
 PM, 기획자, AI 개발자, Android 개발자, Full-Stack 개발자들과 함께 협업했던 경험이 있습니다.
 
-특히, 학과 프로젝트 일환으로 9개월간 AI 애플리케이션 개발팀의 팀장을 역임하며,  
-실무 개발 프로세스와 유사한 경험을 쌓았습니다. 
+특히, 학과 프로젝트 일환으로 **"9개월간 AI 애플리케이션 개발팀의 팀장"** 을 역임하며,  
+타 직무 개발자들과 활발히 소통하며 그들과 함께 서비스를 설계 및 구현하였습니다.
 
 <details>
 <summary><strong>🦁 멋쟁이 사자처럼 최종 프로젝트 (2025.08.06 ~ 2025.08.26)</strong></summary>
@@ -113,7 +113,7 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 
 
 이외에도 개인 풀스택 개발 프로젝트를 통해, React/Spring Boot 기반의 웹 서비스를 개발 후 Github Actions로 AWS에 배포한 경험을 통해 타 직무에 대한 이해도를 더욱 강화하였습니다.
-다음은 제 개인 프로젝트 "🌿Healing Space🌿"에 대한 자료 정리 입니다.  
+다음은 제 개인 프로젝트 **"🌿Healing Space🌿"** 에 대한 자료 정리 입니다.  
 [BE 저장소](https://github.com/passionryu/Healing-Space-Back) · [FE 저장소](https://github.com/passionryu/Healing-Space-Front) · [서비스 링크](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) · [서비스 소개](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4)  
 
 
