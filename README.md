@@ -32,7 +32,7 @@ Poc, 백엔드 개발, 개발 문서 정리 및 서비스 발표를 통해 팀�
 2. [BE 저장소](https://github.com/News-Deliver/Server)
 3. [서비스 발표 영상](https://youtu.be/e8M7uNfBp1c)  
 4. [프로토타입](https://merry-crepe-479d93.netlify.app/)
-5. [화면 설계서](ttps://www.figma.com/design/b742hXQtI8IqTM3iyirWzR/Untitled?node-id=0-1&p=f&t=BDVVaoSPTOQTkpMc-0)
+5. [화면 설계서](https://www.figma.com/design/b742hXQtI8IqTM3iyirWzR/Untitled?node-id=0-1&p=f&t=BDVVaoSPTOQTkpMc-0)
 
 * ## 3차 학과 AI 애플리케이션 개발 프로젝트 (2025.03.01 ~ 2025.06.08)
 > 2명의 AI 개발자, 안드로이드 개발자, 풀스택 개발자(Node.JS), 백엔드 개발자(Spring Boot)가 참여한 프로젝트입니다.  
