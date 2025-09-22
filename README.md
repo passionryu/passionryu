@@ -121,7 +121,7 @@ Poc, 백엔드 개발, 개발 문서 정리 및 서비스 발표를 통해 팀�
 * **노션 링크** : [JAVA, 웹 프로그래밍 학점 C+, DB 학점 C0 에서 1년만에 "비지니스 임팩트"를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
 * **Velog 링크** : [1년간 290개가 넘는 게시글을 작성한 "기록&성찰형" 백엔드 개발자](https://velog.io/@rsy991225/series)
 * **1차 개인 프로젝트** : [Healing Space - 온라인 심신 안정 AI 웹 서비스](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com)
-* **2차 개인 프로젝트** : To Be Continue... :)
+* **2차 개인 프로젝트** : [Mafia - 인공지능 플레이어와 함께 플레이 하는 마피아 게임](https://v0-mafia-game-ui.vercel.app/)
 
 <br>
 
