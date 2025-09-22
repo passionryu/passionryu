@@ -1,79 +1,60 @@
 <br><div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Problem%20Solver&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=70f0ee&height=180&text=Pro%20Collaborator&animation=&fontColor=ffffff&fontSize=70" />
     </div>
 
-<h3> 7번의 개발팀 리더 역할을 맡으며, 리더로서 문제 해결의 최전선에서 솔루션을 고민해 왔습니다. </h3>
+# 🤝협업에 강한 Pro Collaborator
+안녕하세요 !    
+Java, SpringBoot 기반의 백엔드 개발자 류성열입니다.
 
----
+저는 항상 제 스스로를 **"협업 능력이 강한 개발자"** 라고 소개합니다.   
+이에 대한 근거는 다음 3가지로 증명하겠습니다.
 
-## 🪪 About Me
-안녕하세요 !     
-Java, Spring 기반의 백엔드 개발자 류성열입니다 :)   
+## **🌐 첫째. 5번의 팀장 경험을 통해 타 직무 이해도가 높은 "All-Rounder"**    
+학부생 시절 9개월간의 학과 프로젝트 팀장 경험을 포함하여,  
+총 5번의 개발팀장을 역임하며 얻게 된 풍부한 프로젝트 리드 경험 기반으로,   
+타 직무에 대한 높은 이해도를 가지고 있습니다.  
 
-저의 개발자로서 가장 큰 역량은 문제 해결능력입니다. 
-학부생 시절 풍부한 개발팀 리더 역할을 맡았던 순간들은 "팀의 문제는 곧 나의 문제"라는 큰 부담을 안겨주었지만,    
-그와 동시에 문제 해결 역량을 한단계씩 올려주는 귀중한 경험들 이었습니다.   
-다가올 AI 시대에 더욱 빛이 날 문제 해결자로 하루하루 성장하겠습니다.  
 
----
+| 프로젝트 명 / 역할 / 참여 인원 / 협력한 직무  | (프로젝트 횟수 : 총8번)  |
+|------------|------------|
+| **[ 2023 P-project SW대회 ]**<br>팀장 & IOT 개발 <br> 4명 <br> AI, Android, IOT 협업 | **[ 2024 IT 동아리 프로젝트 ]**<br>BE 3팀장 (회원관리 시스템) & 백엔드 <br> 22명 <br> PM 팀, FE 팀, BE 1~3팀 (총5팀)|
+| **[ 2024 1차 Capstone Design ]**<br>팀장 & 백엔드 <br> 4명 <br> AI(2명), Android 협업 | **[ 2025 GDG-Gachon 해커톤 ]**<br>풀스택 개발 <br> 5명 <br> 기획자, Web(2명), BE 협업 |
+| **[ 2025 2차 Capstone Design ]**<br>팀장 &  백엔드 <br> 5명 <br> AI(2명), Android, 풀스택 협업 | **[ 2025 멋쟁이 사자처럼 1차 프로젝트 ]**<br>팀장 &  풀스택 <br> 3명 <br> BE(2명) 협업 |
+| **[ 2025 멋쟁이 사자처럼 최종 프로젝트 ]**<br>백엔드 개발 <br> 6명 <br> PM, 기획자(2명),  BE(2명) 협업 | **[ 2025년 개인 웹 개발 프로젝트 ]** <br> 풀스택 개발 <br>1명 <br> 개인 프로젝트|
 
-## 💡 성과 및 강점
 
-### 1. 성과로 증명된 팀워크
-- 가천 AI-SW 페스티벌 : **최우수상 (17팀 중 1위)**  / IOT 개발자
-- 가천 P-Project : **최우수상 (28팀 중 1위)** / 프로젝트 성적 **A+** / 팀장, 메인 기획자, IOT 개발자   
-- 교내 1차 Capstone Design: 프로젝트 성적 **A+** / 팀장, 메인 기획자, BE 개발자   
-- GDG 해커톤 : **장려상 (8팀 중)**  / Full Stack 개발자
-- 교내 2차 Capstone Design: 프로젝트 성적 **A+** / 팀장, 메인 기획자, BE 개발자  
-- 멋쟁이 사자처럼 종합 프로젝트 : **최우수 프로젝트 선정**(프로젝트 성적 92/100) / BE 개발자 
 
----
+## **🗣️둘째. 지식을 활발히 안팎으로 흘려보내는 "Well-Communicator"**   
+저는 7번의 개발 스터디 경험 / 5번의 서비스 발표 PT 경험을 통해,   
+**Inside**와 **Outside**로 지식을 공유하는 능력이 뛰어납니다.
 
-### 2. 기록과 지식 공유
-- 지난 1년간 **290개 Velog 블로그** 작성  (작성 기간 : 2024.10 ~2025.09)    
-- 6회 이상 팀 노션 커스터마이징 제작 및 관리  
-- 프로젝트 내 **Organization Wiki 문서화**를 통해 팀원 이해도 향상  
+* **Inside Communication**   
+총 7번의 교,내외 개발 스터디를 통하여 훈련받은 지식 공유 능력을 바탕으로,   
+4학년 때 교내 IT 개발 동아리에서 총 6개월간 스터디 팀장으로 Java/SpringBoot 기반의 개발 스터디를 리드했습니다.      
+또한 11개월간 290편의 Velog 개발 일지를 작성하는 기록 습관과, Wiki에 제 담당 개발 영역에 대한 문서를 기록하며 팀 내 지식 공유에 기여한 경험이 있습니다. 
 
----
+* **Outside Communication**    
+실무진 심사위원 앞에서 총 5번의 PT 발표 경험을 통해, 팀 외 인원들에게 지식을 효율적으로 전달하는 과정을 훈련받았습니다.  
+제안서/기획서/설계서/최종 발표 자료 등의 문서화를 통해,    
+팀 외부의 인원들 또한 빠르게 우리의 서비스에 이해하고 대화 할 수 있도록 유도한 경험이 많습니다.
 
-### 3. 리더십 & 전체 프로세스 관리
-- 총 **7회 팀장 경험** (프로젝트/스터디)  
-- 개인 Web FullStack 개발 프로젝트를 통한 기획 → 설계 → 구현 → 배포까지 **엔드투엔드(End-to-End)** 경험  
-- Github Kanban, Daily Morning Scrum, PR Policy, Discord Webhock 도입을 통해 최적화 된 팀 협업 경험
+## **🛠️셋째. 비즈니스의 흐름을 명확히 보여주는 "Code-Architect"**  
+저는 역할과 책임의 원칙(SRP)에 따라 코드를 관리합니다.   
+특히, Service 클래스의 경우 다음과 같이 관리를 하며 동료들의 서비스 흐름에 대한 이해도를 높이는데 기여합니다.   
+* Service 클래스 -> 비즈니스 흐름 오케스트레이션 
+* Manager 클래스 -> 핵심 비즈니스 로직 구현 
+* Helper/Util 클래스 -> 보조 및 공통 로직 구현    
 
----
-
-### 4. 발표 및 커뮤니케이션
-- 다수의 실무진, 교수진 앞에서 발표 5회 (Capstone / P-Project / 멋사 프로젝트)  
-- 발표 영상 : [멋쟁이 사자처럼 1차 프로젝트 발표](https://youtu.be/e8M7uNfBp1c) / [멋쟁이 사자처럼 2차 프로젝트 발표](https://youtu.be/I0_8VHwtSKs)  
-
----
-
-#### 5. 주력 기술에 국한되지 않은 열린 엔지니어링
-- 1차 Capstone Design : 2개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 배포    
-- 개인 웹 개발 프로젝트 : JavaScript와 React를 통한 웹 개발 & 서버 연동 후 AWS S3에 Github Actions를 통한 배포     
-- 2차 Capstone Design : 3개의 AI 모델을 관리하는 Fast-API 서버 구축 & 온프레미스 서버 배포    
-- 멋쟁이 사자처럼 1차 프로젝트 : TypeScript를 통한 웹 개발 & 서버 연동 후 AWS의 Amplify를 통한 배포    
-
----
-
-### 6. 체력과 열정
-- 2020.12 ~ 2022.06 **대한민국 해병대 2사단 (K9 자주포 사수, 제1265기)** 근무  
-
----
+이러한 관점을 바탕으로, 중도 이탈한 동료의 코드를 개선하여,    
+"Service 클래스의 책임 경량화 (5개 -> 1개)"   
+"Service 클래스 길이 축소 (200줄 -> 40줄)"    
+이라는 결과를 내며, 팀원들의 서비스 흐름 이해에 기여한 경험이 있습니다.  
 
 
 <br>
 
-![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=passionryu&theme=panda&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionryu&layout=compact&theme=tokyonight)
+# 이어지는 내용은 추가적인 정보입니다 : ) 
 
-
-## 📜  Link 
-* **노션 링크** : [JAVA, 웹 프로그래밍 학점 C+, DB 학점 C0 에서 1년만에 "비지니스 임팩트"를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
-* **Velog 링크** : [1년간 290개가 넘는 게시글을 작성한 "기록&성찰형" 백엔드 개발자](https://velog.io/@rsy991225/series)
-* **1차 개인 프로젝트** : [Healing Space - 온라인 심신 안정 AI 웹 서비스](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com)
-* **2차 개인 프로젝트** : To Be Continue... :)
 
 ## 🎓 Education
 
@@ -82,144 +63,15 @@ Java, Spring 기반의 백엔드 개발자 류성열입니다 :)
 | 2020.03 - 2025.06 | 가천대학교  | 컴퓨터공학과 졸업 |
 | 2024.03 - 2025.03 | 교내 IT 개발 동아리 KKSC | 회원 관리 시스템 백엔드 개발팀장 <br> 백엔드 기초 스터디 팀장 (Java, Spring Boot 기초) <br> 백엔드 심화 스터디 팀장 (Spring Boot를 통한 심화 CRUD 학습)   |
 | 2025.06 - 2025.08 | [멋쟁이 사자처럼] - 백엔드 단기 심화 부트캠프 | * 수료 <br> 최종 프로젝트 최우수팀 선정 <br> * 실전 프로젝트 <br> 팀장 & 풀스택 개발 및 AWS 배포 <br> * 최종 프로젝트 <br> 인증,인가 & 보안 & 자동 장애 대응 시스템 구축 담당 |
-## 💻 Projects Experience (최신 순)
+---
 
-### 📌 개인 연구 프로젝트 – *Valkey를 활용한, 안정적인 Session Server 구축*
-- **기간** : 2025.09.17 ~ 진행중
-- **기술**  :
-1. SpringBoot 기반 Application Server - Valkey 기반 Session Server 연동 
-2. Primary-Replica Architecture : 고가용성(HA) 보장
-3. HAProxy & Valkey 인스턴스 Read/Write 권한 분리 : 대규모 Read 트래픽 분산 시스템 
-4. Valkey Sentinel : 장애 감지 & Fail-Over 장애 자동 대응 시스템 보장
-5. Lettuce Connection Pool : 장애 전환 속도 최적화 
+## 📜  Link 
+* **노션 링크** : [JAVA, 웹 프로그래밍 학점 C+, DB 학점 C0 에서 1년만에 "비지니스 임팩트"를 내는 프로젝트 리더로 성장한 백엔드 개발자](https://bald-club-43e.notion.site/1-JAVA-C-208873b4d68880e99526f0cafc47308a?pvs=74)
+* **Velog 링크** : [1년간 290개가 넘는 게시글을 작성한 "기록&성찰형" 백엔드 개발자](https://velog.io/@rsy991225/series)
+* **1차 개인 프로젝트** : [Healing Space - 온라인 심신 안정 AI 웹 서비스](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com)
+* **2차 개인 프로젝트** : To Be Continue... :)
 
--**저장소 링크** : https://github.com/Research-Project-rsy/SessionServer     
--**문서화 링크** : https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd?source=copy_link
+<br>
 
------
-
-### 📌 멋쟁이 사자처럼 2차 프로젝트 – *Dungeon Talk (AI GM과 함께하는 멀티 플레이 TRPG 게임)*
-
-- **기간** : 2025.08.06 ~ 2025.08.26
-- **역할/기술** :    
-1. POC : 사전 기술 검증 (WebFlux, MongoDB, Valkey),   
-2. 인증 & 인가 시스템 (Spring Security, JWT),   
-3. Hacker의 Replay Attack 공격에 대한 보안 시스템 구축   
-(RTR 시스템(JWT), 엑세스 토큰 BlackList(Valkey), HTTPS 적용(Nginx), 도메인 특성에 맞춘 JWT TTL 전략 수립)      
-4. 악성 Bot의 Brute Force 공격에 대한 보안 시스템 구축   
-(공격 Delay 전략(Valkey), 공격자 Cool Down 방어 (Valkey), 공격자 IP 차단 (Nginx, Valkey))      
-5. 캐싱 시스템 구축 (Valkey),    
-6. 세션 서버 자동 장애 대응 시스템 구축(Valkey, Valkey Sentinel, Primary-Replica),    
-7. PPT 제작 및 발표 (87 Page 제작)
-- **성과** :    
-최우수상 수상    
-POC 과정을 통한, 감이 아닌 실제 데이터로 프로젝트의 방향성을 판단     
-Discord WebHock, Github Canvan & Issue, 팀 Notion 등을 활용한 효율적인 팀워크 경험  
-캐싱 시스템 구축 & 기능 사용법의 문서화를 통해 팀원이 주요 API를 성능 개선 할 수 있도록 기여 (응답속도 99.2% 개선)   
-개발한 내용에 대한 문서화를 통한 팀워크에 기여 (Wiki & 팀 노션 활용)
-- **링크** : [BE 저장소](https://github.com/DungeonTalk/dungeontalk-backend) · [DB 저장소](https://github.com/DungeonTalk/dungeontalk-db)  · [발표 영상](https://youtu.be/I0_8VHwtSKs)    
-
-
-----
-
-### 📌 멋쟁이 사자처럼 1차 프로젝트 – *멋쟁이 뉴스 배달부 (내가 원하는 뉴스내가 원하는 시간대에 멋쟁이 뉴스 배달부가 카톡으로 보내드립니다.)*
-- **기간** : 2025.07.07 ~ 2025.07.27
-- **역할/기술** :   
-1. 팀장 (Agile & 데일리 스크럼),   
-2. 서비스 기획 (기획서, 프로토타입),    
-3. 웹 개발 (TSX, React, V0 by Vercel, Cursor),    
-4. 백엔드 개발 (Spring, Docker, Docker Compose, JPA, MySQL, Redis, Elastic Search, Spring Scheduler, Spring Batch),    
-5. AWS 배포 (Route53을 통한 도메인 등록, Amplify를 통한 FE 배포)  
-- **성과** :    
-3주 스프린트 내 기획/구현/배포 및 에러 대응 완료    
-캐싱을 통한 API 성능 개선 (응답속도 95.7% 개선)    
-인원 40% 중도 이탈 상황에서 마감 기한 준수      
-중도 이탈한 팀원 코드를 이해한 후 개발 및 리펙토링 진행 경험    
-출시 후 오류 보고 2시간 만에 임시조치 & 팀원들과 함께 하루만에 근본적인 문제 해결    
-- **링크** : [FE 저장소](https://github.com/News-Deliver/Web) · [BE 저장소](https://github.com/News-Deliver/Server) · [발표 영상](https://youtu.be/e8M7uNfBp1c)  
-
-----
-
-### 📌 Gachon.Univ Capstone Design – *북 캘린더 App (AI가 독서의 깊이를 더하다)*
-- **기간** : 2025.03.01 ~ 2025.06.08
-- **역할/기술** :   
-1. 팀장    
-2. 어플리케이션 서버 개발 전담 (Java, Spring Boot, Spring AI, Nginx, Podman, Podman Compose, JPA, Redis)
-3. AI 서버 구축 (Python, Fast-API)
-4. 온프레미스 서버 배포(Linux)   
-5. CI/CD 파이프 라인 구축(GitHub Actions)    
-6. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
-- **성과** :    
-프로젝트 성적 A+   
-API 성능 개선 (응답속도 98.5% 개선)      
-주력 언어인 Java/Spring Boot를 넘어, Python과 FastAPI를 활용한 AI 서버까지 독립적으로 구축·운영한 경험  
-불안정한 하드웨어 스펙으로 인한 AI 서버의 잦은 장애 발생에 자동으로 대응하는, Redis 기반 자동 대응 시스템 구축    
-온프레미스 서버 CI/CD 구축  
-- **링크** : [서비스 소개](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9?source=copy_link) · [화면 설계서](https://www.figma.com/design/ndspvub92U64eh9J2MDZSV/Untitled?node-id=0-1&p=f&t=kKi8mY0w6a20eyZM-0) · [BE 저장소](https://github.com/passionryu/BookCalendarServer)  
-
------
-
-### 📌 Google Developer Club 해커톤 – *디지털 옷장 Web*
-- **기간** : 2025.02.21 ~ 2025.02.22
-- **역할/기술** :
-1. 의상 추천 AI 챗봇 백엔드 로직 구현 (Java, Spring Boot, Spring AI, Redis)    
-2. 로그인, 회원가입 프론트 엔드 구현 및 메인 페이지 UI 개선(React)   
-- **성과** : 8개 팀 中 3등  
-- **링크** : [BE 저장소](https://github.com/passionryu/3rdwagle-team6-back) · [FE 저장소](https://github.com/passionryu/3rdwagle-team6-front)
-
---------
-
-### 📌 개인 프로젝트 – *Healing Space Web (온라인 심신 안정 AI 웹 서비스)*
-- **기간** : 2024.12.15 ~ 2025.02.28 (운영중 🚀)  
-- **역할/기술** :    
-1. 백엔드 개발 (Java, Spring Boot, Mybatis, Redis),    
-2. 웹 개발 (JS, React),     
-3. AWS 배포 (EC2, S3, RDS, CodeDeploy, ElastiCache),   
-4. CI/CD 파이프 라인 구축 (GitHub Actions)  
-- **성과** :    
-1인 기획& 설계 & 풀스택 구현 경험        
-안드로이드 스튜디오 & media Query를 통한 모바일 대응   
-AWS CI/CD 파이프라인 구축  
-- **링크** : [BE 저장소](https://github.com/passionryu/Healing-Space-Back) · [FE 저장소](https://github.com/passionryu/Healing-Space-Front) · [서비스 링크](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) · [서비스 소개](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4)  
-
-----
-
-### 📌 Gachon.Univ Capstone Design – *AI 멘탈 케어 APP (AI 멘탈케어 종합 서비스)*
-- **기간** : 2024.09.05 ~ 2024.11.07
-- **역할/기술** :   
-1. 팀장(주 2회 팀 회의 주최, 매주 PT 발표)    
-2. 어플리케이션 서버 개발 전담 (Java, Spring Boot, Spring AI, JPA),
-3. AI 서버 구축 (Python, Fast-API)
-4. 온프레미스 서버 수동 배포(Linux)
-5. 서비스 기획 (Figma를 통한 화면 설계서 구현)  
-- **성과** :
-프로젝트 성적 A+    
-주력 언어인 Java/Spring Boot를 넘어, Python과 FastAPI를 활용한 AI 서버까지 독립적으로 구축·운영한 경험
-- **링크** : [화면 설계서](https://www.figma.com/design/N4NhMHsOaF8D7UD4v5BB2k/Untitled?t=kKi8mY0w6a20eyZM-0) · [팀 저장소](https://github.com/passionryu/Chat_Bot)  
-
-------
-
-### 📌 개발 동아리 자체 웹 서비스 – *KKSC Home Page Web*
-- **기간** : 2024.06.20 ~ 2024.08.30
-- **역할/기술** :   
-1. 회원 관리 시스템 개발팀장 (주 2회 팀 회의 주최, PM/FE/BE 2팀/BE 3팀과 소통 )    
-2. 유저 권한 관리 및 인증&인가 시스템 총괄 (Spring Security & JWT)  
-- **성과** : 회원 관리 시스템 총괄  
-- **링크** : [BE 팀 저장소](https://github.com/passionryu/StudentClub-WebPage)  
-
-------
-
-### 📌 Gachon.Univ P_project 개발 대회 – *킥라니 구조대 APP (쓰러진 킥라니를 구출하라)*
-- **기간** : 2023.09.01 ~ 2023.12.21
-- **역할/기술** :   
-1. 팀장,    
-2. 임베디드 개발 (Python, Raspberry Pi),   
-3. 서비스 기획  
-- **성과** : 프로젝트 성적 A+  
-28개 팀 中 1등  
-- **링크** : [팀 저장소](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project)
-
-
-
-  </div> 
-    </div>
+![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=passionryu&theme=panda&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passionryu&layout=compact&theme=tokyonight)
