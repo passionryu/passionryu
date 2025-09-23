@@ -159,7 +159,7 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 * 서버 안정성 연구 프로젝트(개인)
 * Mafia 게임 개발 프로젝트(개인)
 
-## 🖥️서버 안정성 연구 프로젝트   
+## 🖥️ 서버 안정성 연구 프로젝트   
 2025년 여름방학 때, DB 이중화 + 장애 감지 + 자동 Fail-Over 정책을 통한 "장애 자동 대응 시스템"을 연구 후 적용해 봤습니다.   
 하지만 실무자 선배분의 "대규모 트래픽 상황에서는 어떻게 대응할 것인가?"   
 라는 질문에 저는 제대로 답을 하지 못했습니다.  
@@ -170,14 +170,14 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 [NoSQL 기반 Session Server 안정성 보장 연구](https://github.com/orgs/Research-Project-rsy/repositories)     
 [Spring 기반 WAS Server 안정성 보장 연구](https://github.com/Research-Project-rsy/ApplicationServer)    
 
-## 🎮Mafia 게임 개발 프로젝트 
+## 🎮 Mafia 게임 개발 프로젝트 
 Spring MVC에서 벗어나 새로운 기술인 Spring WebFlux를 적용해 보며 개발에 대한 지식을 수평적으로 확장하고자 합니다.  
 특히, WebSocket을 활요한 채팅 기반 게임을 만듦으로서, 실시간 데이터 처리에 대한 지식 또한 확장하고자 합니다.   
 마지막으로, Spring AI를 활용한 인공지능 플레이어를 적용하여 서비스를 완성할 계획입니다.    
 [동적 프로토타입](https://v0-mafia-game-ui.vercel.app/)      
 [Server 저장소](https://github.com/Mafia-MVP-rsy/Server)
 
-# ℹ️이어지는 내용은 추가적인 정보입니다 : ) 
+# ℹ️ 이어지는 내용은 추가적인 정보입니다 : ) 
 
 
 ## 🎓 Education
