@@ -167,8 +167,8 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 실무에서 발생하는 대규모 트래픽에 대한 통계를 기반으로, 대규모 트래픽을 효율적으로 분산/제어하여 Server에 안정성을 보장하는 개인 연구 프로젝트를 진행하게 되었습니다.
 
 [연구 내용을 정리한 Notion 페이지](https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd?source=copy_link)    
-[NoSQL 기반 Session Server 안정성 보장 연구](https://github.com/orgs/Research-Project-rsy/repositories)     
-[Spring 기반 WAS Server 안정성 보장 연구](https://github.com/Research-Project-rsy/ApplicationServer)    
+[NoSQL 기반 Session Server 안정성 보장 연구](https://github.com/Research-Project-rsy/SessionServer)     
+[Spring 기반 WAS Server 안정성 보장 연구](https://github.com/passionryu/IncidentResponse)    
 
 ## 🎮 Mafia 게임 개발 프로젝트 
 Spring MVC에서 벗어나 새로운 기술인 Spring WebFlux를 적용해 보며 개발에 대한 지식을 수평적으로 확장하고자 합니다.  
