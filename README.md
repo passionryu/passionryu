@@ -13,7 +13,7 @@ CQRS 패턴 기반 Primary-Replica 아키텍처와 Sentinel Process, Patroni를 
 하루하루 성장하며 쌓은 SW 능력을 통해, 가치를 창출하는 **Value Creator**가 되겠습니다. 
 
 ----
-
+## 📝 More info about Me
 <details>
 <summary><strong>📂 참여한 프로젝트 (8개)</strong></summary>
 
@@ -196,9 +196,20 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 
 ----
 
-# Education 
+## 🎓 Education 
 * 가천대학교 컴퓨터 공학과 (2020.03~2025.08)
 * 교내 IT 웹/앱 개발 동아리 KKSC (2024.03~2025.01)
 * 멋쟁이 사자처럼 백엔드 심화 단기 교육 과정 (2025.06~2025.08)
+
+---
+## 🛠 Skill Set 
+
+| Category | Skills |
+|----------|--------|
+| **Back-End** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-FF5722?style=for-the-badge) ![MyBatis](https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge) <br> ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Spring Scheduler](https://img.shields.io/badge/Spring%20Scheduler-6DB33F?style=for-the-badge) ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Valkey](https://img.shields.io/badge/Valkey-000000?style=for-the-badge) |
+| **Cloud / DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ElastiCache](https://img.shields.io/badge/ElastiCache-FF9900?style=for-the-badge&logo=redis&logoColor=white) ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white) <br> ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Tools / Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![WRK](https://img.shields.io/badge/WRK-000000?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 
 
