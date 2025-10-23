@@ -1,7 +1,17 @@
-안녕하세요. Java, spring 기반이 백엔드 개발자 류성열입니다.    
-수많은 리더십 경험으로 소통과 협업을 통한 문제 해결 및 조율에 강점을 가지며,   
-동료들이 비즈니스의 흐름을 한눈에 파악하기 쉬게 "읽기 쉬운 코드"설계를 지향합니다.   
+# 류성열 | Backend Developer ☕️
 
+Java와 Spring 기반의 백엔드 개발자로, [개인 서비스 배포](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4)와 5번의 개발팀장 경험을 통해 프로젝트의 End to End 사이클을 완벽히 이해합니다.   
+또한, 안정적이고 신뢰할 수 있는 시스템 운영을 지향하며 On-premise 서버의 장애 상황에 자동으로 대응 시스템 구축 및 LLM의 할루시네이션 문제를 해결한 경험을 보유하고 있습니다. 
+
+최근에는 "자동 장애 대응 시스템 & 대규모 트래픽 대응 시스템" 설계에 관심이 많아     
+CQRS 패턴 기반 Primary-Replica 아키텍처와 Sentinel Process, Patroni를 활용한 장애 대응 프로세스를  ["개인 연구 프로젝트"](https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd?source=copy_link)를 통해 연구하고 있습니다.     
+
+
+
+개발자로서의 성실함을 중요히 여기며, 7번 이상의 개발 스터디 참여와 [300개 이상의 Velog 포스팅](https://velog.io/@rsy991225/posts)  을 통해 성실히 발전하고 있습니다.    
+하루하루 성장하며 쌓은 SW 능력을 통해, 가치를 창출하는 Value Creator가 되겠습니다. 
+
+----
 
 <details>
 <summary><strong>📂 참여한 프로젝트 (8개)</strong></summary>
