@@ -193,6 +193,16 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 
 </details>
 
+<details>
+<summary><strong>🏆 수상 경력</strong></summary>
+
+- 멋쟁이 사자처럼 최우수상 수상 (6팀 중 1등)  
+- Google Developer Group Gachon 해커톤 장려상 수상 (7팀 중 3등)  
+- 가천대학교 P-project SW 경연 대회 최우수상 수상 (28팀 중 1등)  
+- 가천대학교 AI SW 페스티벌 최우수상 (17팀 중 1등)  
+
+</details>
+
 
 ----
 
