@@ -184,7 +184,7 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 
 
 <details>
-<summary><strong>🎬 PT 능력을 증명할 발표 기록</strong></summary>
+<summary><strong>🎬 PT 능력을 증명할 발표 영상</strong></summary>
 
 <ul>
   <li>📽️ <a href="https://youtu.be/I0_8VHwtSKs" target="_blank" rel="noopener noreferrer">PPT 87 page 암기 후, 실무진 앞에서 AI 게임 서비스를 발표하는 영상</a></li>
