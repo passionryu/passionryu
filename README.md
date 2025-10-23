@@ -172,13 +172,32 @@ AI 개발자, 안드로이드 개발자, 2명의 IOT 개발자가 참여한 프�
 
 
 <details>
-<summary><strong>📚 개발 공부 기록</strong></summary>
+<summary><strong>📚 꾸준한 개발 공부 기록</strong></summary>
 
-- [✍️ Velog 개발 블로그](https://velog.io/@rsy991225/posts)  
-- [🚀 대규모 트래픽 개인 연구](https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd?source=copy_link)  
+- [✍️ 300편 이상 작성한 Velog 개발 블로그](https://velog.io/@rsy991225/posts)  
+- [🚀 대규모 트래픽 개인 연구 프로젝트 기록 Notion 페이지](https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd?source=copy_link)  
 - [☁️ AWS 공부 기록](https://held-frigate-d9c.notion.site/AWS-19a54503738d80b0b809d12dc46b5083?source=copy_link)  
-- [💻 PT 기반 CS 스터디](https://github.com/Gachon-CS-Study/CS-Study)
+- [💻 전공생들과 함께 한 PT 기반 CS 스터디 기록](https://github.com/Gachon-CS-Study/CS-Study)
 
 </details>
+
+
+<details>
+<summary><strong>🎬 PT 능력을 증명할 발표 기록</strong></summary>
+
+<ul>
+  <li>📽️ <a href="https://youtu.be/I0_8VHwtSKs" target="_blank" rel="noopener noreferrer">PPT 87 page 암기 후, 실무진 앞에서 AI 게임 서비스를 발표하는 영상</a></li>
+  <li>📰 <a href="https://youtu.be/e8M7uNfBp1c" target="_blank" rel="noopener noreferrer">카카오톡 기반의 뉴스 전송 웹 서비스 발표 영상</a></li>
+</ul>
+
+</details>
+
+
+----
+
+# Education 
+* 가천대학교 컴퓨터 공학과 (2020.03~2025.08)
+* 교내 IT 웹/앱 개발 동아리 KKSC (2024.03~2025.01)
+* 멋쟁이 사자처럼 백엔드 심화 단기 교육 과정 (2025.06~2025.08)
 
 
