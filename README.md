@@ -1,11 +1,8 @@
 # 류성열 | Backend Developer 
 
 안녕하세요.   
-핀테크 스타트업에서 결제 시스템을 개발하고 있는 백엔드 개발자 류성열입니다.
+핀테크 스타트업에서 B2C 서비스를 개발하고 있는 Kotlin, Spring Boot 기반의 백엔드 개발자 류성열입니다.
 
-저는 개발을 ‘문제를 해결해 가치를 만드는 과정’이라고 이해하고 있습니다.      
-언젠가는 큰 문제를 해결하며, 누군가의 삶에 큰 가치를 가져다 주는 개발자가 되기 위해,    
-오늘도 꾸준히 배우고 고민하는 개발자가 되겠습니다.  
 
 ## 📝 More info about Me
 
@@ -13,8 +10,10 @@
 <summary><strong>🎓 History </strong></summary>
 
 ### 💼 빅스 페이먼츠 (2025.12 ~ )
-* 직무 : 백엔드 개발자 
-* 언어/프레임워크 : Kotlin/Spring Boot
+* 직무 : 백엔드 개발자
+* 하는 일: 선불 카드 기반 B2C 핀테크 모바일 서비스 & Admin 페이지 개발
+* Skills: Kotlin, Spring Boot, DDD, HexaGornal Arch, Docker, MariaDB, Redis ...
+* Now Studing: TDD, Infra
 
 ### 🦁멋쟁이 사자처럼 백엔드 심화 단기 교육 과정 (2025.06~2025.08)
 전공자, 현직자 40명이 모인 2개월간의 단기 심화 교육과정을 이수했습니다.   
