@@ -1,18 +1,30 @@
 # 류성열 | Backend Developer
 
-안녕하세요!   
-Kotlin 기반의 백엔드 개발자 류성열입니다.   
-핀테크 스타트업에서 경험한 **유연한 소통 기술**과 **AI 활용 능력**을 기반으로 Production을 빠르게 개발하는 것에 장점을 가지고 있습니다.
+안녕하세요!  
+Kotlin 기반의 백엔드 개발자 류성열입니다.  
+핀테크 스타트업에서 쌓은 **유연한 커뮤니케이션 역량**과 **AI 활용 능력**으로, Production 배포 속도를 높이는 데 강점이 있습니다.
 
-### [스타트업 근무 이력]
-- 자사 "정산 시스템"과 연동되는 카드 기반 모바일 서비스와 어드민 시스템 초기 개발
-- 70명 가량의 그룹사 임직원 대상 Alpha Test 수행 + 35,000명 사전 예약자 유치
-- 운영/CS팀과 협업하여 카드 서비스 운영 및 유지보수
-- 카드 플랫폼 협력사와 기술 협업 전담 - 결제 데이터 유실 장애 대응 / 장애 자동 대응 시스템 협력 구축 / 카드 결제 파이프라인 구축
-- 8단계 개발 워크플로우 중 5단계에 AI를 적용해 설계, 검증 능력 개선 및 개발 속도 단축 - 7개월간 116개 Ticket 처리
+---
+## 🚀 스타트업 근무 이력
+<div align="left">
 
-### [ Biscuit Card 서비스 개발 ]
-<img src="img.png" alt="스타트업 근무 이력" width="500" style="max-width:100%; height:auto;" />
+- ✅ 자사 "정산 시스템"과 연동되는 카드 기반 모바일 서비스와 어드민 시스템 초기 개발  
+- ✅ MVP 서비스 개발 후 Alpha Test + 시장성 검증 
+  - Alpha Test 규모 : 그룹사 임직원 70명
+  - 유치한 User 규모 : 35,000명
+- ✅ 운영/CS팀과 협업하여 카드 서비스 운영 및 유지보수  
+- ✅ 카드 플랫폼 협력사와의 기술 협업 전담  
+  - 결제 데이터 유실 장애 대응  
+  - 장애 자동 대응 시스템 협력 구축  
+  - 카드 결제 파이프라인 구축  
+- ✅ AI 기반 워크 플로우 구축 
+  - 8단계의 개발팀 Work-Flow 중 5단계에 AI 도입 : 62.5% 준자동화 
+  - 설계·검증 능력 개선 및 출시 속도 향상 : 7개월간 116개 Ticket 처리
+
+</div>
+
+### 💳 Biscuit Card 서비스 개발
+<img src="img.png" alt="스타트업 근무 이력" width="600" style="max-width:100%; height:auto; border-radius:8px;" />
  
 ### 🛠 Skill Set
 
@@ -81,25 +93,27 @@ Kotlin 기반의 백엔드 개발자 류성열입니다.
 --- 
 ## 🧠 AI Skills
 
-AI를 코드 생성 도구로만 쓰지 않고, **기획-설계-개발-검증** 전 단계를 견인하는 보조 도구로 운영합니다.  
-특히 빠른 실험이 필요한 상황에서, 반복 업무를 줄이고 검증 품질을 높이는 방향으로 AI를 적용해 왔습니다.
+**AI를 코드 생성 도구로만 쓰지 않고, 기획·설계·개발·검증 전 과정을 견인하는 개발 파트너로 운영**합니다.  
+특히 빠른 실험이 필요한 상황에서 반복 업무를 줄이고, 검증 품질을 높이는 방향으로 적용해 왔습니다.
 
+### 🚀 Haru Mind 1주일 출시 경험
+Github Kanban Boaord에 강제된 Work-Flow를 따르는 8개의 Multi-Agent 시스템으로 **Haru Mind** 서비스를 1주일만에 배포했습니다.  
 
-###  [8개의 Multi-Agent 시스템으로 **Haru Mind** 서비스를 1주일만에 배포]  
-  * **서비스 링크** : [Haru Mind](https://my-mental-careweb-production.up.railway.app/)    
-  * **서비스 레포지토리** : [https://github.com/passionryu/myMentalCare](https://github.com/passionryu/myMentalCare)    
-  * **하네스 레포지토리** : [https://github.com/passionryu/Harness](https://github.com/passionryu/Harness)
+- **서비스 링크** : [Haru Mind](https://my-mental-careweb-production.up.railway.app/)  
+- **서비스 레포지토리** : [myMentalCare](https://github.com/passionryu/myMentalCare)  
+- **하네스 레포지토리** : [Harness](https://github.com/passionryu/Harness)
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>AI Harness 아키텍처</strong><br/><img src="img_1.png" alt="AI Harness Architecture" width="620" style="max-width:100%; height:auto;" /></td>
-      <td align="center"><strong>챗봇 기반 MVP 서비스 - Haru Mind </strong><br/><img src="img_3.png" alt="Haru Mind Service" width="620" style="max-width:100%; height:auto;" /></td>
+      <td align="center"><strong>AI Harness 아키텍처</strong><br/><img src="img_1.png" alt="AI Harness Architecture" width="620" style="max-width:100%; height:auto; border-radius:10px;" /></td>
+      <td align="center"><strong>AI 챗봇 기반 MVP 서비스 - Haru Mind </strong><br/><img src="img_4.png" alt="Haru Mind Service" width="620" style="max-width:100%; height:auto; border-radius:10px;" /></td>
     </tr>
   </table>
 </div>
 
--> 🎤 컨퍼런스 발표 : <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w" target="_blank" rel="noopener noreferrer">“AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다”</a>
+> 🎤 BehinfCon 컨퍼런스 참여 (연사자)  : <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w" target="_blank" rel="noopener noreferrer">“AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다”</a>
+
 ## 📝 More info about Me
 
 <details>
