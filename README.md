@@ -79,27 +79,27 @@ Kotlin 기반의 백엔드 개발자 류성열입니다.
 
 
 --- 
-### 🧠 AI Skills
+## 🧠 AI Skills
 
 AI를 코드 생성 도구로만 쓰지 않고, **기획-설계-개발-검증** 전 단계를 견인하는 보조 도구로 운영합니다.  
 특히 빠른 실험이 필요한 상황에서, 반복 업무를 줄이고 검증 품질을 높이는 방향으로 AI를 적용해 왔습니다.
 
 
-* 🚀 **7-step Work-Flow + Multi-Agent Harness**  
-  기획/설계/개발/1차 AI QA/최종 개발자 검증-운영자 E2E 확인/Stage/배포의 흐름으로 AI를 통합 설계
-* 🧪 **Haru Mind** MVP를 1주일 내 출시  
-  [서비스](https://my-mental-careweb-production.up.railway.app/) · [서비스 레포지토리](https://github.com/passionryu/myMentalCare) · [Harness 레포지토리](https://github.com/passionryu/Harness)
+###  [8개의 Multi-Agent 시스템으로 **Haru Mind** 서비스를 1주일만에 배포]  
+  * **서비스 링크** : [Haru Mind](https://my-mental-careweb-production.up.railway.app/)    
+  * **서비스 레포지토리** : [https://github.com/passionryu/myMentalCare](https://github.com/passionryu/myMentalCare)    
+  * **하네스 레포지토리** : [https://github.com/passionryu/Harness](https://github.com/passionryu/Harness)
 
 <div align="center">
   <table>
     <tr>
       <td align="center"><strong>AI Harness 아키텍처</strong><br/><img src="img_1.png" alt="AI Harness Architecture" width="620" style="max-width:100%; height:auto;" /></td>
-      <td align="center"><strong>Haru Mind 광고 이미지</strong><br/><img src="img_3.png" alt="Haru Mind Service" width="620" style="max-width:100%; height:auto;" /></td>
+      <td align="center"><strong>챗봇 기반 MVP 서비스 - Haru Mind </strong><br/><img src="img_3.png" alt="Haru Mind Service" width="620" style="max-width:100%; height:auto;" /></td>
     </tr>
   </table>
 </div>
 
-### 🎤 컨퍼런스 발표 : <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w" target="_blank" rel="noopener noreferrer">“AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다”</a>
+-> 🎤 컨퍼런스 발표 : <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w" target="_blank" rel="noopener noreferrer">“AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다”</a>
 ## 📝 More info about Me
 
 <details>
