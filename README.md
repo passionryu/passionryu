@@ -4,7 +4,6 @@
 Kotlin 기반의 백엔드 개발자 류성열입니다.  
 핀테크 스타트업에서 쌓은 **유연한 커뮤니케이션 역량**과 **AI 활용 능력**으로, Production 배포 속도를 높이는 데 강점이 있습니다.
 
----
 ## 🚀 스타트업 근무 이력
 <div align="left">
 
@@ -24,7 +23,7 @@ Kotlin 기반의 백엔드 개발자 류성열입니다.
 </div>
 
 ### 💳 Biscuit Card 서비스 개발
-<img src="img.png" alt="스타트업 근무 이력" width="600" style="max-width:100%; height:auto; border-radius:8px;" />
+<img src="img.png" alt="스타트업 근무 이력" width="760" style="max-width:100%; height:auto; border-radius:8px;" />
  
 ### 🛠 Skill Set
 
