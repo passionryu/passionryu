@@ -111,7 +111,7 @@ Github Kanban Boaord에 강제된 Work-Flow를 따르는 8개의 Multi-Agent 시
   </table>
 </div>
 
-> 🎤 BehinfCon 컨퍼런스 참여 (연사자)  : <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w" target="_blank" rel="noopener noreferrer">“AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다”</a>
+> 🎤 BehindCon 컨퍼런스 참여 (연사자)  : <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w" target="_blank" rel="noopener noreferrer">“AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다”</a>
 
 ## 📝 More info about Me
 
