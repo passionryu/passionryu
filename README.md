@@ -6,20 +6,20 @@ Kotlin/Spring Boot 기반 백엔드 개발자입니다.<br>
 핀테크 스타트업에서 B2C 카드 서비스를 초기 개발하고, 운영/CS·협력사·정산 시스템과 연결되는 백엔드 문제를 해결했습니다.<br>
 최근에는 Codex 기반으로 개발 Workflow의 60%를 준자동화하며 6개월간 116개 업무 티켓을 처리했습니다.
 
-## Core Strengths
+## 핵심 강점
 
-| Strength | Evidence |
+| 강점 | 근거 |
 | --- | --- |
-| **Fintech 0→1** | B2C 카드 서비스 MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 → 출시 및 운영 |
-| **System Integration** | 자사 정산 시스템, 카드 플랫폼 협력사, PG사 API 연동 및 카드 결제 파이프라인 구축 |
-| **Operation-Oriented Backend** | 운영/CS 티켓 기반 관리자 Web 개발, 장애 대응, HotFix, 데이터 복구, 재발 방지 흐름 구축 |
-| **AI-First Workflow** | Codex 기반 기획/설계-구현-QA-배포 과정 60% 준자동화, 6개월간 116개 업무 티켓 처리 |
+| **핀테크 0→1 개발** | B2C 카드 서비스 MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 → 출시 및 운영 |
+| **외부 시스템 연동** | 자사 정산 시스템, 카드 플랫폼 협력사, PG사 API 연동 및 카드 결제 파이프라인 구축 |
+| **운영 중심 백엔드** | 운영/CS 티켓 기반 관리자 Web 개발, 장애 대응, HotFix, 데이터 복구, 재발 방지 흐름 구축 |
+| **AI 기반 업무 자동화** | Codex 기반 기획/설계-구현-QA-배포 과정 60% 준자동화, 6개월간 116개 업무 티켓 처리 |
 
 ## Featured Work
 
 | Project | What I Built | Links |
 | --- | --- | --- |
-| **Biscuit Card** | 카드 기반 B2C 모바일 서비스와 관리자 Web 초기 개발 및 운영 | 아래 이미지 참고 |
+| **Biscuit Card** | 카드 기반 B2C 모바일 서비스와 관리자 Web 초기 개발 및 운영 | [Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit&hl=ko) |
 | **AI Harness / Haru Mind** | GitHub Kanban 기반 8개 Multi-Agent Workflow로 AI 챗봇 MVP 1주일 배포 | [Service](https://my-mental-careweb-production.up.railway.app/) · [App Repo](https://github.com/passionryu/myMentalCare) · [Harness Repo](https://github.com/passionryu/Harness) |
 | **DungeonTalk** | WebSocket·RAG 기반 실시간 TRPG 채팅 서비스 개발 | [Team Repos](https://github.com/orgs/DungeonTalk/repositories) · [Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki) · [Presentation](https://youtu.be/I0_8VHwtSKs) |
 | **Book Calendar** | AI 기반 Daily 독서 도우미 서비스 백엔드 개발 및 팀 리딩 | [BE Repo](https://github.com/passionryu/BookCalendarServer) · [Notion](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9?source=copy_link) |
