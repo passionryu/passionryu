@@ -1,32 +1,31 @@
 # 류성열 | Backend Developer
 
-**Fintech 0→1 · External System Integration · AI-First Workflow**
-
-Kotlin/Spring Boot 기반 백엔드 개발자입니다.<br>
-핀테크 스타트업에서 B2C 카드 서비스를 초기 개발하고, 운영/CS·협력사·정산 시스템과 연결되는 백엔드 문제를 해결했습니다.<br>
-최근에는 Codex 기반으로 개발 Workflow의 60%를 준자동화하며 6개월간 116개 업무 티켓을 처리했습니다.
+학부(컴퓨터 공학)->단기 심화 부트캠프(3개월)->핀테크 스타트업(7개월)을 경험한 Kotlin/Spring Boot 기반 백엔드 개발자입니다.<br>
+핀테크 스타트업에서 "가맹점-카드사-협력사 시스템-카드 시스템-자사 정산 시스템"을 연결하는 B2C 카드 서비스를 초기 개발했습니다.<br>
+AI 기반 업무를 선호하며, 실무에서 Codex 기반으로 개발 Workflow의 60%를 준자동화하며 6개월간 116개 업무 티켓을 처리했습니다.
 
 ## 핵심 강점
 
-| 강점 | 근거 |
-| --- | --- |
-| **핀테크 0→1 개발** | B2C 카드 서비스 MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 → 출시 및 운영 |
-| **외부 시스템 연동** | 자사 정산 시스템, 카드 플랫폼 협력사, PG사 API 연동 및 카드 결제 파이프라인 구축 |
-| **운영 중심 백엔드** | 운영/CS 티켓 기반 관리자 Web 개발, 장애 대응, HotFix, 데이터 복구, 재발 방지 흐름 구축 |
-| **AI 기반 업무 자동화** | Codex 기반 기획/설계-구현-QA-배포 과정 60% 준자동화, 6개월간 116개 업무 티켓 처리 |
+| 강점               | 근거                                                               |
+|------------------|------------------------------------------------------------------|
+| **핀테크 서비스 0→1**  | B2C 카드 서비스 MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 → 출시 및 운영 |
+| **외부 시스템 연동**    | 자사 정산 시스템, 카드 플랫폼 협력사, PG사 API 연동 및 카드 결제 파이프라인 구축               |
+| **자사 서비스 운영 경험** | 운영/CS 티켓 기반 CS & 장애 대응, 협력사와 공동 데이터 복구 & 재발 방지 시스템 구축            |
+| **AI 기반 업무 자동화** | Codex 기반 기획/설계-구현-QA-배포 과정 60% 준자동화, 6개월간 116개 업무 티켓 처리          |
 
 ## Featured Work
 
-| Project | What I Built | Links |
-| --- | --- | --- |
-| **Biscuit Card** | 카드 기반 B2C 모바일 서비스와 관리자 Web 초기 개발 및 운영 | [Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit&hl=ko) |
-| **AI Harness / Haru Mind** | GitHub Kanban 기반 8개 Multi-Agent Workflow로 AI 챗봇 MVP 1주일 배포 | [Service](https://my-mental-careweb-production.up.railway.app/) · [App Repo](https://github.com/passionryu/myMentalCare) · [Harness Repo](https://github.com/passionryu/Harness) |
-| **DungeonTalk** | WebSocket·RAG 기반 실시간 TRPG 채팅 서비스 개발 | [Team Repos](https://github.com/orgs/DungeonTalk/repositories) · [Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki) · [Presentation](https://youtu.be/I0_8VHwtSKs) |
-| **Book Calendar** | AI 기반 Daily 독서 도우미 서비스 백엔드 개발 및 팀 리딩 | [BE Repo](https://github.com/passionryu/BookCalendarServer) · [Notion](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9?source=copy_link) |
-
-<p align="center">
-  <img src="img.png" alt="Biscuit Card service screens" width="760" style="max-width:100%; height:auto; border-radius:10px;" />
-</p>
+| Type | Project | What I Built | Links |
+| --- | --- | --- | --- |
+| **실무** | **Biscuit Card** | B2C 카드 서비스 App MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 후 출시·운영.<br>관리자 Web과 정산/협력사/PG 연동으로 카드 결제 파이프라인 구축. | [Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit&hl=ko) |
+| **개인 프로젝트** | **Haru Mind** | GitHub Kanban 기반 7단계 Workflow와 8개 Multi-Agent 시스템으로 AI 챗봇 MVP를 1주일 만에 배포.<br>기획/설계-구현-QA-문서화 흐름을 AI로 자동화하는 Harness 구조 검증. | [Service](https://my-mental-careweb-production.up.railway.app/) · [App Repo](https://github.com/passionryu/myMentalCare) · [Harness Repo](https://github.com/passionryu/Harness) |
+| **부트캠프** | **DungeonTalk** | WebSocket·RAG 기반 실시간 TRPG 채팅 서비스 개발.<br>RAG 응답 속도 95% 개선, Cache Hit Rate 68% 달성 및 Valkey 기반 Session 장애 자동 대응 시스템 구축. | [Team Repos](https://github.com/orgs/DungeonTalk/repositories) · [Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki) · [Presentation](https://youtu.be/I0_8VHwtSKs) |
+| **부트캠프** | **멋쟁이 뉴스 배달부** | 하루 4~8만 건 뉴스 데이터를 수집하고, 사용자 관심사 기반 뉴스를 KakaoTalk으로 전송하는 서비스 개발.<br>팀원 40% 이탈 상황에서 팀장으로 범위/역할을 재정의해 마감 준수 및 Beta Test 수행. | [BE Repo](https://github.com/News-Deliver/Server) · [Web Repo](https://github.com/News-Deliver/Web) · [Presentation](https://youtu.be/e8M7uNfBp1c) |
+| **학부 AI 프로젝트** | **Book Calendar** | 독서율 72% → 41% 하락 문제에 주목한 AI 기반 Daily 독서 도우미 서비스.<br>Node.js-Spring-FastAPI Polyglot 구조, 46개 API, Redis 캐싱으로 핵심 API 성능 98.56% 개선. | [BE Repo](https://github.com/passionryu/BookCalendarServer) · [Notion](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9?source=copy_link) |
+| **학부 AI 프로젝트** | **Avery** | 정신질환 평생 유병률 27% 문제에 주목한 생성형 AI 기반 개인 맞춤형 멘탈 케어 챗봇 서비스.<br>Spring AI 정식 출시 9개월 전 Beta Version을 연구·적용하고, AI 상담/레포트/마음 네컷 기능 구현. | [Repo](https://github.com/passionryu/Chat_Bot) |
+| **학부 AI 프로젝트** | **킥라니 구조대** | 전동킥보드 사고 1382.9% 증가 문제를 해결하기 위한 AIoT 자동 신고 서비스.<br>Raspberry Pi 센서 데이터와 Android 앱을 연동해 사고 감지, GPS 기반 119 신고, 수동 취소 플로우 구현. | [Repo](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
+| **개인 프로젝트** | **Healing Space** | React/Spring Boot 기반 힐링 공간 공유 웹 서비스 개인 프로젝트.<br>FE/BE를 분리 구현하고 GitHub Actions 기반 AWS 배포까지 수행하며 풀스택 개발 흐름 검증. | [Service](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) · [BE Repo](https://github.com/passionryu/Healing-Space-Back) · [FE Repo](https://github.com/passionryu/Healing-Space-Front) · [Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
+| **해커톤** | **디지털 옷장** | Google Developer Group 해커톤 장려상 수상 서비스.<br>Spring AI 기반 의상 추천 챗봇/레포트와 회원가입·로그인 기능을 구현해 AI 서비스와 인증 기능을 함께 담당. | [BE Repo](https://github.com/passionryu/3rdwagle-team6-back) · [FE Repo](https://github.com/passionryu/3rdwagle-team6-front) |
 
 ## Tech Stack
 
