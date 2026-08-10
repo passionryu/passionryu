@@ -18,6 +18,7 @@ AI 기반 업무를 선호하며, 실무에서 Codex 기반으로 개발 Workflo
 | Type | Project | What I Built | Links |
 | --- | --- | --- | --- |
 | **실무** | **Biscuit Card** | B2C 카드 서비스 App MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 후 출시·운영.<br>관리자 Web과 정산/협력사/PG 연동으로 카드 결제 파이프라인 구축. | [Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit&hl=ko) |
+| **과제 테스트** | **RooMory** | 커플/가족/학급/동아리가 함께 쓰는 기록방 기반 Full-Stack 서비스.<br>기록방, 채팅, 추억 게시판, 미션 인증, 편지, 캘린더, 책 만들기/주문 관리까지 구현. | [Repo](https://github.com/passionryu/assignment-test) |
 | **개인 프로젝트** | **Haru Mind** | GitHub Kanban 기반 7단계 Workflow와 8개 Multi-Agent 시스템으로 AI 챗봇 MVP를 1주일 만에 배포.<br>기획/설계-구현-QA-문서화 흐름을 AI로 자동화하는 Harness 구조 검증. | [Service](https://my-mental-careweb-production.up.railway.app/) · [App Repo](https://github.com/passionryu/myMentalCare) · [Harness Repo](https://github.com/passionryu/Harness) |
 | **부트캠프** | **DungeonTalk** | WebSocket·RAG 기반 실시간 TRPG 채팅 서비스 개발.<br>RAG 응답 속도 95% 개선, Cache Hit Rate 68% 달성 및 Valkey 기반 Session 장애 자동 대응 시스템 구축. | [Team Repos](https://github.com/orgs/DungeonTalk/repositories) · [Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki) · [Presentation](https://youtu.be/I0_8VHwtSKs) |
 | **부트캠프** | **멋쟁이 뉴스 배달부** | 하루 4~8만 건 뉴스 데이터를 수집하고, 사용자 관심사 기반 뉴스를 KakaoTalk으로 전송하는 서비스 개발.<br>팀원 40% 이탈 상황에서 팀장으로 범위/역할을 재정의해 마감 준수 및 Beta Test 수행. | [BE Repo](https://github.com/News-Deliver/Server) · [Web Repo](https://github.com/News-Deliver/Web) · [Presentation](https://youtu.be/e8M7uNfBp1c) |
