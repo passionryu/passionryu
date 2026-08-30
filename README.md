@@ -1,35 +1,14 @@
-# 류성열 | SW Engineer
-동연차 대비 풍부한 프로젝트/조직 경험을 통해 팀 단위 환경에서 1.5인분을 수행하며 팀 성과에 기여하는 개발자 류성열입니다.  
-
-* [풍부한 프로젝트/조직 경험]    
-컴퓨터 공학부(학과 프로젝트 9개월, 개발 동아리 1년) + 심화 부트캠프(프로젝트 2회/3개월) + 핀테크 스타트업(B2C 금융 서비스 개발팀/7개월)     
-* [1.5인분]    
-개발자 겸 팀장 경험(학부 프로젝트+개발 동아리), 신규 서비스 개발팀 유일한 백엔드 엔지니어로 개발·기술 협업·CS대응·유지보수 담당 
-* [팀 성과]    
-학부 프로젝트 3개 ALL A+ & 28팀 중 1등(장학금 취득), 부트캠프 최우수 프로젝트 선정, 카드 서비스 MVP 개발 + Alpha Test + 출시·운영 성공
-
-특히 AI 기반 업무를 선호하며, 실무에서 Codex 기반으로 개발 Workflow의 60%를 준자동화하며 6개월간 116개 업무 티켓을 처리했습니다.
-
+# 류성열 | Product Engineer
 ## History  
 
-| 학부(컴퓨터 공학)                                                                                                                             | 단기 심화 부트캠프 | 실무(Fintech StartUp)                                                                                                                                                                                                                                          |
-|----------------------------------------------------------------------------------------------------------------------------------------| --- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - AI 서비스 개발 학과 프로젝트 팀장(9개월)<br>- 웹/앱 개발 동아리 백엔드 개발팀장/스터디장(1년)<br>- 개발 대회 3회 참여(최우수상 2회, 장려상 1회)<br>- 정보 보안/임베디드 개발 동아리 및 7번의 개발 스터디 참여 | - 백엔드 심화 이론 교육<br>- 1차 프로젝트 개발 팀장<br>- 2차 프로젝트 개발자 참여 → 최우수 프로젝트 선정 | - Biscuit Card(카드 기반 서비스) App 초기 MVP 개발<br>- Biscuit Card(카드 기반 서비스) App Alpha Test 수행(그룹사 임직원 70명 대상)<br>- Biscuit Card(카드 기반 서비스) App 출시·운영(사전 예약자 35,000명 확보)<br>- Biscuit Card(카드 기반 서비스) 관리자 Web 개발 및 운영<br>- 사내 운영팀과 협업하여 고객 요구사항 분석, 장애 대응 및 기술 지원 수행 |
-
-## Featured Work
-
-| Type | Project | What I Built | Links |
-| --- | --- | --- | --- |
-| **실무** | **Biscuit Card** | B2C 카드 서비스 App MVP 개발 → 70명 Alpha Test → 사전 예약자 35,000명 확보 후 출시·운영.<br>관리자 Web과 정산/협력사/PG 연동으로 카드 결제 파이프라인 구축. | [Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit&hl=ko) |
-| **과제 테스트** | **RooMory** | 커플/가족/학급/동아리가 함께 쓰는 기록방 기반 Full-Stack 서비스.<br>기록방, 채팅, 추억 게시판, 미션 인증, 편지, 캘린더, 책 만들기/주문 관리까지 구현. | [Repo](https://github.com/passionryu/assignment-test) |
-| **개인 프로젝트** | **Haru Mind** | GitHub Kanban 기반 7단계 Workflow와 8개 Multi-Agent 시스템으로 AI 챗봇 MVP를 1주일 만에 배포.<br>기획/설계-구현-QA-문서화 흐름을 AI로 자동화하는 Harness 구조 검증. | [Service](https://my-mental-careweb-production.up.railway.app/) · [App Repo](https://github.com/passionryu/myMentalCare) · [Harness Repo](https://github.com/passionryu/Harness) |
-| **부트캠프** | **DungeonTalk** | WebSocket·RAG 기반 실시간 TRPG 채팅 서비스 개발.<br>RAG 응답 속도 95% 개선, Cache Hit Rate 68% 달성 및 Valkey 기반 Session 장애 자동 대응 시스템 구축. | [Team Repos](https://github.com/orgs/DungeonTalk/repositories) · [Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki) · [Presentation](https://youtu.be/I0_8VHwtSKs) |
-| **부트캠프** | **멋쟁이 뉴스 배달부** | 하루 4~8만 건 뉴스 데이터를 수집하고, 사용자 관심사 기반 뉴스를 KakaoTalk으로 전송하는 서비스 개발.<br>팀원 40% 이탈 상황에서 팀장으로 범위/역할을 재정의해 마감 준수 및 Beta Test 수행. | [BE Repo](https://github.com/News-Deliver/Server) · [Web Repo](https://github.com/News-Deliver/Web) · [Presentation](https://youtu.be/e8M7uNfBp1c) |
-| **학부 AI 프로젝트** | **Book Calendar** | 독서율 72% → 41% 하락 문제에 주목한 AI 기반 Daily 독서 도우미 서비스.<br>Node.js-Spring-FastAPI Polyglot 구조, 46개 API, Redis 캐싱으로 핵심 API 성능 98.56% 개선. | [BE Repo](https://github.com/passionryu/BookCalendarServer) · [Notion](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9?source=copy_link) |
-| **학부 AI 프로젝트** | **Avery** | 정신질환 평생 유병률 27% 문제에 주목한 생성형 AI 기반 개인 맞춤형 멘탈 케어 챗봇 서비스.<br>Spring AI 정식 출시 9개월 전 Beta Version을 연구·적용하고, AI 상담/레포트/마음 네컷 기능 구현. | [Repo](https://github.com/passionryu/Chat_Bot) |
-| **학부 AI 프로젝트** | **킥라니 구조대** | 전동킥보드 사고 1382.9% 증가 문제를 해결하기 위한 AIoT 자동 신고 서비스.<br>Raspberry Pi 센서 데이터와 Android 앱을 연동해 사고 감지, GPS 기반 119 신고, 수동 취소 플로우 구현. | [Repo](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
-| **개인 프로젝트** | **Healing Space** | React/Spring Boot 기반 힐링 공간 공유 웹 서비스 개인 프로젝트.<br>FE/BE를 분리 구현하고 GitHub Actions 기반 AWS 배포까지 수행하며 풀스택 개발 흐름 검증. | [Service](http://healing-space-front.s3-website.ap-northeast-2.amazonaws.com) · [BE Repo](https://github.com/passionryu/Healing-Space-Back) · [FE Repo](https://github.com/passionryu/Healing-Space-Front) · [Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab?pvs=4) |
-| **해커톤** | **디지털 옷장** | Google Developer Group 해커톤 장려상 수상 서비스.<br>Spring AI 기반 의상 추천 챗봇/레포트와 회원가입·로그인 기능을 구현해 AI 서비스와 인증 기능을 함께 담당. | [BE Repo](https://github.com/passionryu/3rdwagle-team6-back) · [FE Repo](https://github.com/passionryu/3rdwagle-team6-front) |
+- **2025.08 - Present** · **Sweetboot Co., Ltd.**  
+  `Full-Stack Engineer`
+- **2025.12 - 2026.06** · **Bix Payment Co., Ltd.**  
+  `Back-End Engineer`
+- **2025.06 - 2025.08** · **멋쟁이사자처럼**  
+  `Bootcamp Trainee`
+- **2020.03 - 2025.08** · **Gachon University**  
+  `Computer Engineering Student`
 
 ## Tech Stack
 
