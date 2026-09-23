@@ -37,7 +37,7 @@
 ## 💼 Experience
 
 <details>
-<summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer · 2026.08 ~ · 인쇄공장 연동 API · Demo App · AI-First</summary>
+<summary><h3>🏢 Sweetbook Co., Ltd. <sub>Product Engineer · 2026.08 ~ · 인쇄공장 연동 API · Demo App · AI-First</sub></h3></summary>
 <br>
 
 회사가 자체 보유한 **인쇄공장을 파트너사 개발자가 간단히 연동**할 수 있도록, 최적화된 API와 개발자 경험을 높이는 **Demo App**(Test Client)을 C#·TypeScript로 개발하고 있습니다. Claude를 활용해 **PR 기반 AI-First 개발·문서화·테스트 자동화**로 팀원들과 협업합니다.
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary><b>💳 Bix Payments</b> · Back-End Engineer · 2025.12 ~ 2026.06 · 선불카드 앱 0→1 · 사전 예약 35,000명</summary>
+<summary><h3>💳 Bix Payments <sub>Back-End Engineer · 2025.12 ~ 2026.06 · 선불카드 앱 0→1 · 사전 예약 35,000명</sub></h3></summary>
 <br>
 
 핀테크 스타트업 B2C 모바일 금융 서비스팀의 **유일한 백엔드 개발자**로, 자사 정산 시스템과 연동되는 카드 시스템 초기 모델과 B2C/B2B 카드 관리 플랫폼을 구축했습니다. 정산·이커머스만 있던 회사의 **신규 사업 확장**과 **선불 사업자 라이선스 취득 조건 충족**에 기여했습니다.
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary><b>🦁 멋쟁이사자처럼</b> · 백엔드 단기 심화 5기 · 2025.06 ~ 2025.08 · DungeonTalk 최우수 프로젝트 · News Deliver 팀장</summary>
+<summary><h3>🦁 멋쟁이사자처럼 <sub>백엔드 단기 심화 5기 · 2025.06 ~ 2025.08 · DungeonTalk 최우수 프로젝트 · News Deliver 팀장</sub></h3></summary>
 <br>
 
 | 프로젝트 | 문제 → 한 일 → 결과 | 링크 |
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-<summary><b>🎓 가천대학교</b> · 컴퓨터공학과 · 2020.03 ~ 2025.08 · 학과 AI 프로젝트 3회 팀장 · 28팀 중 1등 · ALL A+</summary>
+<summary><h3>🎓 가천대학교 <sub>컴퓨터공학과 · 2020.03 ~ 2025.08 · 학과 AI 프로젝트 3회 팀장 · 28팀 중 1등 · ALL A+</sub></h3></summary>
 <br>
 
 학과 AI 앱 개발 프로젝트 3개를 개발자 겸 팀장으로 이끌며, 사회 문제를 해결하는 AI 서비스와 어드민 페이지를 기획·구현·배포했습니다. WBS 기반 일정 관리, Figma 화면 설계, 주 1회 팀 회의와 팀장 보고를 맡았고 세 프로젝트 모두 **A+ 성적**을 받았습니다.
