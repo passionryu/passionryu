@@ -82,7 +82,7 @@
 | 프로젝트 | 내용 | 링크 |
 |:--|:--|:--|
 | **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드</sub> | **문제** AI와 함께하는 TRPG 플랫폼에서 LLM 할루시네이션으로 응답 품질 저하<br>**한 일**<br>· RAG 시스템 설계·PoC로 할루시네이션 개선<br>· Valkey 인스턴스 기반 캐싱으로 RAG 응답 속도 개선<br>· Valkey Sentinel 기반 세션 저장소 장애 자동 대응 구축<br>· Replay Attack·Brute Force 방어 시스템 구축<br>· Multi-Repository와 인프라 초기 세팅, PPT 제작·발표 전담<br>**결과** RAG 응답 95% 개선 · Cache Hit 68% · 최우수 프로젝트 (6팀 중 1등) | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
-| **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 팀장</sub> | **문제** 뉴스 API가 한 번에 1만 건만 반환해 하루 4~8만 건 수집이 불가, 팀원 40% 조기 이탈<br>**한 일**<br>· Spring Batch·Redis로 매 정각 당일 뉴스 현황을 파악해 선택적 중간 저장<br>· ElasticSearch로 관심사 기반 뉴스 검색 구현<br>· Cache-Aside 패턴 Redis 캐싱 적용<br>· 카카오 로그인·메시지 전송 연동, 프론트엔드(TypeScript·React) 전담<br>· 범위 축소·역할 재분배로 마감 준수, Beta Test 주도<br>**결과** 하루 4~8만 건 저장 시스템 안정화 · API 성능 95.76% 개선 · 마감 준수 + Beta Test | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
+| **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 팀장</sub> | **문제** 뉴스 API가 한 번에 1만 건만 반환해 하루 4\~8만 건 수집이 불가, 팀원 40% 조기 이탈<br>**한 일**<br>· Spring Batch·Redis로 매 정각 당일 뉴스 현황을 파악해 선택적 중간 저장<br>· ElasticSearch로 관심사 기반 뉴스 검색 구현<br>· Cache-Aside 패턴 Redis 캐싱 적용<br>· 카카오 로그인·메시지 전송 연동, 프론트엔드(TypeScript·React) 전담<br>· 범위 축소·역할 재분배로 마감 준수, Beta Test 주도<br>**결과** 하루 4\~8만 건 저장 시스템 안정화 · API 성능 95.76% 개선 · 마감 준수 + Beta Test | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
 
 </details>
 
