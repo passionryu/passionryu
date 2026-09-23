@@ -116,7 +116,7 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
       <sub><b>AI 개발 하네스 아키텍처</b> · 기획부터 지식 축적까지 7개 에이전트 워크플로우</sub>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="assets/harness-kanban.png"><img src="assets/harness-kanban.png" width="100%" alt="GitHub Kanban 작업판: Backlog → Plan → Implement → Review → AI QA → PM Final Check → Human QA → Done"></a><br>
+      <a href="assets/harness-kanban-cropped.png"><img src="assets/harness-kanban-cropped.png" width="100%" alt="GitHub Kanban 작업판: Backlog → Plan → Implement → Review → AI QA → PM Final Check → Human QA → Done"></a><br>
       <sub><b>GitHub Kanban 작업판</b> · Issue 티켓이 Backlog → Plan → Implement → Review → AI QA → PM Final Check → Human QA → Done으로 흐름</sub>
     </td>
   </tr>
