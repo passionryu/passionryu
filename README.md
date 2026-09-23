@@ -72,7 +72,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="assets/arch-dungeontalk.png"><img src="assets/arch-dungeontalk.png" width="100%" alt="DungeonTalk 시스템 아키텍처"></a><br>
-      <sub><b>DungeonTalk</b> · PolyGlot Hybrid Server 아키텍처</sub>
+      <sub><b>DungeonTalk</b> · PolyGlot Hybrid Server 아키텍처 · Primary-Replica 세션 서버와 Fail-Over 담당</sub>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="assets/arch-newsdeliver.png"><img src="assets/arch-newsdeliver.png" width="100%" alt="News Deliver 시스템 아키텍처"></a><br>
@@ -83,7 +83,7 @@
 
 | 프로젝트 | 내용 | 링크 |
 |:--|:--|:--|
-| **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드 개발자</sub> | 🎯 **문제**<br>&emsp;AI와 함께하는 TRPG 플랫폼에서 LLM 할루시네이션으로 응답 품질 저하<br>🛠️ **한 일**<br>&emsp;· RAG 시스템 설계·PoC로 할루시네이션 개선<br>&emsp;· Valkey 인스턴스 기반 캐싱으로 RAG 응답 속도 개선<br>&emsp;· Valkey Sentinel 기반 세션 저장소 장애 자동 대응 구축<br>&emsp;· Replay Attack·Brute Force 방어 시스템 구축<br>&emsp;· Multi-Repository와 인프라 초기 세팅, PPT 제작·발표 전담<br>✅ **결과**<br>&emsp;RAG 응답 95% 개선 · Cache Hit 68% · 최우수 프로젝트 (6팀 중 1등) | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
+| **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드 개발자</sub> | 🎯 **문제**<br>&emsp;AI와 함께하는 TRPG 플랫폼에서 LLM 할루시네이션으로 응답 품질 저하<br>🛠️ **한 일**<br>&emsp;· RAG 시스템 설계·PoC로 할루시네이션 개선<br>&emsp;· Valkey 인스턴스 기반 캐싱으로 RAG 응답 속도 개선<br>&emsp;· **Primary-Replica 구조의 Valkey 세션 저장소 설계·담당**, Sentinel 프로세스로 장애 자동 대응 구축<br>&emsp;· Replay Attack·Brute Force 방어 시스템 구축<br>&emsp;· Multi-Repository와 인프라 초기 세팅, PPT 제작·발표 전담<br>✅ **결과**<br>&emsp;RAG 응답 95% 개선 · Cache Hit 68% · 최우수 프로젝트 (6팀 중 1등) | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
 | **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 풀스택 개발자 · 팀장</sub> | 🎯 **문제**<br>&emsp;뉴스 API가 한 번에 1만 건만 반환해 하루 4\~8만 건 수집이 불가, 팀원 40% 조기 이탈<br>🛠️ **한 일**<br>&emsp;· Spring Batch·Redis로 매 정각 당일 뉴스 현황을 파악해 선택적 중간 저장<br>&emsp;· ElasticSearch로 관심사 기반 뉴스 검색 구현<br>&emsp;· Cache-Aside 패턴 Redis 캐싱 적용<br>&emsp;· 카카오 로그인·메시지 전송 연동, 프론트엔드(TypeScript·React) 전담<br>&emsp;· 범위 축소·역할 재분배로 마감 준수, Beta Test 주도<br>✅ **결과**<br>&emsp;하루 4\~8만 건 저장 시스템 안정화 · API 성능 95.76% 개선 · 마감 준수 + Beta Test | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
 
 </details>
@@ -145,10 +145,25 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 <h2 align="center"><sub><code>SECTION 04</code></sub><br>🗂️ Etc</h2>
 
 <details>
-<summary><b>🔬 Research · 서버 안정성 연구</b> · 2025.09 ~ 10 · 개인 · Latency 724.94ms → 33.28ms · 초당 3,000 req</summary>
+<summary><b>🔬 Research · 서버 안정성 연구</b> · 2025.09 ~ 10 · 개인 · DungeonTalk 세션 서버의 한계에서 출발 · Latency 724.94ms → 33.28ms · 초당 3,000 req</summary>
 <br>
 
-비즈니스 로직 없이 **대규모 트래픽과 장애 대응만** 파고든 연구입니다. 실험 20건 이상을 난이도·상태와 함께 기록했고, 실패한 시도(JVM 튜닝으로 오히려 성능 66% 악화)도 그대로 남겼습니다.
+DungeonTalk에서 제가 설계한 세션 저장소는 **Primary-Replica 구조로 장애 대응**을 의도했지만, 대규모 트래픽에서는 결국 함께 무너지는 패턴이었습니다. 이 한계를 직접 느끼고, 비즈니스 로직 없이 **대규모 트래픽을 버티는 서버 구조만** 혼자 연구했습니다.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="assets/arch-dungeontalk.png"><img src="assets/arch-dungeontalk.png" width="100%" alt="Before: DungeonTalk 시스템 아키텍처, Primary-Replica 세션 서버와 Valkey Sentinel Fail-Over"></a><br>
+      <sub><b>Before · DungeonTalk</b> · 제가 담당한 Primary-Replica 세션 서버 + Fail-Over(Valkey Sentinel). 장애 대응은 되지만 대규모 트래픽에서는 함께 다운</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="assets/arch-high-traffic.png"><img src="assets/arch-high-traffic.png" width="100%" alt="After: 서버 안정성 연구 아키텍처, Nginx → Spring Boot 5대 → Sentinel 레이어 → Primary-Replica 데이터 레이어"></a><br>
+      <sub><b>After · 연구 프로젝트</b> · Nginx 로드밸런싱 → WAS 5배 수평 확장 → Sentinel 레이어 → Primary-Replica 데이터 레이어(CQRS)</sub>
+    </td>
+  </tr>
+</table>
+
+실험 20건 이상을 난이도·상태와 함께 기록했고, 실패한 시도(JVM 튜닝으로 오히려 성능 66% 악화)도 그대로 남겼습니다.
 
 - Connection Pooling으로 Latency **724.94ms → 33.28ms (약 21.8배)**
 - 중규모 부하 테스트에서 **초당 3,000 req** 처리
