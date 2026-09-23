@@ -109,7 +109,18 @@
 
 GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문서 → 지식 축적** 7단계를 흐르는 개발 하네스를 설계했습니다. QA는 Playwright, 문서는 Notion, 지식은 Obsidian에 에이전트가 직접 쌓습니다. 이 하네스로 AI 멘탈케어 서비스 **Haru Mind** MVP를 만들어 배포했습니다.
 
-<a href="img_1.png"><img src="img_1.png" width="100%" alt="AI 개발 하네스 아키텍처: 7개 에이전트 워크플로우와 Human-in-the-Loop 승인 구조"></a>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="img_1.png"><img src="img_1.png" width="100%" alt="AI 개발 하네스 아키텍처: 7개 에이전트 워크플로우와 Human-in-the-Loop 승인 구조"></a><br>
+      <sub><b>AI 개발 하네스 아키텍처</b> · 기획부터 지식 축적까지 7개 에이전트 워크플로우</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="assets/harness-kanban.png"><img src="assets/harness-kanban.png" width="100%" alt="GitHub Kanban 작업판: Backlog → Plan → Implement → Review → AI QA → PM Final Check → Human QA → Done"></a><br>
+      <sub><b>GitHub Kanban 작업판</b> · Issue 티켓이 Backlog → Plan → Implement → Review → AI QA → PM Final Check → Human QA → Done으로 흐름</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
