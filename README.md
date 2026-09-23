@@ -142,7 +142,11 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 <img src="img_4.png" width="100%" alt="Haru Mind 모바일 화면: 메인 · 채팅 · 마음 리포트 · 마이페이지">
 </details>
 
-## 🔬 Research · 서버 안정성 연구 <sub>2025.09 ~ 10 · 개인</sub>
+## 🗂️ Etc
+
+<details>
+<summary><b>🔬 Research · 서버 안정성 연구</b> · 2025.09 ~ 10 · 개인 · Latency 724.94ms → 33.28ms · 초당 3,000 req</summary>
+<br>
 
 비즈니스 로직 없이 **대규모 트래픽과 장애 대응만** 파고든 연구입니다. 실험 20건 이상을 난이도·상태와 함께 기록했고, 실패한 시도(JVM 튜닝으로 오히려 성능 66% 악화)도 그대로 남겼습니다.
 
@@ -151,7 +155,11 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 - Valkey Sentinel PoC · Primary-Replica 이중화 · Read/Write 트래픽 분기 · 서버 5배 수평 확장
 - [연구 기록 (Notion)](https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd) · [Repo](https://github.com/Research-Project-rsy/High-Traffic-Server)
 
-## 🧩 기타 프로젝트 · 활동
+</details>
+
+<details>
+<summary><b>🧩 기타 프로젝트 · 활동</b> · GDG 해커톤 장려상 · Healing Space · KKSC 회원 시스템 개발팀장 · 스터디 팀장</summary>
+<br>
 
 | 활동 | 내용 | 링크 |
 |:--|:--|:--|
@@ -160,19 +168,16 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 | **KKSC 동아리 홈페이지 · 회원 시스템 개발팀장**<br><sub>2024 여름 · 2개월 · 22명 5개 팀</sub> | 🎯 **주제**<br>&emsp;백엔드 3팀·프론트 1팀·PM 1팀이 참여한 동아리 홈페이지 개발<br>🛠️ **한 일**<br>&emsp;· 회원 시스템 팀(5명) 리드, 협업용 회원 관리 시스템 연구·토론<br>&emsp;· Spring Security·Redis 기반 회원 시스템 구축<br>&emsp;· 게시판·캘린더 팀과 연동해 서버 파트 완성 | [Repo](https://github.com/passionryu/StudentClub-WebPage) |
 | **KKSC Java/Spring 스터디 팀장**<br><sub>2024 상·하반기 · 각 3개월</sub> | 🛠️ **한 일**<br>&emsp;· Java·Spring Boot 기초 스터디 팀장 (3개월)<br>&emsp;· Java·Spring Boot 심화 스터디 팀장 (3개월)<br>&emsp;· 팀원 관리와 스터디 운영 | |
 
-<details>
-<summary><b>Healing Space 시스템 아키텍처</b> · AWS CI/CD (Linux)</summary>
-<br>
 <a href="assets/arch-healingspace.png"><img src="assets/arch-healingspace.png" width="100%" alt="Healing Space 시스템 아키텍처"></a>
+<p align="center"><sub><b>Healing Space</b> · AWS CI/CD 시스템 아키텍처 (Linux)</sub></p>
+
 </details>
 
-## 🛠️ Tech Stack
+<details>
+<summary><b>🛠️ Tech Stack</b> · Java · Kotlin · C# · TypeScript · Spring Boot · Redis/Valkey · Docker · AWS/GCP</summary>
+<br>
 
 <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>C#</kbd> <kbd>TypeScript</kbd> <kbd>Spring Boot</kbd> <kbd>Spring Security</kbd> <kbd>JPA · QueryDSL</kbd> <kbd>MariaDB · MySQL</kbd> <kbd>Redis · Valkey</kbd> <kbd>Docker</kbd> <kbd>Nginx</kbd> <kbd>AWS · GCP</kbd>
-
-<details>
-<summary>전체 보기</summary>
-<br>
 
 - **Backend** · Java · Kotlin · C# · Spring Boot · Spring Security · Spring Batch · Spring AI · JPA · QueryDSL · FastAPI
 - **Data** · MariaDB · MySQL · PostgreSQL · Redis · Valkey (Sentinel) · ElasticSearch
@@ -183,7 +188,9 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 
 </details>
 
-## 🏆 Awards
+<details>
+<summary><b>🏆 Awards</b> · 최우수상 3회 · 장려상 1회</summary>
+<br>
 
 | 시기 | 수상 | |
 |:--|:--|:--|
@@ -192,11 +199,17 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 | 2023.12 | 가천대학교 P-project SW 경연대회 **최우수상** | 28팀 중 1등 · 장학금 |
 | 2020.12 | 가천대학교 AI SW 페스티벌 **최우수상** | 17팀 중 1등 |
 
-## ✍️ Writing
+</details>
+
+<details>
+<summary><b>✍️ Writing</b> · Velog 310편 · AWS 공부 기록 · CS 스터디</summary>
+<br>
 
 - [Velog · 310편](https://velog.io/@rsy991225/posts) — 대규모 트래픽 · Valkey Sentinel · AI 하네스 개발 기록
 - [클라우드(AWS) 공부 및 적용 기록](https://held-frigate-d9c.notion.site/AWS-19a54503738d80b0b809d12dc46b5083)
 - [전공생 PT 기반 CS 스터디](https://github.com/Gachon-CS-Study/CS-Study)
+
+</details>
 
 <div align="center">
 <sub><a href="mailto:rsy1225@naver.com">rsy1225@naver.com</a> · <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B4-%EB%A5%98-62880b352/">LinkedIn</a> · <a href="https://velog.io/@rsy991225/posts">Velog</a></sub>
