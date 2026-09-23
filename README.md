@@ -2,9 +2,9 @@
 
 <sub>류성열 · Product Engineer @ Sweetbook Co., Ltd. · 2026.08 ~</sub>
 
-<h1>핀테크 스타트업 모바일 금융 서비스팀의 백엔드 엔지니어로,<br>선불카드 앱 출시의 0→1을 경험했습니다</h1>
+<h1>서버를 만드는 사람에서, 제품을 책임지는 사람으로</h1>
 
-<h6 align="center">"서버를 만드는 사람에서 제품을 책임지는 사람으로"<br>핀테크 스타트업 BE → Pivot·Agile·AI-First 개발 경험 → Product Engineer로 B2B 서비스 전반 경험.<br>기획·구현·테스트·운영·문서화를 한 사람의 손으로 잇는 "프로덕트 엔지니어"로 성장 중이며, 앞으로도 그럴 것입니다.</h6>
+<h6 align="center">핀테크 스타트업 BE → Pivot·Agile·AI-First 개발 경험 → Product Engineer로 B2B 서비스 전반 경험.<br>기획·구현·테스트·운영·문서화를 한 사람의 손으로 잇는 "프로덕트 엔지니어"로 성장 중이며, 앞으로도 그럴 것입니다.</h6>
 
 <table>
   <tr>
