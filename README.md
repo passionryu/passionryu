@@ -25,8 +25,6 @@
 
 </div>
 
-<br>
-
 <h2 align="center"><sub><code>SECTION 01</code></sub><br>🗓️ Timeline</h2>
 
 | 기간 | 소속 | 역할 · 결과 |
@@ -35,8 +33,6 @@
 | 2025.12 ~ 2026.06 | **Bix Payments** · 금융 모바일 서비스 개발팀 | Back-End Engineer · 선불카드 앱 출시 0→1 · 사전 예약 35,000명 |
 | 2025.06 ~ 2025.08 | **멋쟁이사자처럼** · 백엔드 단기 심화 5기 | 우수 훈련생 · 1차 프로젝트 팀장 · 최종 프로젝트 최우수상 |
 | 2020.03 ~ 2025.08 | **가천대학교** · 컴퓨터공학과 | 학과 AI 프로젝트 3회 연속 팀장 · ALL A+ · 28팀 중 1등 |
-
-<br>
 
 <h2 align="center"><sub><code>SECTION 02</code></sub><br>💼 Experience</h2>
 
@@ -109,8 +105,6 @@
 
 </details>
 
-<br>
-
 <h2 align="center"><sub><code>SECTION 03</code></sub><br>🤖 AI-First Engineering <sub>2026 · 개인 프로젝트</sub></h2>
 
 GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문서 → 지식 축적** 7단계를 흐르는 개발 하네스를 설계했습니다. QA는 Playwright, 문서는 Notion, 지식은 Obsidian에 에이전트가 직접 쌓습니다. 이 하네스로 AI 멘탈케어 서비스 **Haru Mind** MVP를 만들어 배포했습니다.
@@ -147,8 +141,6 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 <br>
 <img src="img_4.png" width="100%" alt="Haru Mind 모바일 화면: 메인 · 채팅 · 마음 리포트 · 마이페이지">
 </details>
-
-<br>
 
 <h2 align="center"><sub><code>SECTION 04</code></sub><br>🗂️ Etc</h2>
 
