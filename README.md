@@ -115,7 +115,7 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="img_1.png"><img src="img_1.png" width="100%" alt="AI 개발 하네스 아키텍처: 7개 에이전트 워크플로우와 Human-in-the-Loop 승인 구조"></a><br>
-      <sub><b>AI 개발 하네스 아키텍처</b> · 기획부터 지식 축적까지 7개 에이전트 워크플로우</sub>
+      <sub><b>AI 개발 하네스 아키텍처</b> · 기획부터 지식 축적까지 7개 에이전트 워크플로우 · <a href="https://github.com/passionryu/Harness">Harness 레포</a></sub>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="assets/harness-kanban-cropped.png"><img src="assets/harness-kanban-cropped.png" width="100%" alt="GitHub Kanban 작업판: Backlog → Plan → Implement → Review → AI QA → PM Final Check → Human QA → Done"></a><br>
@@ -134,19 +134,23 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
       <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w">AI를 쓰지 않으면 뒤처지고, AI에만 의존하면 대체된다</a><br>
       명지대학교 학우들의 초청으로 현직 주니어 개발자의 실무 경험을 공유하고, 다른 현직자들과 네트워킹한 자리입니다.
       <br><br>
-      <b>🌿 Haru Mind</b><br>
+      <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w">발표 영상</a> · <a href="https://velog.io/@rsy991225/series/AI-%ED%99%9C%EC%9A%A9-%EA%B3%B5%EB%B6%80">AI 활용 공부 (Velog 시리즈)</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="280" valign="top">
+      <a href="img_4.png"><img src="img_4.png" width="280" alt="Haru Mind 모바일 화면: 메인 · 채팅 · 마음 리포트 · 마이페이지"></a>
+    </td>
+    <td valign="top">
+      <b>🌿 Haru Mind</b> · 조언보다는 마음의 정리를 도와주는 AI 챗봇<br>
       AI 개발 하네스를 직접 구축해 보고, 그 하네스로 만든 MVP를 경량 클라우드(Railway)에 1주일 만에 출시해 본 개인 프로젝트입니다.
       <br><br>
-      <a href="https://github.com/passionryu/Harness">Harness 레포</a> · <a href="https://github.com/passionryu/myMentalCare">Haru Mind 레포</a> · <a href="https://velog.io/@rsy991225/series/AI-%ED%99%9C%EC%9A%A9-%EA%B3%B5%EB%B6%80">AI 활용 공부 (Velog 시리즈)</a>
+      <kbd>Kotlin</kbd> <kbd>Spring Boot</kbd> <kbd>Next.js</kbd> <kbd>MariaDB</kbd> <kbd>Redis</kbd> <kbd>Railway</kbd>
+      <br><br>
+      <a href="https://github.com/passionryu/myMentalCare">Haru Mind 레포</a> · <a href="img_4.png">화면 크게 보기</a>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>Haru Mind 화면</b> · 조언보다는 마음의 정리를 도와주는 AI 챗봇 · Kotlin/Spring Boot · Next.js · Railway</summary>
-<br>
-<img src="img_4.png" width="100%" alt="Haru Mind 모바일 화면: 메인 · 채팅 · 마음 리포트 · 마이페이지">
-</details>
 
 <h2 align="center"><sub><code>SECTION 04</code></sub><br>🗂️ Etc</h2>
 
