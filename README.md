@@ -66,10 +66,23 @@
 <summary><b>🦁 멋쟁이사자처럼</b> · 백엔드 단기 심화 5기 · 2025.06 ~ 2025.08 · DungeonTalk 최우수 프로젝트 · News Deliver 팀장</summary>
 <br>
 
-| 프로젝트 | 문제 → 한 일 → 결과 | 링크 |
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="assets/arch-dungeontalk.png"><img src="assets/arch-dungeontalk.png" width="100%" alt="DungeonTalk 시스템 아키텍처"></a><br>
+      <sub><b>DungeonTalk</b> · PolyGlot Hybrid Server 아키텍처</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="assets/arch-newsdeliver.png"><img src="assets/arch-newsdeliver.png" width="100%" alt="News Deliver 시스템 아키텍처"></a><br>
+      <sub><b>News Deliver</b> · AWS CI/CD 아키텍처</sub>
+    </td>
+  </tr>
+</table>
+
+| 프로젝트 | 내용 | 링크 |
 |:--|:--|:--|
-| **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드</sub> | AI와 함께하는 TRPG 플랫폼. LLM 할루시네이션 → RAG 설계·PoC + Valkey 캐싱 → **RAG 응답 95% 개선 · Cache Hit 68% · 최우수 프로젝트(6팀 중 1등)**. Valkey Sentinel 기반 세션 장애 자동 대응, Replay Attack·Brute Force 방어 구축 | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
-| **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 팀장</sub> | 카카오톡으로 배달하는 맞춤형 뉴스 서비스. 한 번에 1만 건만 주는 뉴스 API → Spring Batch·Redis로 매 정각 선택적 중간 저장 → **하루 4~8만 건 저장 · ElasticSearch 검색 · Cache-Aside 95.76% 개선**. 팀원 40% 이탈에도 마감 준수 + Beta Test | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
+| **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드</sub> | **문제** AI와 함께하는 TRPG 플랫폼에서 LLM 할루시네이션으로 응답 품질 저하<br>**한 일**<br>· RAG 시스템 설계·PoC로 할루시네이션 개선<br>· Valkey 인스턴스 기반 캐싱으로 RAG 응답 속도 개선<br>· Valkey Sentinel 기반 세션 저장소 장애 자동 대응 구축<br>· Replay Attack·Brute Force 방어 시스템 구축<br>· Multi-Repository와 인프라 초기 세팅, PPT 제작·발표 전담<br>**결과** RAG 응답 95% 개선 · Cache Hit 68% · 최우수 프로젝트 (6팀 중 1등) | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
+| **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 팀장</sub> | **문제** 뉴스 API가 한 번에 1만 건만 반환해 하루 4~8만 건 수집이 불가, 팀원 40% 조기 이탈<br>**한 일**<br>· Spring Batch·Redis로 매 정각 당일 뉴스 현황을 파악해 선택적 중간 저장<br>· ElasticSearch로 관심사 기반 뉴스 검색 구현<br>· Cache-Aside 패턴 Redis 캐싱 적용<br>· 카카오 로그인·메시지 전송 연동, 프론트엔드(TypeScript·React) 전담<br>· 범위 축소·역할 재분배로 마감 준수, Beta Test 주도<br>**결과** 하루 4~8만 건 저장 시스템 안정화 · API 성능 95.76% 개선 · 마감 준수 + Beta Test | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
 
 </details>
 
@@ -79,11 +92,14 @@
 
 학과 AI 앱 개발 프로젝트 3개를 개발자 겸 팀장으로 이끌며, 사회 문제를 해결하는 AI 서비스와 어드민 페이지를 기획·구현·배포했습니다. WBS 기반 일정 관리, Figma 화면 설계, 주 1회 팀 회의와 팀장 보고를 맡았고 세 프로젝트 모두 **A+ 성적**을 받았습니다.
 
-| 프로젝트 | 문제 → 한 일 → 결과 | 링크 |
+<a href="assets/arch-bookcalendar.png"><img src="assets/arch-bookcalendar.png" width="100%" alt="BookCalendar 시스템 아키텍처"></a>
+<p align="center"><sub><b>BookCalendar</b> · 온프레미스 PolyGlot Hybrid Server 아키텍처 (Node.js · Spring · FastAPI)</sub></p>
+
+| 프로젝트 | 내용 | 링크 |
 |:--|:--|:--|
-| **BookCalendar**<br><sub>2025.03 ~ 06 · 3차 · 팀장</sub> | 독서율 하락 → AI Daily 독서 서비스. 온프레미스에 Node·Spring·FastAPI 폴리글랏 + CI/CD 구축 → **46개 API · 핵심 API 10개 98.56% 개선(Cache-Aside)**. GPU 부족 시 Spring AI로 GPT 폴백 | [Repo](https://github.com/passionryu/BookCalendarServer)<br>[Notion](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9) |
-| **Avery · AI Mental Care**<br><sub>2024.09 ~ 12 · 2차 · 팀장</sub> | 정신건강 → 생성형 AI 맞춤 챗봇. Spring AI Beta를 정식 출시 9개월 전에 적용 → **4가지 모드 심리상담 챗봇 · AI 다이어리 · 자가진단** | [Repo](https://github.com/passionryu/Chat_Bot) |
-| **킥라니 구조대**<br><sub>2023.09 ~ 12 · 1차 · 팀장</sub> | 전동킥보드 사고 → Raspberry Pi 센서 + AI 사고 판단 + Android GPS·SMS 자동 신고 → **28팀 중 1등 · 장학금** | [Repo](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
+| **BookCalendar**<br><sub>2025.03 ~ 06 · 3차 · 팀장</sub> | **문제** 10년간 독서율 72%→41% 하락, 독서를 이어가게 하는 AI Daily 독서 서비스<br>**한 일**<br>· 온프레미스 Linux에 Node.js·Spring·FastAPI 폴리글랏 아키텍처와 GitHub Actions CI/CD 구축<br>· Spring 메인 서버 46개 API 구현, Redis 캐시 서버·세션 서버 분리 구축<br>· Cache-Aside 패턴으로 핵심 API 10개 성능 개선<br>· 공용 GPU 과부하 시 Spring AI로 GPT API 폴백, 할루시네이션은 GPT 역할 변경으로 해결<br>**결과** 핵심 API 10개 98.56% 개선 · A+ | [Repo](https://github.com/passionryu/BookCalendarServer)<br>[Notion](https://faint-lavender-bab.notion.site/AI-Vengers-BookCalendar-AI-1d1bc068c52d8087b61fdf9677abf2b9) |
+| **Avery · AI Mental Care**<br><sub>2024.09 ~ 12 · 2차 · 팀장</sub> | **문제** 정신질환 평생 유병률 27%, 생성형 AI 기반 개인 맞춤 멘탈케어<br>**한 일**<br>· 온프레미스 Linux에 Spring·FastAPI 폴리글랏 아키텍처와 CI/CD 구축<br>· Spring AI Beta를 정식 출시 9개월 전에 적용해 GPT 연동<br>· 4가지 모드 심리상담 챗봇, AI 다이어리(AI 레포트·마음 네컷), 정신질환 자가진단, 관리자 서버 구현<br>**결과** 자가진단 → AI 상담 → AI 감정 정리 플로우 완성 · A+ | [Repo](https://github.com/passionryu/Chat_Bot) |
+| **킥라니 구조대**<br><sub>2023.09 ~ 12 · 1차 · 팀장</sub> | **문제** 5년간 1382.9% 증가한 전동킥보드 사고, 골든타임 확보<br>**한 일**<br>· Android(Java)·Raspberry Pi·Firebase Realtime DB를 연동한 AIoT 아키텍처 구축<br>· 리드 스위치·ADXL345 가속도 센서 모듈로 실시간 데이터 수집<br>· AI 사고 판단 시 GPS 좌표 기반 119 자동 신고, 수동 취소 지원<br>· 실제 킥보드에 부착해 테스트<br>**결과** 28팀 중 1등 · 장학금 · A+ | [Repo](https://github.com/passionryu/Automatic-Reporting-App-AIOT-project) |
 
 </details>
 
@@ -124,12 +140,18 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 
 ## 🧩 기타 프로젝트 · 활동
 
-| 활동 | 한 일 → 결과 | 링크 |
+| 활동 | 내용 | 링크 |
 |:--|:--|:--|
-| **GDG Gachon 해커톤 · 디지털 옷장**<br><sub>2025.02 · 무박 2일 · 백엔드</sub> | 일상의 사소한 불편을 해결하는 서비스 주제. 회원 가입·로그인 화면과 서버 구현, Spring AI로 의상 추천 챗봇·리포트 개발 → **장려상 (7팀 중 3등)** | [Back](https://github.com/passionryu/3rdwagle-team6-back)<br>[Front](https://github.com/passionryu/3rdwagle-team6-front) |
-| **Healing Space**<br><sub>2025.01 ~ 03 · 개인 프로젝트</sub> | "디지털 힐링 & 마인드 케어" 웹 서비스. AI 다이어리 · AI 고민 상담 · AI 심리 상담 챗봇 · 힐링 커뮤니티를 React/Spring Boot로 구현, **GitHub Actions → AWS 자동 배포** | [Back](https://github.com/passionryu/Healing-Space-Back)<br>[Front](https://github.com/passionryu/Healing-Space-Front)<br>[Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab) |
-| **KKSC 동아리 홈페이지 · 회원 시스템 개발팀장**<br><sub>2024 여름 · 2개월 · 22명 5개 팀</sub> | 백엔드 3팀·프론트 1팀·PM 1팀 협업 프로젝트에서 회원 시스템 팀(5명)을 이끌며 **Spring Security·Redis 기반 회원 시스템** 구축, 게시판·캘린더 팀과 연동해 서버 파트 완성 | [Repo](https://github.com/passionryu/StudentClub-WebPage) |
-| **KKSC Java/Spring 스터디 팀장**<br><sub>2024 상·하반기 · 각 3개월</sub> | Java·Spring Boot 기초 스터디와 심화 스터디를 연이어 주도, 팀원 관리와 운영 담당 | |
+| **GDG Gachon 해커톤 · 디지털 옷장**<br><sub>2025.02 · 무박 2일 · 백엔드</sub> | **주제** 일상의 사소한 불편을 해결하는 서비스<br>**한 일**<br>· 회원 가입·로그인 화면 구현과 서버 연동<br>· Spring AI로 의상 추천 챗봇·리포트 구현<br>**결과** 장려상 (7팀 중 3등) | [Back](https://github.com/passionryu/3rdwagle-team6-back)<br>[Front](https://github.com/passionryu/3rdwagle-team6-front) |
+| **Healing Space**<br><sub>2025.01 ~ 03 · 개인 프로젝트</sub> | **주제** "디지털 힐링 & 마인드 케어" 웹 서비스<br>**한 일**<br>· AI 다이어리 · AI 고민 상담 · AI 심리 상담 챗봇 · 힐링 커뮤니티를 React/Spring Boot로 구현<br>· GitHub Actions → AWS 자동 배포 파이프라인 구축<br>**결과** 반응형 웹 서비스 배포 | [Back](https://github.com/passionryu/Healing-Space-Back)<br>[Front](https://github.com/passionryu/Healing-Space-Front)<br>[Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab) |
+| **KKSC 동아리 홈페이지 · 회원 시스템 개발팀장**<br><sub>2024 여름 · 2개월 · 22명 5개 팀</sub> | **주제** 백엔드 3팀·프론트 1팀·PM 1팀이 참여한 동아리 홈페이지 개발<br>**한 일**<br>· 회원 시스템 팀(5명) 리드, 협업용 회원 관리 시스템 연구·토론<br>· Spring Security·Redis 기반 회원 시스템 구축<br>· 게시판·캘린더 팀과 연동해 서버 파트 완성 | [Repo](https://github.com/passionryu/StudentClub-WebPage) |
+| **KKSC Java/Spring 스터디 팀장**<br><sub>2024 상·하반기 · 각 3개월</sub> | **한 일**<br>· Java·Spring Boot 기초 스터디 팀장 (3개월)<br>· Java·Spring Boot 심화 스터디 팀장 (3개월)<br>· 팀원 관리와 스터디 운영 | |
+
+<details>
+<summary><b>Healing Space 시스템 아키텍처</b> · AWS CI/CD (Linux)</summary>
+<br>
+<a href="assets/arch-healingspace.png"><img src="assets/arch-healingspace.png" width="100%" alt="Healing Space 시스템 아키텍처"></a>
+</details>
 
 ## 🛠️ Tech Stack
 
