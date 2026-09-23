@@ -122,6 +122,15 @@ GitHub Issue 하나가 **기획 → 설계 → 개발 → 리뷰 → QA → 문�
 - Valkey Sentinel PoC · Primary-Replica 이중화 · Read/Write 트래픽 분기 · 서버 5배 수평 확장
 - [연구 기록 (Notion)](https://knotty-toast-80a.notion.site/26b1979809dd800681eff595e8dbe3bd) · [Repo](https://github.com/Research-Project-rsy/High-Traffic-Server)
 
+## 🧩 기타 프로젝트 · 활동
+
+| 활동 | 한 일 → 결과 | 링크 |
+|:--|:--|:--|
+| **GDG Gachon 해커톤 · 디지털 옷장**<br><sub>2025.02 · 무박 2일 · 백엔드</sub> | 일상의 사소한 불편을 해결하는 서비스 주제. 회원 가입·로그인 화면과 서버 구현, Spring AI로 의상 추천 챗봇·리포트 개발 → **장려상 (7팀 중 3등)** | [Back](https://github.com/passionryu/3rdwagle-team6-back)<br>[Front](https://github.com/passionryu/3rdwagle-team6-front) |
+| **Healing Space**<br><sub>2025.01 ~ 03 · 개인 프로젝트</sub> | "디지털 힐링 & 마인드 케어" 웹 서비스. AI 다이어리 · AI 고민 상담 · AI 심리 상담 챗봇 · 힐링 커뮤니티를 React/Spring Boot로 구현, **GitHub Actions → AWS 자동 배포** | [Back](https://github.com/passionryu/Healing-Space-Back)<br>[Front](https://github.com/passionryu/Healing-Space-Front)<br>[Notion](https://furtive-bard-509.notion.site/Healing-Space-Web-Service-14c83cc537b6801d92e8ec47ccfab4ab) |
+| **KKSC 동아리 홈페이지 · 회원 시스템 개발팀장**<br><sub>2024 여름 · 2개월 · 22명 5개 팀</sub> | 백엔드 3팀·프론트 1팀·PM 1팀 협업 프로젝트에서 회원 시스템 팀(5명)을 이끌며 **Spring Security·Redis 기반 회원 시스템** 구축, 게시판·캘린더 팀과 연동해 서버 파트 완성 | [Repo](https://github.com/passionryu/StudentClub-WebPage) |
+| **KKSC Java/Spring 스터디 팀장**<br><sub>2024 상·하반기 · 각 3개월</sub> | Java·Spring Boot 기초 스터디와 심화 스터디를 연이어 주도, 팀원 관리와 운영 담당 | |
+
 ## 🛠️ Tech Stack
 
 <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>C#</kbd> <kbd>TypeScript</kbd> <kbd>Spring Boot</kbd> <kbd>Spring Security</kbd> <kbd>JPA · QueryDSL</kbd> <kbd>MariaDB · MySQL</kbd> <kbd>Redis · Valkey</kbd> <kbd>Docker</kbd> <kbd>Nginx</kbd> <kbd>AWS · GCP</kbd>
