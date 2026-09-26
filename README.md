@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<a href="https://velog.io/@rsy991225/posts"><img src="https://img.shields.io/badge/Velog-310_posts-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog 310 posts"></a> <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w"><img src="https://img.shields.io/badge/BehindCon-Talk-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="BehindCon Talk"></a> <a href="mailto:rsy1225@naver.com"><img src="https://img.shields.io/badge/Email-rsy1225%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B4-%EB%A5%98-62880b352/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://velog.io/@rsy991225/posts"><img src="https://img.shields.io/badge/Velog-310_posts-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog 310 posts"></a> <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w"><img src="https://img.shields.io/badge/BehindCon-Talk-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="BehindCon Talk"></a> <a href="mailto:rsy1225@naver.com"><img src="https://img.shields.io/badge/Email-rsy1225%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/passionryu/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
@@ -237,5 +237,5 @@ DungeonTalk에서 제가 설계한 세션 저장소는 **Primary-Replica 구조�
 </details>
 
 <div align="center">
-<sub><a href="mailto:rsy1225@naver.com">rsy1225@naver.com</a> · <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B4-%EB%A5%98-62880b352/">LinkedIn</a> · <a href="https://velog.io/@rsy991225/posts">Velog</a></sub>
+<sub><a href="mailto:rsy1225@naver.com">rsy1225@naver.com</a> · <a href="https://www.linkedin.com/in/passionryu/">LinkedIn</a> · <a href="https://velog.io/@rsy991225/posts">Velog</a></sub>
 </div>
