@@ -2,23 +2,23 @@
 
 <sub>류성열 · Product Engineer @ Sweetbook Co., Ltd. · 2026.08 ~</sub>
 
-<h1>"서버를 구축하는 개발자에서, 제품을 책임지는 엔지니어로"</h1>
+<h1>"0→1을 만들어 봤고,<br>지금은 1을 오래 살리는 법을 익힙니다"</h1>
 
-<h6 align="center">학부 시절, AI 서비스 개발 학과 프로젝트 팀장(9개월) → 핀테크 스타트업 BE → Pivot·Agile·AI-First 개발 경험 → Product Engineer로 B2B 서비스 전반 경험.<br>기획·구현·테스트·운영·문서화를 한 사람의 손으로 잇는 "프로덕트 엔지니어"로 성장 중이며, 앞으로도 그럴 것입니다.</h6>
+<p align="center"><b>Bix Payments</b> · 핀테크 스타트업에서 MVP~Alpha 기간 유일한 백엔드로 선불카드 앱을 2개월 만에 MVP로 만들고 출시·운영했습니다.<br><b>Sweetbook</b> · 지금은 포토북·인쇄 커머스의 이미 돌아가는 서비스 위에서 파트너 API 연동 데모, 레거시 서비스 전환, AI-First 개발 환경을 맡고 있습니다.</p>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>35,000명</h3>
-      <sub>사전 예약자 · Biscuit Card 앱 출시·운영<br>Bix Payments · 유일한 백엔드 · 2025.12 ~ 2026.06</sub>
+      <h3>MVP 2개월</h3>
+      <sub>선불카드 앱 0→1 · 알파 테스트 70명 → 출시<br>Bix Payments · MVP~Alpha 유일한 백엔드</sub>
     </td>
     <td align="center" width="33%">
-      <h3>28팀 중 1등</h3>
-      <sub>가천대 P-project SW 경연 최우수상<br>AIoT 자동 신고 서비스 · 팀장 · 장학금</sub>
+      <h3>결제 정합성 CS 0건</h3>
+      <sub>운영 4개월 · 카드 결제<br>외부 원장 기준(SoT) + 멱등 처리</sub>
     </td>
     <td align="center" width="33%">
-      <h3>최우수 프로젝트</h3>
-      <sub>멋쟁이사자처럼 백엔드 5기 · 6팀 중 1등<br>RAG 응답 95% 개선 · Cache Hit 68%</sub>
+      <h3>충전 10 → 4 클릭</h3>
+      <sub>알파 테스터 피드백 → 간편결제 연동<br>포인트 충전 클릭 수 약 60% 감소</sub>
     </td>
   </tr>
 </table>
@@ -29,28 +29,45 @@
 
 <h2 align="center"><sub><code>SECTION 01</code></sub><br>🗓️ Timeline</h2>
 
+**Work**
+
 | 기간 | 소속 | 역할 · 결과 |
 |:--|:--|:--|
-| 2026.08 ~ | **Sweetbook Co., Ltd.** | Product Engineer · 파트너사용 인쇄공장 연동 API · Demo App |
-| 2025.12 ~ 2026.06 | **Bix Payments Co., Ltd.** · 금융 모바일 서비스 개발팀 | Back-End Engineer · 선불카드 앱 출시 0→1 · 사전 예약 35,000명 |
+| 2026.08 ~ | **Sweetbook Co., Ltd.** · 개발팀 | Product Engineer · 파트너 API 연동 데모 · 레거시 서비스 전환 · AI-First 개발 환경 |
+| 2025.12 ~ 2026.06 | **Bix Payments Co., Ltd.** · 금융 모바일 서비스 개발팀 | Back-End Engineer · 선불카드 앱 0→1 출시·운영 · 결제 정합성 CS 0건 |
+
+**Education**
+
+| 기간 | 소속 | 역할 · 결과 |
+|:--|:--|:--|
 | 2025.06 ~ 2025.08 | **멋쟁이사자처럼** · 백엔드 단기 심화 5기 | 우수 훈련생 · 1차 프로젝트 팀장 · 최종 프로젝트 최우수상 |
 | 2020.03 ~ 2025.08 | **가천대학교** · 컴퓨터공학과 | 학과 AI 프로젝트 3회 연속 팀장 · ALL A+ · 28팀 중 1등 |
 
 <h2 align="center"><sub><code>SECTION 02</code></sub><br>💼 Experience</h2>
 
 <details>
-<summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer · 2026.08 ~ · 인쇄공장 연동 API · Demo App · AI-First</summary>
+<summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer · 2026.08 ~ · 파트너 API 연동 데모 · 레거시 서비스 전환 · AI-First 개발 환경</summary>
 <br>
 
-회사가 자체 보유한 **인쇄공장을 파트너사 개발자가 간단히 연동**할 수 있도록, 최적화된 API와 개발자 경험을 높이는 **Demo App**(Test Client)을 C#·TypeScript로 개발하고 있습니다. Claude를 활용해 **PR 기반 AI-First 개발·문서화·테스트 자동화**로 팀원들과 협업합니다.
+포토북·인쇄 커머스 회사에서 **자사 서비스 – 중앙 서버(C#/.NET) – 데이터 서버**로 이어지는 구조 위에서, 이미 돌아가는 제품을 멈추지 않고 고치고 넓히는 일을 합니다. 자체 인쇄공장을 **파트너사 개발자가 쉽게 연동**하도록 돕는 일이 중심입니다.
+
+| 일 | 한 일 | 결과 |
+|:--|:--|:--|
+| **파트너용 API 연동 데모**<br><sub>TypeScript CLI · 진행 중</sub> | · 파트너 개발자가 명령 몇 개로 샘플 주문까지 가 볼 수 있는 Test Client 개발<br>· 문서만 믿지 않고 sandbox를 직접 호출해 문서와 다른 서버 동작을 확인하고 코드로 처리<br>· 멱등 키·재시도, AI 코드 리뷰 · 보안 스캔 · 무맥락 클론 테스트로 검증 | 파트너 DX용 레퍼런스 데모 |
+| **공개 API SDK 구조 분석**<br><sub>Python · Node.js · Java SDK · OpenAPI</sub> | · 파트너용 SDK 3종을 같은 질문 틀로 비교하고 OpenAPI 스펙을 sandbox로 실측 | "PDF 업로드 → 주문" 흐름 결함 발견·보고, 스펙 정정 |
+| **레거시 서비스 전환**<br><sub>.NET Framework · WPF · SQL Server</sub> | · 레거시 달력 테마 전환 1단계 분석을 코드 · 운영 데이터 · 실측 세 갈래로 교차 검증 | 옮길 범위를 크게 줄이고 1단계 리뷰 승인·머지 |
+| **AI-First 개발 환경**<br><sub>Claude Code</sub> | · 권한 규칙 · 서브에이전트 · 스킬 · 메모리로 개인 개발 하네스 구성, 업무 기록 자동화<br>· 공용 레포와 회사 정보를 건드리지 않도록 개인 설정을 분리 | 공용 레포 변경 없이 개인 하네스로 매일 사용 |
+| **서버 간 인증 체계 전환**<br><sub>C# · .NET</sub> | · 팀장 기획에 따라 통합 인증 체계의 세부 설계·구현을 맡아 단계적으로 운영 반영 | 운영 중 기존 서비스 영향 0곳 |
 
 </details>
 
 <details>
-<summary><b>💳 Bix Payments Co., Ltd.</b> · Back-End Engineer · 2025.12 ~ 2026.06 · 선불카드 앱 0→1 · 사전 예약 35,000명</summary>
+<summary><b>💳 Bix Payments Co., Ltd.</b> · Back-End Engineer · 2025.12 ~ 2026.06 · 선불카드 앱 0→1 · 결제 정합성 CS 0건 · TCC 보상 트랜잭션</summary>
 <br>
 
-핀테크 스타트업 B2C 모바일 금융 서비스팀의 **유일한 백엔드 개발자**로, 자사 정산 시스템과 연동되는 카드 시스템 초기 모델과 B2C/B2B 카드 관리 플랫폼을 구축했습니다. 정산·이커머스만 있던 회사의 **신규 사업 확장**과 **선불 사업자 라이선스 취득 조건 충족**에 기여했습니다.
+핀테크 스타트업 B2C 모바일 금융 서비스팀(7명)에서 **MVP~Alpha 기간 유일한 백엔드 개발자**로, 자사 정산 시스템과 연동되는 카드 시스템 초기 모델과 B2C/B2B 카드 관리 플랫폼을 구축했습니다. 정산·이커머스만 있던 회사의 **신규 사업 확장**과 **선불 사업자 라이선스 취득 조건 충족**에 기여했습니다.
+
+<kbd>Kotlin</kbd> <kbd>Spring Boot</kbd> <kbd>JPA · QueryDSL</kbd> <kbd>Redis</kbd> <kbd>FCM</kbd> <kbd>Hexagonal 멀티모듈</kbd>
 
 📱 **출시된 앱** &nbsp; <a href="https://play.google.com/store/apps/details?id=bz.bix.biscuit"><img src="https://img.shields.io/badge/Google_Play-Biscuit_Card-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play에서 Biscuit Card 받기"></a> <a href="https://apps.apple.com/kr/app/biscuit-card/id6758941646"><img src="https://img.shields.io/badge/App_Store-Biscuit_Card-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store에서 Biscuit Card 받기"></a>
 
@@ -58,11 +75,19 @@
 
 | 단계 | 한 일 | 결과 |
 |:--|:--|:--|
-| MVP | Biscuit Card 앱 초기 모델 개발 | 카드 사업 0→1 |
-| Alpha | 그룹사 임직원 대상 알파 테스트 | 70명 |
-| Launch | 앱 출시·운영 ([Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit) · [App Store](https://apps.apple.com/kr/app/biscuit-card/id6758941646)), 관리자 Web 개발·운영 | 사전 예약자 35,000명 |
-| Ops | 운영팀과 고객 요구사항 분석 · 장애 대응 · 기술 지원 | 6개월 116 티켓 |
-| AI-First | Codex 기반 업무 방식 정착 | 워크플로우 60% 준자동화 |
+| MVP | 결제 · 충전 · 카드 이력 · 잔액 API와 외부 카드 플랫폼 · 자사 정산 시스템 연동 | 2개월 만에 카드 사업 0→1 |
+| Alpha | 그룹사 임직원 대상 알파 테스트, 피드백을 받아 간편결제 충전 도입 | 70명 |
+| Launch | 앱 출시·운영 ([Google Play](https://play.google.com/store/apps/details?id=bz.bix.biscuit) · [App Store](https://apps.apple.com/kr/app/biscuit-card/id6758941646)), 관리자 Web 개발·운영 | 양대 마켓 출시 |
+| Ops | 4개 유관 조직과 고객 요구사항 분석 · 장애 대응 · 기술 지원 | 6개월 116 티켓 |
+| AI-First | 설계 검토 · 구현 보조 · QA 요청 정리 · 문서화를 Codex로 처리하고, 구현 전 Sequence Diagram · Flow Chart · Pseudo Code를 스펙으로 고정해 직접 검증·승인 | 워크플로우 약 60% 준자동화 |
+
+| 문제 | 한 일 | 결과 |
+|:--|:--|:--|
+| **결제 정합성**<br><sub>협력사 결제 통보의 중복·지연·누락 가능성</sub> | 외부 협력사 원장을 결제 데이터의 기준(SoT)으로 정하고, `카드 식별자 + 승인번호` 멱등 처리와 "의심 통보만 외부 원장 조회"하는 정합화를 MVP 중반에 설계 | 운영 4개월 결제 정합성 CS 0건 |
+| **충전 부분 실패**<br><sub>1차 QA에서 정산금 차감·포인트 충전 중 한쪽만 반영</sub> | 정산 시스템 개발자와 충전 흐름을 Try-Confirm-Cancel · 단계별 상태 기록 · 보상 트랜잭션으로 당일 밤 재구현 | 다음 날 그룹사 임원 데모, 출시 일정 지연 0 · 이후 부분 실패 0건 |
+| **결제 장애**<br><sub>협력사의 미통보 API 스펙 변경</sub> | 팀장과 로그 · 배포 이력으로 원인을 인증 필터 구간까지 좁혀 HotFix, 다음 날 협력사와 DB 대사 | 1시간 내 정상화 · 누락 결제 15건 전부 복구 · 최대 5회 자동 재통보 구현 |
+| **충전 UX**<br><sub>충전마다 외부 결제창 이동</sub> | 간편결제(결제수단 1회 등록 → PIN 인증 → 서버 승인)를 서버 단독 구현, 카드 번호 대신 PG 토큰만 저장 | 충전 클릭 약 10회 → 4회 |
+| **테스트 환경**<br><sub>정산 시스템 DEV/STAGE 전환마다 설정 수정·재배포</sub> | DB 기반 Endpoint 동적 라우팅으로 외부 연동 대상을 런타임에 전환 | 세팅 약 10분 → 1분 이내 |
 
 </details>
 
@@ -85,8 +110,8 @@
 
 | 프로젝트 | 내용 | 링크 |
 |:--|:--|:--|
-| **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드 개발자</sub> | 🎯 **문제**<br>&emsp;AI와 함께하는 TRPG 플랫폼에서 LLM 할루시네이션으로 응답 품질 저하<br>🛠️ **한 일**<br>&emsp;· RAG 시스템 설계·PoC로 할루시네이션 개선<br>&emsp;· Valkey 인스턴스 기반 캐싱으로 RAG 응답 속도 개선<br>&emsp;· **Primary-Replica 구조의 Valkey 세션 저장소 설계·담당**, Sentinel 프로세스로 장애 자동 대응 구축<br>&emsp;· Replay Attack·Brute Force 방어 시스템 구축<br>&emsp;· Multi-Repository와 인프라 초기 세팅, PPT 제작·발표 전담<br>✅ **결과**<br>&emsp;RAG 응답 95% 개선 · Cache Hit 68% · 최우수 프로젝트 (6팀 중 1등) | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
-| **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 풀스택 개발자 · 팀장</sub> | 🎯 **문제**<br>&emsp;뉴스 API가 한 번에 1만 건만 반환해 하루 4\~8만 건 수집이 불가, 팀원 40% 조기 이탈<br>🛠️ **한 일**<br>&emsp;· Spring Batch·Redis로 매 정각 당일 뉴스 현황을 파악해 선택적 중간 저장<br>&emsp;· ElasticSearch로 관심사 기반 뉴스 검색 구현<br>&emsp;· Cache-Aside 패턴 Redis 캐싱 적용<br>&emsp;· 카카오 로그인·메시지 전송 연동, 프론트엔드(TypeScript·React) 전담<br>&emsp;· 범위 축소·역할 재분배로 마감 준수, Beta Test 주도<br>✅ **결과**<br>&emsp;하루 4\~8만 건 저장 시스템 안정화 · API 성능 95.76% 개선 · 마감 준수 + Beta Test | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
+| **DungeonTalk**<br><sub>2025.08 · 최종 프로젝트 · 백엔드 개발자</sub> | 🎯 **문제**<br>&emsp;AI와 함께하는 TRPG 플랫폼에서 LLM 할루시네이션으로 응답 품질 저하<br>🛠️ **한 일**<br>&emsp;· 모델 훈련 없이 적용할 수 있는 RAG를 제안하고 PoC로 할루시네이션 개선 검증<br>&emsp;· Valkey Session/Cache 저장소 분리<br>&emsp;· **Primary-Replica 구조의 Valkey 세션 저장소 설계·담당**, Sentinel 3개로 장애 자동 대응 구축<br>&emsp;· Multi-Repository와 인프라 초기 세팅, PPT 제작·발표 전담<br>✅ **결과**<br>&emsp;최우수 프로젝트 (6팀 중 1등) · 개발자 개입 없는 세션 서버 자동 Failover | [Repo](https://github.com/DungeonTalk/dungeontalk-backend)<br>[Wiki](https://github.com/DungeonTalk/dungeontalk-backend/wiki)<br>[발표](https://youtu.be/I0_8VHwtSKs) |
+| **News Deliver**<br><sub>2025.07 · 1차 프로젝트 · 풀스택 개발자 · 팀장</sub> | 🎯 **문제**<br>&emsp;뉴스 API가 한 번에 1만 건만 반환해 하루 4\~8만 건 수집이 불가, 팀원 40% 조기 이탈<br>🛠️ **한 일**<br>&emsp;· 실시간 뉴스 발행 수를 모니터링해 임계치에 닿으면 즉시 Batch를 실행하는 흐름 구축 (Spring Batch·Redis)<br>&emsp;· ElasticSearch로 관심사 기반 뉴스 검색 구현<br>&emsp;· 카카오 로그인·메시지 전송 연동, 프론트엔드(TypeScript·React) 전담<br>&emsp;· 팀 해체 제안에도 범위를 MVP로 줄이고 역할 재분배, 이탈자 코드 리팩터링 (Service 400줄 → 120줄)<br>✅ **결과**<br>&emsp;하루 4\~8만 건 적재 · 1주 Beta Test 데이터 유실률 0% · 마감 1주 전 배포 | [Server](https://github.com/News-Deliver/Server)<br>[Web](https://github.com/News-Deliver/Web)<br>[발표](https://youtu.be/e8M7uNfBp1c) |
 
 </details>
 
