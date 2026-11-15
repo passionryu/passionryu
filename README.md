@@ -20,6 +20,8 @@ Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board�
 
 포토북·책 제작 플랫폼(POD형 이커머스)에서 Creative Tool 파트(포토북·달력 편집기)를 개발하는 Product Engineer로, 레거시 개선과 신규 기능 개발을 맡고 있습니다.
 
+<a href="https://www.sweetbook.com/"><img src="https://img.shields.io/badge/Website-sweetbook.com-414141?style=flat-square&logo=googlechrome&logoColor=white" alt="스위트북 웹사이트"></a>
+
 **[달력 PNG 생성 Creative Tool 레거시 개선]**
 - 중요 로직을 Code-Driven에서 SSOT 개념을 적용한 Data-Driven 구조로 전환하여 불필요한 Build&Deploy를 제거했습니다. 레거시 PNG 대비 간격 오차를 1px 미만으로 유지하며 마이그레이션을 완료(총 336건의 PNG)했습니다.
 
