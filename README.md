@@ -3,19 +3,19 @@
 안녕하세요, POD E-commerce 서비스 회사에서 Creative Tool 파트를 개발하는 <b>Product Engineer(C#/.NET) 류성열</b>입니다.
 
 Claude 기반의 AI-Native를 지향하는 팀에서, <b>'해결할 문제'와 'AI 산출물 검증'</b>에 집중합니다.<br>
-Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board를 기반으로 <b>여러 티켓을 병렬 오케스트레이션</b>하고 <b>2차 QA 프로세스(AI E2E QA -> Human QA)</b>를 적용하여 작업의 속도와 품질을 보장합니다.
+Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board를 기반으로 <b>여러 티켓을 병렬 오케스트레이션</b>하고 <b>2차 QA 프로세스(AI E2E QA → Human QA)</b>를 적용하여 작업의 속도와 품질을 보장합니다.
 
 과거 컴퓨터 공학을 전공하며, 다음 경험을 통해 Back-End 중심의 개발 역량을 쌓았습니다.
 - AI 서비스 개발 학과 프로젝트를 <b>9개월간 TL</b> 역할 수행
 - 교내 웹/앱 개발 동아리 <b>백엔드 개발 팀장</b> 직무 1년간 수행
 
 졸업 후, 3개월간 백엔드 단기 심화 부트캠프를 통해 심화 지식·경험을 습득했습니다.<br>
-이후, 핀테크 스타트업 모바일 금융 서비스 개발팀에서 <b>백엔드 개발자(Kotlin·Spring Boot)</b>로 합류하여 <b>MVP 개발(카드 서비스) -> Alpha Test(그룹사 임직원 70명 대상) -> 런칭 및 운영</b>한 업무 경험을 보유하며 회사의 핀테크 비즈니스를 수평 확장하고, 선불 사업자 라이선스 취득 조건을 충족하는 데 기여했습니다.
+이후, 핀테크 스타트업 모바일 금융 서비스 개발팀에서 <b>백엔드 개발자(Kotlin·Spring Boot)</b>로 합류하여 <b>MVP 개발(카드 서비스) → Alpha Test(그룹사 임직원 70명 대상) → 런칭 및 운영</b>한 업무 경험을 보유하며 회사의 핀테크 비즈니스를 수평 확장하고, 선불 사업자 라이선스 취득 조건을 충족하는 데 기여했습니다.
 
 ---
 
 <details>
-<summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer (풀스택) · 2026.08 ~</summary>
+<summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer (풀스택) · 2026.08 ~<br>&emsp;&nbsp;<b>배포 시간 81%↓ · 디자이너 작업 89%↓</b></summary>
 <br>
 
 포토북·책 제작 플랫폼(POD형 이커머스)에서 Creative Tool 파트(포토북·달력 편집기)를 개발하는 Product Engineer로, 레거시 개선과 신규 기능 개발을 맡고 있습니다.
@@ -35,7 +35,7 @@ Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board�
 </details>
 
 <details>
-<summary><b>💳 Bix Payments Co., Ltd.</b> · Backend Developer · 2025.12 ~ 2026.06</summary>
+<summary><b>💳 Bix Payments Co., Ltd.</b> · Backend Developer · 2025.12 ~ 2026.06<br>&emsp;&nbsp;<b>카드 서비스 0→1 · 결제 정합성 CS 0건</b></summary>
 <br>
 
 핀테크 스타트업 B2C 모바일 금융 서비스팀에서 초기 개발~Alpha 기간 유일한 백엔드 개발자로, 카드 서비스 MVP 개발 → Alpha Test(그룹사 임직원 70명) → 출시·운영(출시 전 사전 예약 35,000명)을 경험했습니다. 4개 조직(정산 시스템 개발팀, 협력사 개발팀, QA팀, 운영팀)과 협업해 카드 결제/관리 시스템을 구축했고, 비즈니스 수평 확장과 선불 사업자 라이선스 취득 조건 충족에 기여했습니다.
@@ -60,7 +60,7 @@ Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board�
 </details>
 
 <details>
-<summary><b>🌱 Before</b> · 가천대 컴퓨터공학과 · 멋쟁이사자처럼 · BehindCon 발표</summary>
+<summary><b>🌱 Before</b> · 가천대 컴퓨터공학과 · 멋쟁이사자처럼 · BehindCon 발표<br>&emsp;&nbsp;<b>28팀 중 1등 · 최우수상</b></summary>
 <br>
 
 - **가천대 컴퓨터공학과** · 9개월간 학과 AI 서비스 프로젝트의 개발자 겸 팀장으로 11명의 학우들과 AI 모델 6개를 fine-tuning해 서비스 3개를 만들었고, 세 프로젝트 모두 A+를 받으며 28팀 중 1등(장학금)을 했습니다.
