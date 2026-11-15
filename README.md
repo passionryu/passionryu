@@ -10,7 +10,9 @@
 
 ---
 
-### 🏢 Sweetbook Co., Ltd. <sub>Product Engineer (풀스택) · 2026.08 ~</sub>
+<details>
+<summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer (풀스택) · 2026.08 ~</summary>
+<br>
 
 포토북·책 제작 플랫폼(POD형 이커머스)에서 Creative Tool 파트(포토북·달력 편집기)를 개발하는 Product Engineer로, 레거시 개선과 신규 기능 개발을 맡고 있습니다.
 
@@ -26,7 +28,11 @@
 **[AI-First 개발]**
 - 업무 내용을 Second Brain으로 관리해 AI Agent가 참고하게 하고, Kanban Board에 AI Agent를 연동해 여러 티켓을 병렬로 오케스트레이션하며 일합니다. 정기 기술 공유 세션에서 AI 실험 사례를 발표해 팀의 AI 전환(AX)에도 기여하고 있습니다.
 
-### 💳 Bix Payments Co., Ltd. <sub>Backend Developer · 2025.12 ~ 2026.06</sub>
+</details>
+
+<details>
+<summary><b>💳 Bix Payments Co., Ltd.</b> · Backend Developer · 2025.12 ~ 2026.06</summary>
+<br>
 
 핀테크 스타트업 B2C 모바일 금융 서비스팀에서 초기 개발~Alpha 기간 유일한 백엔드 개발자로, 카드 서비스 MVP 개발 → Alpha Test(그룹사 임직원 70명) → 출시·운영(출시 전 사전 예약 35,000명)을 경험했습니다. 4개 조직(정산 시스템 개발팀, 협력사 개발팀, QA팀, 운영팀)과 협업해 카드 결제/관리 시스템을 구축했고, 비즈니스 수평 확장과 선불 사업자 라이선스 취득 조건 충족에 기여했습니다.
 
@@ -47,10 +53,16 @@
 **[포인트 충전 UX 개선]**
 - 충전할 때마다 외부 결제창을 거쳐야 해서 클릭이 10회 필요했습니다. 간편 결제 기능을 연동해 충전에 필요한 클릭 수를 4회로 줄였습니다.
 
-### 🌱 Before
+</details>
+
+<details>
+<summary><b>🌱 Before</b> · 가천대 컴퓨터공학과 · 멋쟁이사자처럼 · BehindCon 발표</summary>
+<br>
 
 - **가천대 컴퓨터공학과** · 9개월간 학과 AI 서비스 프로젝트의 개발자 겸 팀장으로 11명의 학우들과 AI 모델 6개를 fine-tuning해 서비스 3개를 만들었고, 세 프로젝트 모두 A+를 받으며 28팀 중 1등(장학금)을 했습니다.
 - **멋쟁이사자처럼 백엔드 5기** · 우수 훈련생으로 선정됐고, 두 팀 프로젝트의 발표를 모두 맡아 최종 프로젝트에서 최우수상(6팀 중 1등)을 받았습니다.
 - **BehindCon 초청 발표** · 명지대 학생들이 주최한 컨퍼런스에서 ["AI를 쓰지 않으면 뒤처지고, AI만 의존하면 대체된다"](https://www.youtube.com/watch?v=Po1S4HBXo6w)를 주제로 발표했습니다(2026.07).
+
+</details>
 
 <kbd>C# · .NET</kbd> <kbd>Kotlin</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>SQL Server</kbd> <kbd>MariaDB</kbd> <kbd>Redis</kbd> <kbd>Docker</kbd> <kbd>AWS · GCP</kbd> <kbd>Claude Code · Codex</kbd>
