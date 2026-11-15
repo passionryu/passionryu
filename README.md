@@ -1,15 +1,5 @@
 # 류성열 <sub>Product Engineer</sub>
 
-새 서비스는 **0→1로 만들어 출시**하고, 오래된 서비스는 **기존 동작을 지키며 고칩니다.**
-
-- 🚀 **신사업 0→1** · 핀테크 스타트업에서 기존 정산 시스템과 연동되는 카드 서비스를 MVP 개발 → Alpha Test → 출시까지 3개월 만에 만들고, 이후 3개월간 운영했습니다.
-- 🛠️ **레거시 개선** · 마이클 페더스의 「레거시 코드 활용 전략」대로 기존 동작을 테스트로 먼저 고정한 뒤, 10년 넘은 레거시 달력을 레거시 대비 오차 1px 미만으로 옮겼습니다.
-- 🤖 **AI 기반 개발** · Codex·Claude Code로 개발 Workflow를 체계화하고, Notion을 사람과 AI가 함께 관리하는 Second Brain으로 만들어 일합니다.
-
-📮 [rsy1225@naver.com](mailto:rsy1225@naver.com) · [LinkedIn](https://www.linkedin.com/in/passionryu/) · [Velog](https://velog.io/@rsy991225/posts)
-
----
-
 <details>
 <summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer (풀스택) · 2026.08 ~</summary>
 <br>
