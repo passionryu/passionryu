@@ -1,37 +1,14 @@
-<div align="center">
+# 류성열 <sub>Product Engineer</sub>
 
-<sub>류성열 · Product Engineer @ Sweetbook Co., Ltd.</sub>
+새 서비스는 **0→1로 만들어 출시**하고, 오래된 서비스는 **기존 동작을 지키며 고칩니다.**
 
-<h1>"0→1을 만들어 봤고,<br>지금은 1을 오래 살리는 법을 익힙니다"</h1>
+- 🚀 **신사업 0→1** · 핀테크 스타트업에서 기존 정산 시스템과 연동되는 카드 서비스를 MVP 개발 → Alpha Test → 출시까지 3개월 만에 만들고, 이후 3개월간 운영했습니다.
+- 🛠️ **레거시 개선** · 마이클 페더스의 「레거시 코드 활용 전략」대로 기존 동작을 테스트로 먼저 고정한 뒤, 10년 넘은 레거시 달력을 레거시 대비 오차 1px 미만으로 옮겼습니다.
+- 🤖 **AI 기반 개발** · Codex·Claude Code로 개발 Workflow를 체계화하고, Notion을 사람과 AI가 함께 관리하는 Second Brain으로 만들어 일합니다.
 
-<p>핀테크 스타트업에서 카드 서비스를 처음부터 만들어 출시했고,<br>지금은 10년 넘은 레거시를 고치며 팀의 반복 작업을 줄이고 있습니다.</p>
+📮 [rsy1225@naver.com](mailto:rsy1225@naver.com) · [LinkedIn](https://www.linkedin.com/in/passionryu/) · [Velog](https://velog.io/@rsy991225/posts)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>배포 시간 81% ↓</h3>
-      <sub>2h 25m → 28m · 서버 7대 수동 명령 49번 → 1번<br>Sweetbook</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>디자이너 작업 89% ↓</h3>
-      <sub>결과 확인 5s → 0.54s · 사내 편집 툴 개발<br>Sweetbook</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>카드 서비스 0 → 1</h3>
-      <sub>3개월 만에 출시 · 출시 전 사전 예약 35,000명<br>Bix Payments</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>결제 정합성 CS 0건</h3>
-      <sub>운영 3개월 · 원장 기준(SoT) + 멱등 처리<br>Bix Payments</sub>
-    </td>
-  </tr>
-</table>
-
-<a href="mailto:rsy1225@naver.com"><img src="https://img.shields.io/badge/Email-rsy1225%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/passionryu/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://velog.io/@rsy991225/posts"><img src="https://img.shields.io/badge/Velog-310_posts-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog 310 posts"></a> <a href="https://www.youtube.com/watch?v=Po1S4HBXo6w"><img src="https://img.shields.io/badge/BehindCon-Talk-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="BehindCon Talk"></a>
-
-</div>
+---
 
 ### 🏢 Sweetbook Co., Ltd. <sub>Product Engineer (풀스택) · 2026.08 ~</sub>
 
