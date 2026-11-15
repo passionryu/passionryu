@@ -1,5 +1,18 @@
 # 류성열 <sub>Product Engineer</sub>
 
+안녕하세요<br>
+POD E-commerce 서비스 회사에서 Creative Tool 파트를 개발하는 Product Engineer(C#/.NET) 류성열입니다.
+
+Claude 기반의 AI-Native를 지향하는 팀에서, '해결할 문제'와 'AI 산출물 검증'에 집중합니다.<br>
+Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board를 기반으로 여러 티켓을 병렬 오케스트레이션하고 2차 QA 프로세스(AI E2E QA -> Human QA)를 적용하여 작업의 속도와 품질을 보장합니다.
+
+과거 컴퓨터 공학을 전공하며, 다음 경험을 통해 Back-End 중심의 개발 역량을 쌓았습니다.
+- AI 서비스 개발 학과 프로젝트를 9개월간 TL 역할 수행
+- 교내 웹/앱 개발 동아리 백엔드 개발 팀장 직무 1년간 수행
+
+졸업 후, 3개월간 백엔드 단기 심화 부트캠프를 통해 심화 지식·경험을 습득한 후,<br>
+핀테크 스타트업 모바일 금융 서비스 개발팀에서 백엔드 개발자(Kotlin·Spring Boot)로 합류하여 MVP 개발(카드 서비스) -> Alpha Test(그룹사 임직원 70명 대상) -> 런칭 및 운영한 업무 경험을 보유하고 있습니다.
+
 <details>
 <summary><b>🏢 Sweetbook Co., Ltd.</b> · Product Engineer (풀스택) · 2026.08 ~</summary>
 <br>
