@@ -1,16 +1,13 @@
 # 류성열 <sub>Product Engineer</sub>
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,java,spring,redis,docker,aws,gcp,githubactions&perline=10" alt="C# · .NET · Kotlin · Java · Spring Boot · Redis · Docker · AWS · GCP · GitHub Actions" height="40">
+
 안녕하세요, POD E-commerce 서비스 회사에서 Creative Tool 파트를 개발하는 <b>Product Engineer(C#/.NET) 류성열</b>입니다.
 
 Claude 기반의 AI-Native를 지향하는 팀에서, 새 AI 기술을 도전·공유하며 <b>팀 AI 전환(AX)</b>에 기여합니다.<br>
 Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board를 기반으로 <b>여러 티켓을 병렬 오케스트레이션</b>하고 <b>2차 QA 프로세스(AI E2E QA → Human QA)</b>를 적용하여 작업의 속도와 품질을 보장합니다.
 
-과거 컴퓨터 공학을 전공하며, 다음 경험을 통해 Back-End 중심의 개발 역량을 쌓았습니다.
-- AI 서비스 개발 학과 프로젝트를 <b>9개월간 TL</b> 역할 수행
-- 교내 웹/앱 개발 동아리 <b>백엔드 개발 팀장</b> 직무 1년간 수행
-
-졸업 후, 3개월간 백엔드 단기 심화 부트캠프를 통해 심화 지식·경험을 습득했습니다.<br>
-이후, 핀테크 스타트업 모바일 금융 서비스 개발팀에서 <b>백엔드 개발자(Kotlin·Spring Boot)</b>로 합류하여 <b>MVP 개발(카드 서비스) → Alpha Test(그룹사 임직원 70명 대상) → 런칭 및 운영</b>한 업무 경험을 보유하며 회사의 핀테크 비즈니스를 수평 확장하고, 선불 사업자 라이선스 취득 조건을 충족하는 데 기여했습니다.
+이전에는 핀테크 스타트업 모바일 금융 서비스 개발팀에서 <b>백엔드 개발자(Kotlin·Spring Boot)</b>로 합류하여 <b>MVP 개발(카드 서비스) → Alpha Test(그룹사 임직원 70명 대상) → 런칭 및 운영</b>한 업무 경험을 보유하며 회사의 핀테크 비즈니스를 수평 확장하고, 선불 사업자 라이선스 취득 조건을 충족하는 데 기여했습니다.
 
 ---
 
@@ -59,5 +56,3 @@ Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board�
 - **BehindCon 초청 발표** · 명지대 학생들이 주최한 컨퍼런스에서 ["AI를 쓰지 않으면 뒤처지고, AI만 의존하면 대체된다"](https://www.youtube.com/watch?v=Po1S4HBXo6w)를 주제로 발표했습니다(2026.07).
 
 </details>
-
-<kbd>C# · .NET</kbd> <kbd>Kotlin</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>SQL Server</kbd> <kbd>MariaDB</kbd> <kbd>Redis</kbd> <kbd>Docker</kbd> <kbd>AWS · GCP</kbd> <kbd>Claude Code · Codex</kbd>
