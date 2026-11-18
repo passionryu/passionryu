@@ -2,7 +2,7 @@
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,java,spring,redis,docker,aws,gcp,githubactions&perline=10" alt="C# · .NET · Kotlin · Java · Spring Boot · Redis · Docker · AWS · GCP · GitHub Actions" height="40">
 
-안녕하세요, POD E-commerce 서비스 회사에서 Creative Tool 파트를 개발하는 <b>Product Engineer(C#/.NET) 류성열</b>입니다.
+안녕하세요, POD E-commerce 서비스 회사에서 Creative Tool 파트(포토 편집)를 개발하는 <b>Product Engineer(C#/.NET) 류성열</b>입니다.
 
 Claude 기반의 AI-Native를 지향하는 팀에서, 새 AI 기술을 도전·공유하며 <b>팀 AI 전환(AX)</b>에 기여합니다.<br>
 Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board를 기반으로 <b>여러 티켓을 병렬 오케스트레이션</b>하고 <b>2차 QA 프로세스(AI E2E QA → Human QA)</b>를 적용하여 작업의 속도와 품질을 보장합니다.
