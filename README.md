@@ -22,14 +22,12 @@ Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board�
 
 <a href="https://www.sweetbook.com/"><img src="https://img.shields.io/badge/Website-sweetbook.com-414141?style=flat-square&logo=googlechrome&logoColor=white" alt="스위트북 웹사이트"></a>
 
-**[달력 PNG 생성 Creative Tool 레거시 개선]**
-- 중요 로직을 Code-Driven에서 SSOT 개념을 적용한 Data-Driven 구조로 전환하여 불필요한 Build&Deploy를 제거했습니다. 레거시 PNG 대비 간격 오차를 1px 미만으로 유지하며 마이그레이션을 완료(총 336건의 PNG)했습니다.
-
-**[사내 디자인팀 지원 툴 개발]**
-- 디자이너가 파일을 일일이 찾아 JSON을 수정하고 결과물을 폴더에서 확인하던 작업을, 수정·미리보기·저장을 한 화면에서 처리하는 One Page Product(C# WPF)로 바꿨습니다. 기존 그리기 엔진을 화면 안에서 바로 호출하도록 해 결과 확인 시간을 5초에서 0.54초로 89% 단축했습니다.
-
-**[PowerShell, WinRM을 통한 달력 PNG 배포 자동화]**
-- 7대의 샤딩 서버에 원격 접속해 명령 49번을 반복하던 수동 배포를 명령 1번으로 자동화해, 배포 시간을 2시간 25분에서 28분으로 81% 줄였습니다. 권한 관리·인수인계 비용 같은 현실 제약 안에서 바로 적용하고 추후 개선할 수 있는 방안을 골라 빠르게 구현·적용했습니다.
+<table>
+  <tr><th align="left" width="24%">주요 업무</th><th align="left">업무 설명</th></tr>
+  <tr><td><b>달력 PNG 생성<br>Creative Tool<br>레거시 개선</b></td><td>중요 로직을 Code-Driven에서 SSOT 개념을 적용한 Data-Driven 구조로 전환하여 불필요한 Build&Deploy를 제거했습니다. 레거시 PNG 대비 간격 오차를 1px 미만으로 유지하며 마이그레이션을 완료(총 336건의 PNG)했습니다.</td></tr>
+  <tr><td><b>사내 디자인팀<br>지원 툴 개발</b></td><td>디자이너가 파일을 일일이 찾아 JSON을 수정하고 결과물을 폴더에서 확인하던 작업을, 수정·미리보기·저장을 한 화면에서 처리하는 One Page Product(C# WPF)로 바꿨습니다. 기존 그리기 엔진을 화면 안에서 바로 호출하도록 해 결과 확인 시간을 5초에서 0.54초로 89% 단축했습니다.</td></tr>
+  <tr><td><b>PowerShell, WinRM을<br>통한 달력 PNG<br>배포 자동화</b></td><td>7대의 샤딩 서버에 원격 접속해 명령 49번을 반복하던 수동 배포를 명령 1번으로 자동화해, 배포 시간을 2시간 25분에서 28분으로 81% 줄였습니다. 권한 관리·인수인계 비용 같은 현실 제약 안에서 바로 적용하고 추후 개선할 수 있는 방안을 골라 빠르게 구현·적용했습니다.</td></tr>
+</table>
 
 </details>
 
@@ -41,20 +39,14 @@ Notion을 통해 Second Brain을 구축한 후, Agent를 연동한 Kanban Board�
 
 <a href="https://play.google.com/store/apps/details?id=bz.bix.biscuit"><img src="https://img.shields.io/badge/Google_Play-Biscuit_Card-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"></a> <a href="https://apps.apple.com/kr/app/biscuit-card/id6758941646"><img src="https://img.shields.io/badge/App_Store-Biscuit_Card-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"></a>
 
-**[카드 결제]**
-- 협력사의 결제 통보가 중복·지연·누락될 수 있어 카드 잔액이 어긋나는 문제가 있었습니다. 멱등성을 적용하고 협력사 원장을 원천 데이터(SoT)로 정의해, 3개월 운영 동안 정합성 관련 CS 0건을 유지했습니다.
-
-**[결제 장애 대응]**
-- 협력사의 예고 없는 API 변경으로 카드 결제 장애가 발생했을 때, 모니터링과 약식 E2E 테스트로 상황을 확인하고 긴급 대응해 1시간 안에 결제를 정상화했습니다. 이후 양쪽 DB를 대사해 누락된 결제 15건을 모두 복구했고, 협력사 개발팀과 함께 자동 대응 시스템을 구축했습니다.
-
-**[포인트 충전]**
-- 정산금 차감과 포인트 충전이 서로 다른 시스템에서 일어나는 분산 트랜잭션 환경이라, 한쪽만 반영되는 부분 성공·실패 문제가 있었습니다. 정산 시스템 개발자와 함께 TCC 패턴과 보상 트랜잭션을 적용해 부분 성공·실패를 방지했습니다.
-
-**[개발 환경 개선]**
-- 연동 대상 환경을 바꿀 때마다 설정을 고치고 재배포해야 해서 테스트 환경 세팅에 10분이 걸렸습니다. DB 기반 Endpoint 동적 라우팅 구조로 외부 연동 대상을 런타임에 바꿀 수 있게 해 세팅 시간을 10초로 단축했습니다.
-
-**[포인트 충전 UX 개선]**
-- 충전할 때마다 외부 결제창을 거쳐야 해서 클릭이 10회 필요했습니다. 간편 결제 기능을 연동해 충전에 필요한 클릭 수를 4회로 줄였습니다.
+<table>
+  <tr><th align="left" width="24%">주요 업무</th><th align="left">업무 설명</th></tr>
+  <tr><td><b>카드 결제</b></td><td>협력사의 결제 통보가 중복·지연·누락될 수 있어 카드 잔액이 어긋나는 문제가 있었습니다. 멱등성을 적용하고 협력사 원장을 원천 데이터(SoT)로 정의해, 3개월 운영 동안 정합성 관련 CS 0건을 유지했습니다.</td></tr>
+  <tr><td><b>결제 장애 대응</b></td><td>협력사의 예고 없는 API 변경으로 카드 결제 장애가 발생했을 때, 모니터링과 약식 E2E 테스트로 상황을 확인하고 긴급 대응해 1시간 안에 결제를 정상화했습니다. 이후 양쪽 DB를 대사해 누락된 결제 15건을 모두 복구했고, 협력사 개발팀과 함께 자동 대응 시스템을 구축했습니다.</td></tr>
+  <tr><td><b>포인트 충전</b></td><td>정산금 차감과 포인트 충전이 서로 다른 시스템에서 일어나는 분산 트랜잭션 환경이라, 한쪽만 반영되는 부분 성공·실패 문제가 있었습니다. 정산 시스템 개발자와 함께 TCC 패턴과 보상 트랜잭션을 적용해 부분 성공·실패를 방지했습니다.</td></tr>
+  <tr><td><b>개발 환경 개선</b></td><td>연동 대상 환경을 바꿀 때마다 설정을 고치고 재배포해야 해서 테스트 환경 세팅에 10분이 걸렸습니다. DB 기반 Endpoint 동적 라우팅 구조로 외부 연동 대상을 런타임에 바꿀 수 있게 해 세팅 시간을 10초로 단축했습니다.</td></tr>
+  <tr><td><b>포인트 충전<br>UX 개선</b></td><td>충전할 때마다 외부 결제창을 거쳐야 해서 클릭이 10회 필요했습니다. 간편 결제 기능을 연동해 충전에 필요한 클릭 수를 4회로 줄였습니다.</td></tr>
+</table>
 
 </details>
 
